@@ -89,14 +89,14 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 *(Do these day 1 then day 2. Covering your full needs, perfect for ANY game)*	
 
-- **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank 
+- **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
 - **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard		
 
 ## > **(LONG C.U.P)**
 *(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
 
 **Longer Variants**
-- **4BK - Regen N' React**	KovaaKsDinkingCeruleanFaction
+- **4BK - Regen N' React**	KovaaKsDinkingCeruleanFaction [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
 - **4BK - Static n' Reaction Time**	KovaaKsClippingBurntsiennaGoat	
 - **4BK - Precision n' Regen**	KovaaKsDroppingCharcoalgrayTank		
 - **4BK - Smooth is Fast (For Undertracking HIHGLY RECOMMENDED)**	KovaaKsDashingCanaryWeaponlevel		
@@ -210,7 +210,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 
 ## > **NICHE**
 
-**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick 
+**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [Explanation](https://www.youtube.com/watch?v=FmhI6qFxwiU)
 
 *(USE LOW FOV, can help some people's tracking problems)*
 
