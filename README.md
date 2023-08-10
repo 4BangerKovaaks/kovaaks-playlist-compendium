@@ -19,7 +19,7 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 *(1h instead of 1.5h)*
 
-**Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)
+**Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
 
 *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
 
