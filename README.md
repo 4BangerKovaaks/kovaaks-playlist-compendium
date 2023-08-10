@@ -328,8 +328,6 @@ RSR - KovaaKsPerfectingPrismaticGasmask
 
 4BK - Customize Your Playlist CUP Method - [Link](https://www.youtube.com/watch?v=isnBWHdp_-w)
 
-4BK - CUP 2 - [Link](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
-
 ## **> I Am A Beginner**
 
 4BK - Static - KovaaKsSneakingFuchsiaImpact
@@ -345,7 +343,7 @@ Hauntr easy - KovaaKsSneakingDesertsandMain
 ## **Game Specific Routines**
 
 
-**> ALL GAMES / MOUSE CONTROL**
+## ** > ALL GAMES / MOUSE CONTROL**
 
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
 
