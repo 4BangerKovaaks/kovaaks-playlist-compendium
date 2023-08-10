@@ -154,11 +154,17 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 **HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://www.youtube.com/watch?v=wcPNdU0qsiI&t)
 
 **Static:** KovaaKsSneakingFuchsiaImpact
+
 **Targetswitching:** KovaaKsStrafingGhostpeekedRando
+
 **Smoothness:** KovaaKsTaggingGoldenochreAfk
+
 **Reactive:** KovaaKsTeleportingGoldenochrePlunder
+
 **Evasive TS:** KovaaKsSwitchingGodlikeClutch
+
 **(Speed Static):** KovaaKsStartingGhostpeekedBait
+
 
 ## **NICHE**
 
