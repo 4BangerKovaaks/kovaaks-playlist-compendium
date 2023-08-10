@@ -36,7 +36,7 @@ For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginne
 (3-4)🥇
 - [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
-- (4) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
+- (3-4) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
 
 *(Very difficult reactive, good for people who leave their crosshairs behind)*
 
