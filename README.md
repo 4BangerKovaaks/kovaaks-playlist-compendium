@@ -246,9 +246,9 @@ Advanced Apex Legends
 
 Goated Scens
 
-### **COMMON STRUGGLES**
+## > **COMMON STRUGGLES**
 
-**> I Struggle With Reacting To Targets / Losing Track Of Target**
+## ** > I Struggle With Reacting To Targets / Losing Track Of Target**
 
 Trippez Gotta Go Fast (Hard) - KovaaKsGriefingGearedController
 
@@ -264,7 +264,7 @@ Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile
 
 MiYu - KovaaKsCampingCeruleanEngine
 
-**> I Struggle with Shaky Aim**
+## **> I Struggle with Shaky Aim**
 
 Trippez Smooth Regen - KovaaKsStartingMaroonGear
 
@@ -272,7 +272,7 @@ Trippez Smooth Regen - KovaaKsStartingMaroonGear
 
 Smoothness God - KovaaKsStartingMaroonGear
 
-**> I Struggle Smoothly Tracking Strafing Targets**
+## **> I Struggle Smoothly Tracking Strafing Targets**
 
 Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy
 
@@ -280,11 +280,11 @@ Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy
 
 Hauntr Hard - KovaaKsSnipingDiagonalEgg
 
-**> I Lack Speed In My Flicks**
+## **> I Lack Speed In My Flicks**
 
 F.A.R Day 4 & 5
 
-**> I Lack Accuracy In My Flicks**
+## **> I Lack Accuracy In My Flicks**
 
 4BK - Static God - KovaaKsAcingBrightTank
 
@@ -296,13 +296,13 @@ Kek 1 - KovaaKsAscendingTealImpact
 
 Tragedy Static God - KovaaKsBlinkingSneakyQuaker
 
-**> I Struggle With Movement In Game**
+## **> I Struggle With Movement In Game**
 
 4BK - FMS KovaaKsNamedroppingJebaitedNightfall
 
 RSR - KovaaKsPerfectingPrismaticGasmask
 
-**> I Don't Know What To Play?**
+## **> I Don't Know What To Play?**
 
 4BK - Benchmarks - [Link](https://www.youtube.com/watch?v=tq6sBs3mXUY&t)
 
@@ -312,13 +312,13 @@ RSR - KovaaKsPerfectingPrismaticGasmask
 
 4BK - Anal Beads - KovaaKsDroppingBrightBot
 
-**(Good for niche issues)**
+## **(Good for niche issues)**
 
 4BK - Customize Your Playlist CUP Method - [Link](https://www.youtube.com/watch?v=isnBWHdp_-w)
 
 4BK - CUP 2 - [Link](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
 
-**> I Am A Beginner**
+## **> I Am A Beginner**
 
 4BK - Static - KovaaKsSneakingFuchsiaImpact
 
@@ -340,7 +340,7 @@ Hauntr easy - KovaaKsSneakingDesertsandMain
 
 4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel
 
-**> Valorant / CSGO**
+## **> Valorant / CSGO**
 
 4BK - Static God - KovaaKsAcingBrightTank
 
@@ -356,7 +356,7 @@ Kek 1 - KovaaKsAscendingTealImpact
 
 B00ns Valorant (Reflex and realistic val scenarios): KovaaKsBunnyhoppingBrightTile
 
-**> Apex & OW2**
+## **> Apex & OW2**
 
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
 
@@ -380,7 +380,7 @@ PureG Apex (short) - KovaaKsPatrollingFuchsiaIntelligence
 
 4BK - Advanced Fundamenetals (Aimbeast)
 
-**> COD / BF**
+## **> COD / BF**
 
 4BK - Goated - KovaaKsGlidingRangedBloom
 
