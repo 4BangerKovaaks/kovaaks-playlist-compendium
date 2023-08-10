@@ -375,11 +375,17 @@ B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrigh
 
 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard
 
-Trippez Smooth React 1 TO 4 - KovaaKsQuestingSepiaProjectile
+Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile
 
-4BK - FMS KovaaKsNamedroppingJebaitedNightfall
+Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest
 
-RSR - KovaaKsPerfectingPrismaticGasmask
+Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur
+
+Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
+
+4BK - FMS (Fundamentals with some movement) KovaaKsNamedroppingJebaitedNightfall
+
+RSR (Full Movement) - KovaaKsPerfectingPrismaticGasmask
 
 MBM Tracking (Thin Reactive + movement) - KovaaKsPlunderingBlueValue
 
