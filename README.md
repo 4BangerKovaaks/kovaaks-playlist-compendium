@@ -2,37 +2,63 @@
 
 ## > ALL  4BK's Routines
 
-**4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
+**4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** 
 
-**4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** *(1h instead of 1.5h)*
+*(Apex Recommended, Full playlist, focused on Reactive Strafes)*
 
-**Goated** - **KovaaKsGlidingRangedBloom** *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
+**4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** 
 
-**Goated 2** - **KovaaKsSensingFraggedShard** *(Same shit but less clicking)*
+*(1h instead of 1.5h)*
 
-**Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
+**Goated** - **KovaaKsGlidingRangedBloom** 
+
+*(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
+
+**Goated 2** - **KovaaKsSensingFraggedShard** 
+
+*(Same shit but less clicking)*
+
+**Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** 
+
+*(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
 
 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
-**4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** *(Very difficult reactive, good for people who leave their crosshairs behind)*
+**4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
 
-**4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** *(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
+*(Very difficult reactive, good for people who leave their crosshairs behind)*
+
+**4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** 
+
+*(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
 
 ## > **Tracking**
 
 - **4BK - DODGE THESE NUTS (Movement Playlist)**	KovaaKsNamedroppingJebaitedNightfall		
-- **4BK - Smooth Regen**	KovaaKsCounterstrafingSaltyModifier	*(The bots regenerate health if you take your crosshair off them)*	
-- **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	*(Difficult THIN tracking, paired with easier scenarios)*	
-- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration	*(Very Difficult Reactive, good for people who leave their crosshairs behind)*
+- **4BK - Smooth Regen**	KovaaKsCounterstrafingSaltyModifier	
+
+*(The bots regenerate health if you take your crosshair off them)*	
+- **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	
+
+*(Difficult THIN tracking, paired with easier scenarios)*	
+- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration	
+
+*(Very Difficult Reactive, good for people who leave their crosshairs behind)*
 
 ## > **Clicking**
 
-- **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	*(Hold down M1 when focusing on pokeball and do 4BClick Method)*	
-- **4BK - Static**	KovaaKsSneakingFuchsiaImpact	*(Very solid fundamental static scenario)*
+- **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	
+
+*(Hold down M1 when focusing on pokeball and do 4BClick Method)*	
+- **4BK - Static**	KovaaKsSneakingFuchsiaImpact	
+
+*(Very solid fundamental static scenario)*
 
 ## > **Compilations**
 
-- **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank	*(Do these day 1 then day 2. Covering your full needs, perfect for ANY game)*	
+*(Do these day 1 then day 2. Covering your full needs, perfect for ANY game)*	
+
+- **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank 
 - **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard		
 
 ## > **(LONG C.U.P)**
@@ -98,7 +124,7 @@
 
 ### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)
 
-Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists. Nothing done by me or others beat them imo.
+Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists.
 
 Day 1 Flicking + Mousecontrol : **KovaaKsPushingVioletXur**
 
@@ -151,14 +177,20 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 
 ## > **NICHE**
 
-**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick *(USE LOW FOV, can help some people's tracking problems)*
+**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick 
 
-**4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas *(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
+*(USE LOW FOV, can help some people's tracking problems)*
+
+**4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas 
+
+*(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
 
 
 ## > **AimBeast**
 
-**4BK - Advanced Fundamentals:** *(Harder tracking combined with static, a touch of dynamic and targetswitching)*
+**4BK - Advanced Fundamentals:** 
+
+*(Harder tracking combined with static, a touch of dynamic and targetswitching)*
 
 
 ## **Recommended Playlists & Their Seperate Fields**
@@ -169,7 +201,7 @@ Truste daily - KovaaKsBombingWide1v1
 
 Static God - KovaaKsBlinkingSneakyQuaker
 
-RX Static compliation(play on random) - KovaaKsCheatingDynamicIdentity
+RX Static compliation(Play On Random ) - KovaaKsCheatingDynamicIdentity
 
 ### **> Smoothness**
 
@@ -185,7 +217,9 @@ Trippez Smooth Reactive 1 - KovaaKsQuestingSepiaProjectile
 
 Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest
 
-**4BK - Smooth Is Fast:** KovaaKsDashingCanaryWeaponlevel (Mainly for Undertracking)
+**4BK - Smooth Is Fast:** KovaaKsDashingCanaryWeaponlevel 
+
+(Mainly for Undertracking)
 
 ### **> Reactive**
 
@@ -207,7 +241,9 @@ Krasci 1o1 - KovaaKsPoppingBoxedMouse
 
 Hauntr Hard - KovaaKsSneakingDesertsandMain
 
-Krasci FuglaaXYZ - KovaaKsPeakingTwitchyAds (good for microadjusting during tracking)
+Krasci FuglaaXYZ - KovaaKsPeakingTwitchyAds 
+
+(Good for Micro Adjusting During Tracking)
 
 ### **> TargetSwitching (Speed)**
 
@@ -267,7 +303,7 @@ Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
 
 4BK - Anal Beads - KovaaKsDroppingBrightBot
 
-MiYu Benchmarks (Strangely Good For Tracking) - KovaaKsCampingCeruleanEngine
+MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine
 
 ## **> I Struggle with Shaky Aim**
 
