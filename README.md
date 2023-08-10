@@ -56,9 +56,9 @@
 
 - **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	
 
-- **4BK - Static**	KovaaKsSneakingFuchsiaImpact	
-
 *(Very solid fundamental static scenario)*
+
+- **4BK - Static**	KovaaKsSneakingFuchsiaImpact	
 
 ## > **Compilations**
 
