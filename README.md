@@ -5,37 +5,23 @@
 
 ---
 
-## ALL 4BK'S Routines
+## ALL  4BK's Routines
 
-**4BK - FUNDAMENTALS (ANAL BEADS 1$)**
+**4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
 
-- **KovaaKsDroppingBrightBot** *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
+**4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** *(1h instead of 1.5h)*
 
-**4BK - Anal Beads Shortened**
+**Goated** - **KovaaKsGlidingRangedBloom** *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
 
-- **KovaaKsScreamingRandomRhombus** *(1h instead of 1.5h)*
+**Goated 2** - **KovaaKsSensingFraggedShard** *(Same shit but less clicking)*
 
-**Goated**
-
-- **KovaaKsGlidingRangedBloom** *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
-
-**Goated 2**
-
-- **KovaaKsSensingFraggedShard** *(Same shit but less clicking)*
-
-**Valorant / CSGO Playlist**
-
-- **KovaaKsRevolvingBuffedSentinel** *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
+**Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
 
 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
-**4BK x Trippez Gotta Go Fast 1**
+**4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** *(Very difficult reactive, good for people who leave their crosshairs behind)*
 
-- **KovaaKsClickingSpringgreenReset** *(Very difficult reactive, good for people who leave their crosshairs behind)*
-
-**4BK - FMS**
-
-- **KovaaKsNamedroppingJebaitedNightfall** *(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
+**4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** *(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
 
 ## **Tracking**
 
