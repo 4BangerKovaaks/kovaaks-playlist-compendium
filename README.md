@@ -176,6 +176,8 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 **4BK - Advanced Fundamentals:** *(Harder tracking combined with static, a touch of dynamic and targetswitching)*
 
 
+## **Recommended Playlists & Their Seperate Fields**
+
 ### **> Static**
 
 Truste daily - KovaaKsBombingWide1v1
