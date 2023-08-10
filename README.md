@@ -5,7 +5,7 @@
 
 ---
 
-## ALL  4BK's Routines
+## > ALL  4BK's Routines
 
 **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
 
@@ -23,33 +23,37 @@
 
 **4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** *(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
 
-## **Tracking**
+## > **Tracking**
 
 - **4BK - DODGE THESE NUTS (Movement Playlist)**	KovaaKsNamedroppingJebaitedNightfall		
 - **4BK - Smooth Regen**	KovaaKsCounterstrafingSaltyModifier	*(The bots regenerate health if you take your crosshair off them)*	
 - **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	*(Difficult THIN tracking, paired with easier scenarios)*	
 - **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration	*(Very Difficult Reactive, good for people who leave their crosshairs behind)*
 
-## **Clicking**
+## > **Clicking**
 
 - **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	*(Hold down M1 when focusing on pokeball and do 4BClick Method)*	
 - **4BK - Static**	KovaaKsSneakingFuchsiaImpact	*(Very solid fundamental static scenario)*
 
-## **Compilations**
+## > **Compilations**
 
 - **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank	*(Do these day 1 then day 2. Covering your full needs, perfect for ANY game)*	
 - **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard		
 
-## **(ALL NEWLY REVAMPED)**
+## > **(ALL NEWLY REVAMPED)**
+*(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
 
-- **4BK - Regen N' React**	KovaaKsDinkingCeruleanFaction	*(C.U.P) are mini playlists that you play in combination with each other*
-- **4BK - Static n' Reaction Time**	KovaaKsClippingBurntsiennaGoat	*(Apex players, might do 15min Precision and + 15 min short static etc)*	
-- **4BK - Precision n' Regen**	KovaaKsDroppingCharcoalgrayTank	*(CUSTOMIZE YOUR OWN PLAYLIST C.U.P)*	
-- **4BK - Smooth is Fast (For Undertracking)**	KovaaKsDashingCanaryWeaponlevel		
-- **4BK - Recoil Smoothing (recoil scenarios)**	KovaaKsChokingBuggedDeserteagle		
-- **4BK - Shorty Pants (short scenarios)**	KovaaKsDeathballingCapturedNightfall		
+**Longer Variants**
+- **4BK - Regen N' React**	KovaaKsDinkingCeruleanFaction
+- **4BK - Static n' Reaction Time**	KovaaKsClippingBurntsiennaGoat	
+- **4BK - Precision n' Regen**	KovaaKsDroppingCharcoalgrayTank		
+- **4BK - Smooth is Fast (For Undertracking HIHGLY RECOMMENDED)**	KovaaKsDashingCanaryWeaponlevel		
+- **4BK - Recoil Smoothing (Recoil Scenarios Great For Tracking)**	KovaaKsChokingBuggedDeserteagle		
+- **4BK - Shorty Pants (Short 20-30 second long scenarios)**	KovaaKsDeathballingCapturedNightfall		
 
-## **CUSTOMIZE YOUR OWN PLAYLIST (Mini Compendium of playlists) (ALL NEWLY REVAMPED)**
+ ## > **CUSTOMIZE YOUR OWN PLAYLIST (Mini Compendium of playlists) (ALL NEWLY REVAMPED)**
+
+**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://youtu.be/m-23jo8QyKA)
 
 *Accuraccy + Flicking* - **KovaaKsRocketingJebaitedGhostpeeker**
 
