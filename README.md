@@ -46,7 +46,7 @@
 
 - **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	
 
-*(Very Difficult Reactive, good for people who leave their crosshairs behind)*
+*(Very Difficult Reactive. Good for intermediate people who leave their crosshairs behind)*
 
 - **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration
 
