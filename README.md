@@ -34,17 +34,21 @@
 
 ## > **Tracking**
 
-- **4BK - DODGE THESE NUTS (Movement Playlist)**	KovaaKsNamedroppingJebaitedNightfall
+(Movement Playlist)
+
+- **4BK - DODGE THESE NUTS **	KovaaKsNamedroppingJebaitedNightfall
+
+*(The bots regenerate health if you take your crosshair off them)*	
 
 - **4BK - Smooth Regen**	KovaaKsCounterstrafingSaltyModifier	
 
-*(The bots regenerate health if you take your crosshair off them)*	
+*(Difficult THIN tracking, paired with easier scenarios)*	
+
 - **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	
 
-*(Difficult THIN tracking, paired with easier scenarios)*	
-- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration	
-
 *(Very Difficult Reactive, good for people who leave their crosshairs behind)*
+
+- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration	
 
 ## > **Clicking**
 
