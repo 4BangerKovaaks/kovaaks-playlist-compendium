@@ -401,6 +401,8 @@ Check out my [EASY F.A.R Routines](https://youtu.be/63_7mcF8acs)
 
 Hauntr easy - KovaaKsSneakingDesertsandMain
 
+Undertracking Heaven v2 - KovaaKsWipingDefaultTag
+
 (Watch) - [Link](https://www.youtube.com/watch?v=B-ihBpoX41E&list=PLzG7nj0wTAQtkWyel83eseltjFQGhar2f)
 
 (FAQ - Read) - [Link](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit)
