@@ -117,35 +117,41 @@
 
 Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists. Nothing done by me or others beat them imo.
 
-**Day 1: KovaaKsPushingVioletXur**
-**Day 2: KovaaKsQuestingViscousOfftank**
-**Day 3: KovaaKsReloadingWeeklyCapture**
-**Day 4: KovaaKsRevolvingWetMilestone**
-**Day 5: KovaaKsRocketingWideBuff**
-**Day 6: KovaaKsSensingYellowJump**
-**Day 7: KovaaKsStarting90Binding**
+Day 1 Flicking + Mousecontrol : **KovaaKsPushingVioletXur**
+
+Day 2 Reactive Strafes + Static : **KovaaKsQuestingViscousOfftank**
+
+Day 3 Precision Tracking + Speed TargetSwitching : **KovaaKsReloadingWeeklyCapture**
+
+Day 4 Movement Tracking + Accurate TargetSwitching** : **KovaaKsRevolvingWetMilestone**
+
+Day 5 Dynamic + Smooth Reactive** : **KovaaKsRocketingWideBuff**
+
+Day 6 Reflexes + Tracking Gauntles : **KovaaKsSensingYellowJump**
+
+Day 7 FULL : **KovaaKsStarting90Binding**
+
 
 ### **EASY VERSIONS**
 
-**Day 1: KovaaKsPushingVioletXur**
-**Day 2: KovaaKsRaidingVividtangerineFaq**
-**Day 3: KovaaKsResettingWeeklyTimewarp**
-**Day 4: KovaaKsRoamingWhiteEngram**
-**Day 5: KovaaKsScreamingWideSpeed**
-**Day 6: KovaaKsSneakingZonedDoor**
-**Day 7: KovaaKsStrafing90Rifle**
+**Day 1 Flicking + Mousecontrol:** *KovaaKsPushingVioletXur*
 
-**Day 1 Flicking + Mousecontrol**
-**Day 2 Reactive Strafes + Static**
-**Day 3 Precision Tracking + Speed TargetSwitching**
-**Day 4 Movement Tracking + Accurate TargetSwitching**
-**Day 5 Dynamic + Smooth Reactive**
-**Day 6 Reflexes + Tracking Gauntles**
-**Day 7 FULL**
+Day 2 Reactive Strafes + Static: **KovaaKsRaidingVividtangerineFaq**
+
+Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsResettingWeeklyTimewarp**
+
+Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRoamingWhiteEngram**
+
+Day 5 Dynamic + Smooth Reactive : **KovaaKsScreamingWideSpeed**
+
+Day 6 Reflexes + Tracking Gauntles : **KovaaKsSneakingZonedDoor**
+
+Day 7 FULL: **KovaaKsStrafing90Rifle**
+
 
 ## **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**
 
-**HOW TO PLAY FOUND HERE**
+**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://www.youtube.com/watch?v=wcPNdU0qsiI&t)
 
 **Static:** KovaaKsSneakingFuchsiaImpact
 **Targetswitching:** KovaaKsStrafingGhostpeekedRando
