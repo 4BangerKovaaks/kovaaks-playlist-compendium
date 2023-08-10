@@ -48,7 +48,9 @@
 
 *(Very Difficult Reactive, good for people who leave their crosshairs behind)*
 
-- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration	
+- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration
+
+- **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
 
 ## > **Clicking**
 
@@ -58,7 +60,9 @@
 
 *(Very solid fundamental static scenario)*
 
-- **4BK - Static**	KovaaKsSneakingFuchsiaImpact	
+- **4BK - Static**	KovaaKsSneakingFuchsiaImpact
+
+- **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
 
 ## > **Compilations**
 
