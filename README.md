@@ -50,6 +50,8 @@
 
 - **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration
 
+- **React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell
+
 - **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle
 
 - **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
