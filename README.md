@@ -1,5 +1,14 @@
 # <span style="font-size: larger;">4BangerKovaaks Updated Playlist Compendium & Common Issues </span> 
 
+
+All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easiest, 5 being hardest)
+
+
+
+
+
+
+
 ## > ALL  4BK's Routines
 
 **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** 
@@ -305,8 +314,6 @@ Goated Scens
 
 # > I Struggle With Reacting To Targets / Losing Track Of Target
 
-(Very Difficult Reactive)
-
 Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController
 
 Trippez Gotta Go Fast 2 – KovaaKsHeadshottingGhostpeekedAntidive
@@ -315,7 +322,7 @@ Trippez Gotta Go Fast 3 – KovaaKsHipfiringGhostpeekedPopcorn
 
 4BK: React As Much As Possible: KovaaKsVibratingMaroonInfiltration
 
-Shmn Track - KovaaKsBotting90Cinematic
+4BK: React (As much As You Can) 2: KovaaKsCamouflagingZonedHell
 
 Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile
 
@@ -328,6 +335,8 @@ Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
 4BK - Fire & Ice - KovaaKsWipingNastyAntieco
 
 4BK - Anal Beads - KovaaKsDroppingBrightBot
+
+Shmn Track - KovaaKsBotting90Cinematic
 
 MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine
 
