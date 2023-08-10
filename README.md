@@ -271,7 +271,13 @@ Trippez Speed TS: KovaaKsGriefingGearedController
 
 Gored speed - KovaaKsReloadingDinkedOptic
 
-### **> HNA Routines (TS)**
+Lapuv4 TargetSwitching - KovaaKsScreamingShinyCinematic
+
+4BK - Flick & Track: KovaaKsCapturing90Crossfire
+
+4BK - Speed Targetswitch (TS): KovaaKsCarrying180Arena
+
+**> HNA Routines (TS)**
 
 Kek 1 - KovaaKsAscendingTealImpact
 
@@ -362,6 +368,8 @@ Trippez Precision TS: KovaaKsFlankingCobaltChopper
 Kek 1 - KovaaKsAscendingTealImpact
 
 Tragedy Static God - KovaaKsBlinkingSneakyQuaker
+
+Trippez Precision TS: KovaaKsFlankingCobaltChopper
 
 ## **> I Struggle With Movement In Game**
 
