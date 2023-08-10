@@ -248,19 +248,31 @@ Goated Scens
 
 # > I Struggle With Reacting To Targets / Losing Track Of Target
 
-Trippez Gotta Go Fast (Hard) - KovaaKsGriefingGearedController
+(Very Difficult Reactive)
+
+Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController
+
+Trippez Gotta Go Fast 2 – KovaaKsHeadshottingGhostpeekedAntidive
+
+Trippez Gotta Go Fast 3 – KovaaKsHipfiringGhostpeekedPopcorn
+
+4BK: React As Much As Possible: KovaaKsVibratingMaroonInfiltration
 
 Shmn Track - KovaaKsBotting90Cinematic
 
-Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile
+Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile
 
-4BK - React As Much (Trippez inspired) - KovaaKsVibratingMaroonInfiltration
+Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest
+
+Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur
+
+Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
 
 4BK - Fire & Ice - KovaaKsWipingNastyAntieco
 
 4BK - Anal Beads - KovaaKsDroppingBrightBot
 
-MiYu - KovaaKsCampingCeruleanEngine
+MiYu Benchmarks (Strangely Good For Tracking) - KovaaKsCampingCeruleanEngine
 
 ## **> I Struggle with Shaky Aim**
 
@@ -280,7 +292,9 @@ Hauntr Hard - KovaaKsSnipingDiagonalEgg
 
 ## **> I Lack Speed In My Flicks**
 
-F.A.R Day 4 & 5
+F.A.R Day 4 & 5 [Watch Tutorial](https://youtu.be/63_7mcF8acs)
+
+Trippez Precision TS: KovaaKsFlankingCobaltChopper
 
 ## **> I Lack Accuracy In My Flicks**
 
@@ -310,7 +324,7 @@ RSR - KovaaKsPerfectingPrismaticGasmask
 
 4BK - Anal Beads - KovaaKsDroppingBrightBot
 
-## **(Good for niche issues)**
+## **Good for niche issues**
 
 4BK - Customize Your Playlist CUP Method - [Link](https://www.youtube.com/watch?v=isnBWHdp_-w)
 
@@ -328,7 +342,8 @@ Hauntr easy - KovaaKsSneakingDesertsandMain
 
 (Play) - Full Fundamental Playlists. We have them here!
 
-### **Game Specific Routines**
+## **Game Specific Routines**
+
 
 **> ALL GAMES / MOUSE CONTROL**
 
@@ -378,11 +393,11 @@ PureG Apex (short) - KovaaKsPatrollingFuchsiaIntelligence
 
 4BK - Advanced Fundamenetals (Aimbeast)
 
-## **> COD / BF**
+## **> COD & BF**
 
 4BK - Goated - KovaaKsGlidingRangedBloom
 
-Kek 1 - KovaaKsAscendingTealImpact
+HNA Kek 1 - KovaaKsAscendingTealImpact
 
 Shmn Track - KovaaKsBotting90Cinematic
 
