@@ -67,55 +67,49 @@
 
 ## **CUSTOMIZE YOUR OWN PLAYLIST (Mini Compendium of playlists) (ALL NEWLY REVAMPED)**
 
-- *Accuraccy + Flicking KovaaKsRocketingJebaitedGhostpeeker*
-- *Corrective Flicking KovaaKsScreamingJitteryClient*
-- *Dodge Complete KovaaKsSensingJumboAds*
-- *Fast Clicking KovaaKsSneakingJumboPick*
-- *Micro Adjusting KovaaKsSnipingJumpyFlashbang*
-- *Pokeball KovaaKsStartingJunglegreenChallenge*
-- *Precision Tracking KovaaKsStrafingJunglegreenWall*
-- *Pure Smoothness (anti shake) KovaaKsUltingMahoganyShotgun*
-- *React (as much as possible) KovaaKsVibratingMaroonInfiltration*
-- *Short Static KovaaKsTaggingLightvenetianredCallout*
-- *Speed Static + Pokeball KovaaKsTeleportingLightvenetianredTag*
-- *Strafes & Smoothness KovaaKsTimewarpingLongLurker*
-- *TargetClicking KovaaKsTrackingMagentaDunk*
+*Accuraccy + Flicking* - **KovaaKsRocketingJebaitedGhostpeeker**
 
-## **Corrective Snaps:**
+*Corrective Flicking* - **KovaaKsScreamingJitteryClient**
 
-- **KovaaKsAcingFlyClutch**
+*Dodge Complete* - **KovaaKsSensingJumboAds**
 
-## **Mini Dodge Track:**
+*Fast Clicking* - **KovaaKsSneakingJumboPick**
 
-- **KovaaKsGhostpeekingBrown90s**
+*Micro Adjusting* - **KovaaKsSnipingJumpyFlashbang**
 
-## **Reactive Strafes:**
+*Pokeball* - **KovaaKsStartingJunglegreenChallenge**
 
-- **KovaaKsGriefingBuffedFireteam**
+*Precision Tracking* - **KovaaKsStrafingJunglegreenWall**
 
-## **Smooth Reactive:**
+*Pure Smoothness (anti shake)* - **KovaaKsUltingMahoganyShotgun**
 
-- **KovaaKsHeadshottingBuggedCatalyst**
+*React (as much as possible)* - **KovaaKsVibratingMaroonInfiltration**
 
-## **Fundamental Warmup:**
+*Short Static* - **KovaaKsTaggingLightvenetianredCallout**
 
-- **KovaaKsHipfiringBuggedUlt**
+*Speed Static + Pokeball* - **KovaaKsTeleportingLightvenetianredTag**
 
-## **Apex Warmup:**
+*Strafes & Smoothness* - **KovaaKsTimewarpingLongLurker**
 
-- **KovaaKsImpactingBurntorangeMount**
+*TargetClicking* - **KovaaKsTrackingMagentaDunk**
 
-## **COD & BF Warmup:**
+*Corrective Snaps:* - **KovaaKsAcingFlyClutch**
 
-- **KovaaKsJigglepeekingBurntsiennaEquipment**
+*Mini Dodge Track:* - **KovaaKsGhostpeekingBrown90s**
 
-## **Overwatch 2 Warmup:**
+*Reactive Strafes:* - **KovaaKsGriefingBuffedFireteam**
 
-- **KovaaKsKillstreakingButterySuper**
+*Smooth Reactive:* - **KovaaKsHeadshottingBuggedCatalyst**
 
-## **Valorant & CSGO Warmup:**
+*Fundamental Warmup:* - **KovaaKsHipfiringBuggedUlt**
 
-- **KovaaKsMainingCamouflagedDrop**
+*Apex Warmup:* - **KovaaKsImpactingBurntorangeMount**
+
+*COD & BF Warmup:* - **KovaaKsJigglepeekingBurntsiennaEquipment**
+
+*Overwatch 2 Warmup:* - **KovaaKsKillstreakingButterySuper**
+
+*Valorant & CSGO Warmup:* - **KovaaKsMainingCamouflagedDrop**
 
 ## **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**
 
