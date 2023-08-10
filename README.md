@@ -1,7 +1,9 @@
 # <span style="font-size: larger;">4BangerKovaaks Updated Playlist Compendium & Common Issues </span> 
 
 
-All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easiest, 5 being hardest)
+All Routines will have a difficulty scale from 1-5 (Some missing), 1 being easiest, 5 being hardest) 
+
+For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginner, 3 Intermediate, 4, Advanced, 5 very difficult)
 
 
 
@@ -11,37 +13,38 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 ## > ALL  4BK's Routines
 
-**4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
+(3) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
 
-**4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
+(3) **4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 *(1h instead of 1.5h)*
 
-**Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
+(2-3) **Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
 
 *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
 
-**Goated 2** - **KovaaKsSensingFraggedShard** 
+(2) **Goated 2** - **KovaaKsSensingFraggedShard** 
 
 *(Same shit but less clicking)*
 
-**Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)
+(2-3) **Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)
 
 *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
 
+(3-4)🥇
 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
-**4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
+(4) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
 
 *(Very difficult reactive, good for people who leave their crosshairs behind)*
 
-**4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** 
+(3) **4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** 
 
 *(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
 
-**4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas 
+(3) **4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas 
 
 *(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
 
@@ -393,6 +396,7 @@ RSR - KovaaKsPerfectingPrismaticGasmask
 ## **> I Don't Know What To Play?**
 
 **(NOTE DO NOT PLACE ALL 1247 PLAYLISTS INTO YOUR KOVAAKS FOLDER, PICK AND CHOOSE OTHERWISE YOUR KOVAAK'S WILL LAG)**
+
 1247 Playlists - *(Manual Download, place in D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists)*: https://www.mediafire.com/file/47z4rk3ie4mreeo/1247Playlists.zip/file
 
 4BK - Benchmarks - [Link](https://www.youtube.com/watch?v=tq6sBs3mXUY&t)
@@ -450,6 +454,10 @@ Kek 1 - KovaaKsAscendingTealImpact
 4BK - VAL/CS: KovaaKsRevolvingBuffedSentinel
 
 B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrightTile
+
+Viz x 4BK - Clicking Heads: KovaaKsPoppingVioletBunnyhop
+
+Viz Clicking Heads: KovaaKsCheatingDenimPick
 
 ## **> Apex & OW2**
 
