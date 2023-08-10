@@ -11,15 +11,15 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 ## > ALL  4BK's Routines
 
-**4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** 
+**4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
 
-**4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** 
+**4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 *(1h instead of 1.5h)*
 
-**Goated** - **KovaaKsGlidingRangedBloom** 
+**Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
 
@@ -27,7 +27,7 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 *(Same shit but less clicking)*
 
-**Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** 
+**Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)
 
 *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
 
@@ -49,7 +49,7 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 *(Movement Playlist)*
 
-- **4BK - DODGE THESE NUTS **	KovaaKsNamedroppingJebaitedNightfall
+- **4BK - DODGE THESE NUTS **	KovaaKsNamedroppingJebaitedNightfall 
 
 *(The bots regenerate health if you take your crosshair off them)*	
 
@@ -57,13 +57,13 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 *(Difficult THIN tracking, paired with easier scenarios)*	
 
-- **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	
+- **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	[Explanation](https://www.youtube.com/watch?v=CiiA-djfyOM)
 
 *(Very Difficult Reactive. Good for intermediate people who leave their crosshairs behind)*
 
-- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration
+- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)
 
-- **React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell
+- **React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)
 
 - **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle
 
@@ -73,7 +73,7 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 *(Hold down M1 when focusing on Pokeball & do [4BClick Method](https://youtu.be/XNIYrW6dTQM)*	
 
-- **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	
+- **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	[Explanation](https://youtu.be/XNIYrW6dTQM)
 
 *(Very solid fundamental static scenario)*
 
