@@ -35,7 +35,7 @@
 ## > **Tracking**
 
 - **4BK - DODGE THESE NUTS (Movement Playlist)**	KovaaKsNamedroppingJebaitedNightfall
-- 
+
 - **4BK - Smooth Regen**	KovaaKsCounterstrafingSaltyModifier	
 
 *(The bots regenerate health if you take your crosshair off them)*	
