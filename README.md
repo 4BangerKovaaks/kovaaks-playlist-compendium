@@ -1,9 +1,4 @@
-# <span style="font-size: larger;">4BangerKovaaks UPDATED Playlist Compendium & Common Issues.</span> 
-
-
-...
-
----
+# <span style="font-size: larger;">4BangerKovaaks Updated Playlist Compendium & Common Issues </span> 
 
 ## > ALL  4BK's Routines
 
@@ -40,7 +35,7 @@
 - **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank	*(Do these day 1 then day 2. Covering your full needs, perfect for ANY game)*	
 - **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard		
 
-## > **(ALL NEWLY REVAMPED)**
+## > **(LONG C.U.P)**
 *(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
 
 **Longer Variants**
@@ -331,6 +326,8 @@ RSR - KovaaKsPerfectingPrismaticGasmask
 ## **> I Am A Beginner**
 
 (Play) - Full Fundamental / Full Playlists. MORE BEGINNER PLAYLISTS COMING SOON
+
+Check out my [EASY F.A.R Routines](https://youtu.be/63_7mcF8acs)
 
 4BK - Static - KovaaKsSneakingFuchsiaImpact
 
