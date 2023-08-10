@@ -27,8 +27,6 @@
 
 - **KovaaKsRevolvingBuffedSentinel** *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
 
-**4BK - BENCHMARKS**
-
 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
 **4BK x Trippez Gotta Go Fast 1**
