@@ -1,4 +1,174 @@
-## **4BangerKovaaks UPDATED Playlist Compendium & Common Issues.**
+# <span style="font-size: larger;">4BangerKovaaks UPDATED Playlist Compendium & Common Issues.</span> 
+
+
+...
+
+---
+
+## ALL 4BK'S Routines
+
+**4BK - FUNDAMENTALS (ANAL BEADS 1$)**
+
+- **KovaaKsDroppingBrightBot** *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
+
+**4BK - Anal Beads Shortened**
+
+- **KovaaKsScreamingRandomRhombus** *(1h instead of 1.5h)*
+
+**Goated**
+
+- **KovaaKsGlidingRangedBloom** *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
+
+**Goated 2**
+
+- **KovaaKsSensingFraggedShard** *(Same shit but less clicking)*
+
+**Valorant / CSGO Playlist**
+
+- **KovaaKsRevolvingBuffedSentinel** *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
+
+**4BK - BENCHMARKS**
+
+[**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
+
+**4BK x Trippez Gotta Go Fast 1**
+
+- **KovaaKsClickingSpringgreenReset** *(Very difficult reactive, good for people who leave their crosshairs behind)*
+
+**4BK - FMS**
+
+- **KovaaKsNamedroppingJebaitedNightfall** *(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
+
+## **Tracking**
+
+- **4BK - DODGE THESE NUTS (Movement Playlist)**	KovaaKsNamedroppingJebaitedNightfall		
+- **4BK - Smooth Regen**	KovaaKsCounterstrafingSaltyModifier	*(The bots regenerate health if you take your crosshair off them)*	
+- **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	*(Difficult THIN tracking, paired with easier scenarios)*	
+- **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration	*(Very Difficult Reactive, good for people who leave their crosshairs behind)*
+
+## **Clicking**
+
+- **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	*(Hold down M1 when focusing on pokeball and do 4BClick Method)*	
+- **4BK - Static**	KovaaKsSneakingFuchsiaImpact	*(Very solid fundamental static scenario)*
+
+## **Compilations**
+
+- **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank	*(Do these day 1 then day 2. Covering your full needs, perfect for ANY game)*	
+- **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard		
+
+## **(ALL NEWLY REVAMPED)**
+
+- **4BK - Regen N' React**	KovaaKsDinkingCeruleanFaction	*(C.U.P) are mini playlists that you play in combination with each other*
+- **4BK - Static n' Reaction Time**	KovaaKsClippingBurntsiennaGoat	*(Apex players, might do 15min Precision and + 15 min short static etc)*	
+- **4BK - Precision n' Regen**	KovaaKsDroppingCharcoalgrayTank	*(CUSTOMIZE YOUR OWN PLAYLIST C.U.P)*	
+- **4BK - Smooth is Fast (For Undertracking)**	KovaaKsDashingCanaryWeaponlevel		
+- **4BK - Recoil Smoothing (recoil scenarios)**	KovaaKsChokingBuggedDeserteagle		
+- **4BK - Shorty Pants (short scenarios)**	KovaaKsDeathballingCapturedNightfall		
+
+## **CUSTOMIZE YOUR OWN PLAYLIST (Mini Compendium of playlists) (ALL NEWLY REVAMPED)**
+
+- *Accuraccy + Flicking KovaaKsRocketingJebaitedGhostpeeker*
+- *Corrective Flicking KovaaKsScreamingJitteryClient*
+- *Dodge Complete KovaaKsSensingJumboAds*
+- *Fast Clicking KovaaKsSneakingJumboPick*
+- *Micro Adjusting KovaaKsSnipingJumpyFlashbang*
+- *Pokeball KovaaKsStartingJunglegreenChallenge*
+- *Precision Tracking KovaaKsStrafingJunglegreenWall*
+- *Pure Smoothness (anti shake) KovaaKsUltingMahoganyShotgun*
+- *React (as much as possible) KovaaKsVibratingMaroonInfiltration*
+- *Short Static KovaaKsTaggingLightvenetianredCallout*
+- *Speed Static + Pokeball KovaaKsTeleportingLightvenetianredTag*
+- *Strafes & Smoothness KovaaKsTimewarpingLongLurker*
+- *TargetClicking KovaaKsTrackingMagentaDunk*
+
+## **Corrective Snaps:**
+
+- **KovaaKsAcingFlyClutch**
+
+## **Mini Dodge Track:**
+
+- **KovaaKsGhostpeekingBrown90s**
+
+## **Reactive Strafes:**
+
+- **KovaaKsGriefingBuffedFireteam**
+
+## **Smooth Reactive:**
+
+- **KovaaKsHeadshottingBuggedCatalyst**
+
+## **Fundamental Warmup:**
+
+- **KovaaKsHipfiringBuggedUlt**
+
+## **Apex Warmup:**
+
+- **KovaaKsImpactingBurntorangeMount**
+
+## **COD & BF Warmup:**
+
+- **KovaaKsJigglepeekingBurntsiennaEquipment**
+
+## **Overwatch 2 Warmup:**
+
+- **KovaaKsKillstreakingButterySuper**
+
+## **Valorant & CSGO Warmup:**
+
+- **KovaaKsMainingCamouflagedDrop**
+
+## **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**
+
+### [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)
+
+Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists. Nothing done by me or others beat them imo.
+
+**Day 1: KovaaKsPushingVioletXur**
+**Day 2: KovaaKsQuestingViscousOfftank**
+**Day 3: KovaaKsReloadingWeeklyCapture**
+**Day 4: KovaaKsRevolvingWetMilestone**
+**Day 5: KovaaKsRocketingWideBuff**
+**Day 6: KovaaKsSensingYellowJump**
+**Day 7: KovaaKsStarting90Binding**
+
+### **EASY VERSIONS**
+
+**Day 1: KovaaKsPushingVioletXur**
+**Day 2: KovaaKsRaidingVividtangerineFaq**
+**Day 3: KovaaKsResettingWeeklyTimewarp**
+**Day 4: KovaaKsRoamingWhiteEngram**
+**Day 5: KovaaKsScreamingWideSpeed**
+**Day 6: KovaaKsSneakingZonedDoor**
+**Day 7: KovaaKsStrafing90Rifle**
+
+**Day 1 Flicking + Mousecontrol**
+**Day 2 Reactive Strafes + Static**
+**Day 3 Precision Tracking + Speed TargetSwitching**
+**Day 4 Movement Tracking + Accurate TargetSwitching**
+**Day 5 Dynamic + Smooth Reactive**
+**Day 6 Reflexes + Tracking Gauntles**
+**Day 7 FULL**
+
+## **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**
+
+**HOW TO PLAY FOUND HERE**
+
+**Static:** KovaaKsSneakingFuchsiaImpact
+**Targetswitching:** KovaaKsStrafingGhostpeekedRando
+**Smoothness:** KovaaKsTaggingGoldenochreAfk
+**Reactive:** KovaaKsTeleportingGoldenochrePlunder
+**Evasive TS:** KovaaKsSwitchingGodlikeClutch
+**(Speed Static):** KovaaKsStartingGhostpeekedBait
+
+## **NICHE**
+
+**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick *(USE LOW FOV, can help some people's tracking problems)*
+**4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas *(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
+
+## **AimBeast**
+
+**4BK - Advanced Fundamentals:** *(Harder tracking combined with static, a touch of dynamic and targetswitching)*
+
 
 ### **> Static**
 
@@ -227,129 +397,3 @@ F.A.R Routines (up top)
 4BK - FMS KovaaKsNamedroppingJebaitedNightfall
 
 Trippez Speed TS: KovaaKsGriefingGearedController
-
-### **Full Playlists**
-
-- 4BK - FUNDAMENTALS (ANAL BEADS 1$) - [KovaaKsDroppingBrightBot](insert_youtube_link_here) (Apex Recommended, Full playlist, focused on Reactive Strafes)
-- 4BK - Anal Beads Shortened - [KovaaKsScreamingRandomRhombus](insert_youtube_link_here) (1h instead of 1.5h)
-- Goated - [KovaaKsGlidingRangedBloom](insert_youtube_link_here) (Focused on clean flicking lines, fundamental clicking, and smooth reactive tracking)
-- Goated 2 - [KovaaKsSensingFraggedShard](insert_youtube_link_here) (Same shit but less clicking)
-- Valorant / CSGO Playlist - [KovaaKsRevolvingBuffedSentinel](insert_youtube_link_here) (Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)
-- 4BK - BENCHMARKS - [KovaaKsBenchmarks](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing) (Go to File - Make a copy) (These are just goated)
-- 4BK x Trippez Gotta Go Fast 1 - [KovaaKsClickingSpringgreenReset](insert_youtube_link_here) (Very difficult reactive, good for people who leave their crosshairs behind)
-- 4BK - FMS - [KovaaKsNamedroppingJebaitedNightfall](insert_youtube_link_here) (Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)
-
-### **Tracking**
-
-4BK - DODGE THESE NUTS (Movement Playlist) - [KovaaKsNamedroppingJebaitedNightfall](insert_youtube_link_here)
-4BK - Smooth Regen - [KovaaKsCounterstrafingSaltyModifier](insert_youtube_link_here) (The bots regenerate health if you take your crosshair off them)
-4BK - FIRE AND ICE - [KovaaKsWipingNastyAntieco](insert_youtube_link_here) (Difficult THIN tracking, paired with easier scenarios)
-4BK - React As Much As Possible - [KovaaKsVibratingMaroonInfiltration](insert_youtube_link_here) (Very Difficult Reactive, good for people who leave their crosshairs behind)
-
-### **Clicking**
-
-4BK - STOP OVERFLICKING - [KovaaKsBobbingSalmonTroll](insert_youtube_link_here) (Hold down M1 when focusing on pokeball and do 4BClick Method)
-4BK - Static - [KovaaKsSneakingFuchsiaImpact](insert_youtube_link_here) (
-
-4BK - Static - [KovaaKsSneakingFuchsiaImpact](insert_youtube_link_here) (Very solid fundamental static scenario)
-
-### **Compilations**
-
-4BK - Static GOD (Day 1) - [KovaaKsAcingBrightTank](insert_youtube_link_here) (Do these day 1 then day 2. Covering your full needs, perfect for ANY game)
-4BK - Full Tracking Mastery (Day 2) - [KovaaKsBunnyhoppingSkyblueCard](insert_youtube_link_here)
-
-### **(ALL NEWLY REVAMPED)**
-
-4BK - Regen N' React - [KovaaKsDinkingCeruleanFaction](insert_youtube_link_here) (THESE C.U.P are mini playlists that you play in combination with each other)
-4BK - Static n' Reaction Time - [KovaaKsClippingBurntsiennaGoat](insert_youtube_link_here) (Apex players might do 15min Precision and + 15 min short static, etc)
-4BK - Precision n' Regen - [KovaaKsDroppingCharcoalgrayTank](insert_youtube_link_here) (CUSTOMIZE YOUR OWN PLAYLIST C.U.P)
-4BK - Smooth is Fast (For Undertracking) - [KovaaKsDashingCanaryWeaponlevel](insert_youtube_link_here)
-4BK - Recoil Smoothing (recoil scenarios) - [KovaaKsChokingBuggedDeserteagle](insert_youtube_link_here)
-4BK - Shorty Pants (short scenarios) - [KovaaKsDeathballingCapturedNightfall](insert_youtube_link_here)
-
-**CUSTOMIZE YOUR OWN PLAYLIST (Mini Compendium of playlists) (ALL NEWLY REVAMPED)**
-
-- "Accuraccy + Flicking - [KovaaKsRocketingJebaitedGhostpeeker](insert_youtube_link_here)
-- Corrective Flicking - [KovaaKsScreamingJitteryClient](insert_youtube_link_here)
-- Dodge Complete - [KovaaKsSensingJumboAds](insert_youtube_link_here)
-- Fast Clicking - [KovaaKsSneakingJumboPick](insert_youtube_link_here)
-- Micro Adjusting - [KovaaKsSnipingJumpyFlashbang](insert_youtube_link_here)
-- Pokeball - [KovaaKsStartingJunglegreenChallenge](insert_youtube_link_here)
-- Precision Tracking - [KovaaKsStrafingJunglegreenWall](insert_youtube_link_here)
-- Pure Smoothness (anti shake) - [KovaaKsUltingMahoganyShotgun](insert_youtube_link_here)
-- React (as much as possible) - [KovaaKsVibratingMaroonInfiltration](insert_youtube_link_here)
-- Short Static - [KovaaKsTaggingLightvenetianredCallout](insert_youtube_link_here)
-- Speed Static + Pokeball - [KovaaKsTeleportingLightvenetianredTag](insert_youtube_link_here)
-- Strafes & Smoothness - [KovaaKsTimewarpingLongLurker](insert_youtube_link_here)
-- Target Clicking - [KovaaKsTrackingMagentaDunk](insert_youtube_link_here)
-
-**Corrective Snaps: KovaaKsAcingFlyClutch**
-
-**Mini Dodge Track: KovaaKsGhostpeekingBrown90s**
-
-**Reactive Strafes: KovaaKsGriefingBuffedFireteam**
-
-**Smooth Reactive: KovaaKsHeadshottingBuggedCatalyst**
-
-**Fundamental Warmup: KovaaKsHipfiringBuggedUlt**
-
-**Apex Warmup: KovaaKsImpactingBurntorangeMount**
-
-**COD & BF Warmup: KovaaKsJigglepeekingBurntsiennaEquipment**
-
-**Overwatch 2 Warmup: KovaaKsKillstreakingButterySuper**
-
-**Valorant & CSGO Warmup: KovaaKsMainingCamouflagedDrop**
-
-### **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**
-
-**HOW TO PLAY**
-
-Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists. Nothing done by me or others beat them imo.
-
-Day 1: KovaaKsPushingVioletXur
-Day 2: KovaaKsQuestingViscousOfftank
-Day 3: KovaaKsReloadingWeeklyCapture
-Day 4: KovaaKsRevolvingWetMilestone
-Day 5: KovaaKsRocketingWideBuff
-Day 6: KovaaKsSensingYellowJump
-Day 7: KovaaKsStarting90Binding
-
-EASY VERSIONS
-
-Day 1: KovaaKsPushingVioletXur
-Day 2: KovaaKsRaidingVividtangerineFaq
-Day 3: KovaaKsResettingWeeklyTimewarp
-Day 4: KovaaKsRoamingWhiteEngram
-Day 5: KovaaKsScreamingWideSpeed
-Day 6: KovaaKsSneakingZonedDoor
-Day 7: KovaaKsStrafing90Rifle
-
-Day 1 Flicking + Mousecontrol
-Day 2 Reactive Strafes + Static
-Day 3 Precision Tracking + Speed TargetSwitching
-Day 4 Movement Tracking + Accurate TargetSwitching
-Day 5 Dynamic + Smooth Reactive
-Day 6 Reflexes + Tracking Gauntles
-Day 7 FULL
-
-OLD - F.A.R Full Accomplishment Routines [Day 1-7]
-
-HOW TO PLAY FOUND HERE
-
-Static: KovaaKsSneakingFuchsiaImpact
-Targetswitching: KovaaKsStrafingGhostpeekedRando
-Smoothness: KovaaKsTaggingGoldenochreAfk
-Reactive: KovaaKsTeleportingGoldenochrePlunder
-Evasive TS: KovaaKsSwitchingGodlikeClutch
-(Speed Static): KovaaKsStartingGhostpeekedBait
-
-NIECHE
-
-4BK - Low FOV Playlist: KovaaKsFeedingTealPick (USE LOW FOV, can help some people's tracking problems)
-4BK Conditioning Playlist: KovaaKsRevolvingEggplantFamas (Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)
-
-AimBeast
-
-4BK - Advanced Fundamentals: (Harder tracking combined with static, a touch of dynamic and targetswitching)
-
