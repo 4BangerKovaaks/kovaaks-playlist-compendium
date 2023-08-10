@@ -254,7 +254,7 @@ Goated Scens
 
 ## > **COMMON STRUGGLES**
 
-# ** > I Struggle With Reacting To Targets / Losing Track Of Target**
+# > I Struggle With Reacting To Targets / Losing Track Of Target
 
 Trippez Gotta Go Fast (Hard) - KovaaKsGriefingGearedController
 
@@ -360,7 +360,7 @@ Kek 1 - KovaaKsAscendingTealImpact
 
 4BK - VAL/CS: KovaaKsRevolvingBuffedSentinel
 
-B00ns Valorant (Reflex and realistic val scenarios): KovaaKsBunnyhoppingBrightTile
+B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrightTile
 
 ## **> Apex & OW2**
 
