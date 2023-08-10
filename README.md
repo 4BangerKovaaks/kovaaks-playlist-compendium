@@ -392,6 +392,9 @@ RSR - KovaaKsPerfectingPrismaticGasmask
 
 ## **> I Don't Know What To Play?**
 
+**(NOTE DO NOT PLACE ALL 1247 PLAYLISTS INTO YOUR KOVAAKS FOLDER, PICK AND CHOOSE OTHERWISE YOUR KOVAAK'S WILL LAG)**
+1247 Playlists - *(Manual Download, place in D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists)*: https://www.mediafire.com/file/47z4rk3ie4mreeo/1247Playlists.zip/file
+
 4BK - Benchmarks - [Link](https://www.youtube.com/watch?v=tq6sBs3mXUY&t)
 
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
