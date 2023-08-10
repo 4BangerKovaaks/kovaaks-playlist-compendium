@@ -254,7 +254,7 @@ Goated Scens
 
 ## > **COMMON STRUGGLES**
 
-## ** > I Struggle With Reacting To Targets / Losing Track Of Target**
+# ** > I Struggle With Reacting To Targets / Losing Track Of Target**
 
 Trippez Gotta Go Fast (Hard) - KovaaKsGriefingGearedController
 
