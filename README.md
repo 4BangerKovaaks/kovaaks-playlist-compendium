@@ -169,7 +169,9 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 ## **NICHE**
 
 **4BK - Low FOV Playlist:** KovaaKsFeedingTealPick *(USE LOW FOV, can help some people's tracking problems)*
+
 **4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas *(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
+
 
 ## **AimBeast**
 
