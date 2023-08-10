@@ -199,7 +199,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 *(Harder tracking combined with static, a touch of dynamic and targetswitching)*
 
 
-## **Recommended Playlists & Their Seperate Fields**
+# <span style="font-size: larger;">Recommended Playlists & Their Seperate Fields </span>
 
 ### **> Static**
 
