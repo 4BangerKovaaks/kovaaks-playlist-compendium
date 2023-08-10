@@ -34,7 +34,7 @@
 
 ## > **Tracking**
 
-(Movement Playlist)
+*(Movement Playlist)*
 
 - **4BK - DODGE THESE NUTS **	KovaaKsNamedroppingJebaitedNightfall
 
@@ -52,9 +52,10 @@
 
 ## > **Clicking**
 
+*(Hold down M1 when focusing on Pokeball & do [4BClick Method](https://youtu.be/XNIYrW6dTQM)*	
+
 - **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	
 
-*(Hold down M1 when focusing on pokeball and do 4BClick Method)*	
 - **4BK - Static**	KovaaKsSneakingFuchsiaImpact	
 
 *(Very solid fundamental static scenario)*
