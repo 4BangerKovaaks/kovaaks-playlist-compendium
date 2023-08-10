@@ -240,15 +240,17 @@ Smoothness God - KovaaKsStartingMaroonGear
 
 PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
 
-Trippez Smooth Regen - KovaaKsStartingMaroonGear
+Trippez Smooth Regen - KovaaKsDashingAlmightyCounterstrafe
 
 Trippez Smooth Reactive 1 - KovaaKsQuestingSepiaProjectile
 
 Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest
 
-**4BK - Smooth Is Fast:** KovaaKsDashingCanaryWeaponlevel 
+(Smooth is Fast = Mainly for Undertracking)
 
-(Mainly for Undertracking)
+**4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel **
+
+Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag
 
 ### **> Reactive**
 
@@ -269,6 +271,8 @@ MiYu Benchmarks - KovaaKsCampingCeruleanEngine
 Krasci 1o1 - KovaaKsPoppingBoxedMouse
 
 Hauntr Hard - KovaaKsSneakingDesertsandMain
+
+Hauntr Easy - KovaaKsSneakingDesertsandMain
 
 Krasci FuglaaXYZ - KovaaKsPeakingTwitchyAds 
 
