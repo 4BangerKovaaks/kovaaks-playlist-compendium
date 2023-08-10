@@ -99,9 +99,9 @@
 
 *Valorant & CSGO Warmup:* - **KovaaKsMainingCamouflagedDrop**
 
-## **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**
+## > **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**
 
-### [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)
+### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)
 
 Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists. Nothing done by me or others beat them imo.
 
@@ -120,7 +120,7 @@ Day 6 Reflexes + Tracking Gauntles : **KovaaKsSensingYellowJump**
 Day 7 FULL : **KovaaKsStarting90Binding**
 
 
-### **EASY VERSIONS**
+### > **EASY VERSIONS**
 
 **Day 1 Flicking + Mousecontrol:** *KovaaKsPushingVioletXur*
 
@@ -137,7 +137,7 @@ Day 6 Reflexes + Tracking Gauntles : **KovaaKsSneakingZonedDoor**
 Day 7 FULL: **KovaaKsStrafing90Rifle**
 
 
-## **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**
+## > **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**
 
 **HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://www.youtube.com/watch?v=wcPNdU0qsiI&t)
 
@@ -154,14 +154,14 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 **(Speed Static):** KovaaKsStartingGhostpeekedBait
 
 
-## **NICHE**
+## > **NICHE**
 
 **4BK - Low FOV Playlist:** KovaaKsFeedingTealPick *(USE LOW FOV, can help some people's tracking problems)*
 
 **4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas *(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
 
 
-## **AimBeast**
+## > **AimBeast**
 
 **4BK - Advanced Fundamentals:** *(Harder tracking combined with static, a touch of dynamic and targetswitching)*
 
