@@ -50,9 +50,11 @@
 
 - **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration
 
+- **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle
+
 - **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
 
-## > **Clicking**
+## > **Clicking & Targetswitching**
 
 *(Hold down M1 when focusing on Pokeball & do [4BClick Method](https://youtu.be/XNIYrW6dTQM)*	
 
@@ -63,6 +65,10 @@
 - **4BK - Static**	KovaaKsSneakingFuchsiaImpact
 
 - **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
+
+- **4BK - Flick & Track (Targetswitching)** - KovaaKsCapturing90Crossfire
+
+- **4BK - Speed Targetswitch (TS)** KovaaKsCarrying180Arena
 
 ## > **Compilations**
 
@@ -103,6 +109,8 @@
 *Pure Smoothness (anti shake)* - **KovaaKsUltingMahoganyShotgun**
 
 *React (as much as possible)* - **KovaaKsVibratingMaroonInfiltration**
+
+*React (As much As You Can) 2* - **KovaaKsCamouflagingZonedHell**
 
 *Short Static* - **KovaaKsTaggingLightvenetianredCallout**
 
@@ -332,6 +340,10 @@ Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy
 Hauntr Hard - KovaaKsSnipingDiagonalEgg
 
 ## **> I Lack Speed In My Flicks**
+
+4BK - Flick & Track: KovaaKsCapturing90Crossfire
+
+4BK - Speed Targetswitch (TS): KovaaKsCarrying180Arena
 
 F.A.R Day 4 & 5 [Watch Tutorial](https://youtu.be/63_7mcF8acs)
 
