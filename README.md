@@ -31,7 +31,7 @@ All Routines will have a difficulty scale from 1-5 (Some missing) 1 being easies
 
 *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
 
-[**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
+[**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
 **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
 
