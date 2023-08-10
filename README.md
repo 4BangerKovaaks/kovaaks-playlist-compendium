@@ -330,6 +330,8 @@ RSR - KovaaKsPerfectingPrismaticGasmask
 
 ## **> I Am A Beginner**
 
+(Play) - Full Fundamental / Full Playlists. MORE BEGINNER PLAYLISTS COMING SOON
+
 4BK - Static - KovaaKsSneakingFuchsiaImpact
 
 Hauntr easy - KovaaKsSneakingDesertsandMain
@@ -338,12 +340,11 @@ Hauntr easy - KovaaKsSneakingDesertsandMain
 
 (FAQ - Read) - [Link](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit)
 
-(Play) - Full Fundamental Playlists. We have them here!
 
 ## **Game Specific Routines**
 
 
-## ** > ALL GAMES / MOUSE CONTROL**
+## > ALL GAMES / MOUSE CONTROL
 
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
 
