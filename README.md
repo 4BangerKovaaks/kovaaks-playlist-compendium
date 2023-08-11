@@ -19,7 +19,7 @@ More tools to describe and rate playlists will be COMING SOON.
 
 ## > ALL  4BK's Routines
 
-- (3) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
+- (3=Intermediate)) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 *(Apex Recommended, Full playlist, focused on Reactive Strafes)*
 
@@ -27,11 +27,11 @@ More tools to describe and rate playlists will be COMING SOON.
 
 *(1h instead of 1.5h)*
 
-- (2-3) **Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
+- (2-3 Beginner-Intermediate) **Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
 
 *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
 
-- (2) **Goated 2** - **KovaaKsSensingFraggedShard** 
+- (2-3) **Goated 2** - **KovaaKsSensingFraggedShard** 
 
 *(Same shit but less clicking)*
 
@@ -41,7 +41,7 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - (3-4)🥇 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
-- (3-4) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
+- (3-4 Intermediate - Advanced) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
 
 *(Very difficult reactive, good for people who leave their crosshairs behind)*
 
@@ -167,9 +167,9 @@ More tools to describe and rate playlists will be COMING SOON.
 
 ### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)
 
-Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists.
+🥇Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists.
 
-(3-4)
+(3-4 Intermediate to Adv)
 
 - Day 1 Flicking + Mousecontrol : **KovaaKsPushingVioletXur**
 
@@ -188,7 +188,7 @@ Amazing FULL Fundamental Playlists which takes the same concept as working out i
 
 ### > **EASY VERSIONS**
 
-(2-3)
+(2-3 Beginner to Int)
 
 - **Day 1 Flicking + Mousecontrol:** *KovaaKsPushingVioletXur*
 
@@ -231,7 +231,7 @@ Amazing FULL Fundamental Playlists which takes the same concept as working out i
 
 ## > **AimBeast**
 
-(5)
+(5 Very Difficult)
 - **4BK - Advanced Fundamentals:** 
 
 *(Harder tracking combined with static, a touch of dynamic and targetswitching)*
