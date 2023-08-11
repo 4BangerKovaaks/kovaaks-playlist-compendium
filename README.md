@@ -1,9 +1,15 @@
 # <span style="font-size: larger;">4BangerKovaaks Updated Playlist Compendium & Common Issues </span> 
 
 
+**FUTURE PLANS & EXPLANATIONS**
+
 All Routines will have a difficulty scale from 1-5 (Some missing), 1 being easiest, 5 being hardest) 
 
 For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginner, 3 Intermediate, 4, Advanced, 5 very difficult)
+
+This is NOT meant to simply copy ridd's original compendium. But to add & remove onces I find actually useful and give a brief explination to what they're good for.
+
+More tools to describe and rate playlists will be COMING SOON.
 
 
 
@@ -506,3 +512,23 @@ Amazing FULL Fundamental Playlists which takes the same concept as working out i
 - 4BK - FMS KovaaKsNamedroppingJebaitedNightfall
 
 - Trippez Speed TS: KovaaKsGriefingGearedController
+
+
+
+## ** > Additional Resources**
+
+**OMEGA 3 and VITAMIN (D) for Reaction Time Improvements**
+
+[**ALL MY PLAYLISTS**:](https://docs.google.com/spreadsheets/d/1pDKiviydpzZz0hEkHt2b3oUruWW_SBPF_w6enxrB_E0/edit#gid)
+
+[**RECOMMENDED PLAYLIST FINDER:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
+
+[**MANUAL DOWNLOADS by Ridd]:**(https://github.com/riddbtw/kovaaks-playlists)
+
+[**Cool way to EYE Train:**](https://blinkcamp.com/)
+
+[**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)
+
+**OMEGA 3 and VITAMIN (D) for Reaction Time Improvements**
+
+[**Binaural beats for sleep** This one is amazing](https://www.youtube.com/watch?v=Y39WIwff0zk&t)
