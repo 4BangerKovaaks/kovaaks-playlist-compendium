@@ -39,8 +39,7 @@ More tools to describe and rate playlists will be COMING SOON.
 
 *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
 
-(3-4)🥇
-- [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
+- (3-4)🥇 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
 - (3-4) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
 
