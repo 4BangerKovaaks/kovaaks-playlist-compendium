@@ -97,12 +97,14 @@ More tools to describe and rate playlists will be COMING SOON.
 
 *(Do these day 1 then day 2. Covering your full needs, perfect for ANY game)*	
 
+(3)
 - **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
 - **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard		
 
 ## > **(LONG C.U.P)**
 *(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
 
+(Difficulty 3)
 **Longer Variants**
 - **4BK - Regen N' React**	KovaaKsDinkingCeruleanFaction [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
 - **4BK - Static n' Reaction Time**	KovaaKsClippingBurntsiennaGoat	
@@ -167,6 +169,8 @@ More tools to describe and rate playlists will be COMING SOON.
 
 Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists.
 
+(3-4)
+
 - Day 1 Flicking + Mousecontrol : **KovaaKsPushingVioletXur**
 
 - Day 2 Reactive Strafes + Static : **KovaaKsQuestingViscousOfftank**
@@ -183,6 +187,8 @@ Amazing FULL Fundamental Playlists which takes the same concept as working out i
 
 
 ### > **EASY VERSIONS**
+
+(2-3)
 
 - **Day 1 Flicking + Mousecontrol:** *KovaaKsPushingVioletXur*
 
@@ -225,6 +231,7 @@ Amazing FULL Fundamental Playlists which takes the same concept as working out i
 
 ## > **AimBeast**
 
+(5)
 - **4BK - Advanced Fundamentals:** 
 
 *(Harder tracking combined with static, a touch of dynamic and targetswitching)*
