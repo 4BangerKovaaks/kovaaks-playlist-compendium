@@ -382,11 +382,15 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 ## **> I Struggle with Shaky Aim**
 
+- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor
+
 - Trippez Smooth Regen - KovaaKsStartingMaroonGear
 
 - !3smooth - KovaaKsHeadshottingJunglegreenArena
 
 - Smoothness God - KovaaKsStartingMaroonGear
+
+- omnismooth - KovaaKsClearingDefaultCamp
 
 ## **> I Struggle Smoothly Tracking Strafing Targets**
 
@@ -470,6 +474,12 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 - Undertracking Heaven v2 - KovaaKsWipingDefaultTag
 
+- ukiyo Smoothness - KovaaKsBobbingCamouflagedPull
+
+- omnismooth - KovaaKsClearingDefaultCamp
+
+- static - Lapu4KovaaKsCrouchingBrownEnrage
+
 - (Watch) - [Link](https://www.youtube.com/watch?v=B-ihBpoX41E&list=PLzG7nj0wTAQtkWyel83eseltjFQGhar2f)
 
 - (FAQ - Read) - [Link](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit)
@@ -480,11 +490,15 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 ## > ALL GAMES / MOUSE CONTROL
 
+*(+Check Fundamentals up top)*
+
 - 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
 
 - 4BK Benchmarks - [Link](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit#gid=956015131)
 
 - 4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel
+
+- 4BK: A Guy - KovaaKsTrackingAcedWall
 
 ## **> Valorant / CSGO**
 
@@ -504,9 +518,9 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 - Viz x 4BK - Clicking Heads: KovaaKsPoppingVioletBunnyhop
 
-- Viz Clicking Heads: KovaaKsCheatingDenimPick
+- Viz Clicking Heads(Easier): KovaaKsCheatingDenimPick
 
-- - **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
+- - 4BK - Static Conditioning KovaaKsBuffingWhiteJump
 
 ## **> Apex & OW2**
 
@@ -539,6 +553,10 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 - 4BK - Advanced Fundamenetals (Aimbeast)
 
 - 4BK: Tracking Conditioning	 KovaaKsBunnyhoppingWideDoor
+
+- Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn
+
+- Sined - Soldier 76 - KovaaKsAscendingGoodGoat
 
 ## **> COD & BF**
 
