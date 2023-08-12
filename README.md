@@ -37,7 +37,7 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - (2-3) **Valorant / CSGO Playlist** - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)
 
-*(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL)*
+*(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL & CSGO)*
 
 - (3-4)🥇 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
@@ -47,7 +47,7 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - (3) **4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** 
 
-*(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG STRAFES)*
+*(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG/MID RANGED STRAFES)*
 
 - (3) **4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas 
 
@@ -55,9 +55,9 @@ More tools to describe and rate playlists will be COMING SOON.
 
 ## > **Tracking**
 
-*(Movement Playlist)*
+*(Movement Playlist⬇️)*
 
-- **4BK - DODGE THESE NUTS **	KovaaKsNamedroppingJebaitedNightfall 
+- **4BK - DODGE THESE NUTS**	KovaaKsNamedroppingJebaitedNightfall 
 
 *(The bots regenerate health if you take your crosshair off them)*	
 
@@ -71,11 +71,15 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)
 
+ *(Very difficult reactive, great for poeple who struggle reacting at all and already have a basis in tracking setup)*
+
 - **React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)
 
 - **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle
 
 - **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
+
+*(Conditioning meaning one/assisting scenario followed by a normal/hard version to get you used to harder scenarios and can also help with shaky aim)*
 
 ## > **Clicking & Targetswitching**
 
@@ -89,7 +93,11 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
 
+*(Conditioning meaning one/assisting scenario followed by a normal/hard version to get you used to harder scenarios)*
+
 - **4BK - Flick & Track (Targetswitching)** - KovaaKsCapturing90Crossfire
+
+*(Meant to assist people who struggle with tracking AFTER flicking, common in precise TS scenarios)*
 
 - **4BK - Speed Targetswitch (TS)** KovaaKsCarrying180Arena
 
@@ -99,16 +107,19 @@ More tools to describe and rate playlists will be COMING SOON.
 
 (3)
 - **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
-- **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard		
+- **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard
+
+*(These are focused on basics of static, alongside with dynamic, reflexes, information, the WHOLE package which is why it's split into 2 days. 
+The tracking part focuses on intermediate fundamentals where we do everything from fast strafes, regen & smooth reactive)*
 
 ## > **(LONG C.U.P)**
 *(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
 
 (Difficulty 3)
 **Longer Variants**
-- **4BK - Regen N' React**	KovaaKsDinkingCeruleanFaction [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
-- **4BK - Static n' Reaction Time**	KovaaKsClippingBurntsiennaGoat	
-- **4BK - Precision n' Regen**	KovaaKsDroppingCharcoalgrayTank		
+- **4BK - Regen N' React** (Regen to relax your aim after reacting)	KovaaKsDinkingCeruleanFaction [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
+- **4BK - Static n' Reaction Time** (Static alongside reaction based flicking)	KovaaKsClippingBurntsiennaGoat	
+- **4BK - Precision n' Regen** (Precision scenarios followed by reactive ones/conditioning)	KovaaKsDroppingCharcoalgrayTank		
 - **4BK - Smooth is Fast (For Undertracking HIHGLY RECOMMENDED)**	KovaaKsDashingCanaryWeaponlevel		
 - **4BK - Recoil Smoothing (Recoil Scenarios Great For Tracking)**	KovaaKsChokingBuggedDeserteagle		
 - **4BK - Shorty Pants (Short 20-30 second long scenarios)**	KovaaKsDeathballingCapturedNightfall		
@@ -247,6 +258,8 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - RX Static compliation(Play On Random ) - KovaaKsCheatingDynamicIdentity
 
+- Huddled Static Dots (Static Spam) - KovaaKsBindingTurquoiseRando
+
 ### **> Smoothness**
 
 - !3smooth - KovaaKsHeadshottingJunglegreenArena
@@ -261,11 +274,13 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest
 
-(Smooth is Fast = Mainly for Undertracking)
-
 - **4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel **
 
+(Smooth is Fast = Mainly for Undertracking)
+
 - Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag
+
+- Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot
 
 ### **> Reactive**
 
@@ -292,6 +307,10 @@ More tools to describe and rate playlists will be COMING SOON.
 - Krasci FuglaaXYZ - KovaaKsPeakingTwitchyAds 
 
 (Good for Micro Adjusting During Tracking)
+
+- Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn
+
+- psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
 
 ### **> TargetSwitching (Speed)**
 
@@ -359,6 +378,8 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine
 
+- Reactive SDK - KovaaKsChallengingExtraInfiltration
+
 ## **> I Struggle with Shaky Aim**
 
 - Trippez Smooth Regen - KovaaKsStartingMaroonGear
@@ -373,7 +394,19 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard
 
+- 4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus
+
 - Hauntr Hard - KovaaKsSnipingDiagonalEgg
+
+- Shmn Track - KovaaKsBotting90Cinematic
+
+- Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot
+
+- Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn
+
+- psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
+
+- **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
 
 ## **> I Lack Speed In My Flicks**
 
@@ -392,6 +425,8 @@ More tools to describe and rate playlists will be COMING SOON.
 - 4BK - Static - KovaaKsSneakingFuchsiaImpact
 
 - 4BK - Stop Overflicking - KovaaKsBobbingSalmonTroll
+
+- **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
 
 - Kek 1 - KovaaKsAscendingTealImpact
 
@@ -471,6 +506,8 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - Viz Clicking Heads: KovaaKsCheatingDenimPick
 
+- - **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
+
 ## **> Apex & OW2**
 
 - 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
@@ -501,6 +538,8 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - 4BK - Advanced Fundamenetals (Aimbeast)
 
+- 4BK: Tracking Conditioning	 KovaaKsBunnyhoppingWideDoor
+
 ## **> COD & BF**
 
 - 4BK - Goated - KovaaKsGlidingRangedBloom
@@ -513,12 +552,15 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - 4BK Benchmarks (up top)
 
-- F.A.R Routines (up top)
-
 - 4BK - FMS KovaaKsNamedroppingJebaitedNightfall
 
 - Trippez Speed TS: KovaaKsGriefingGearedController
 
+- 4BK - Flick & Track (Targetswitching) - KovaaKsCapturing90Crossfire
+
+*(Meant to assist people who struggle with tracking AFTER flicking, common in precise TS scenarios)*
+
+- 4BK - Speed Targetswitch (TS) KovaaKsCarrying180Arena
 
 
 ## ** > Additional Resources**
