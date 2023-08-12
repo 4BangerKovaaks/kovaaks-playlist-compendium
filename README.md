@@ -11,6 +11,8 @@ This is NOT meant to simply copy ridd's original compendium. But to add & remove
 
 More tools to describe and rate playlists will be COMING SOON.
 
+[**SOCIALS + WRITE ON MY DISCORD, TO ME TO SUGGEST YOUR OWN PLAYLISTS**](https://linktr.ee/4bangerkovaaks)
+
 
 
 
