@@ -7,7 +7,7 @@ All Routines will have a difficulty scale from 1-5 (Some missing), 1 being easie
 
 For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginner, 3 Intermediate, 4, Advanced, 5 very difficult)
 
-This is NOT meant to simply copy ridd's original compendium. But to add & remove onces I find actually useful and give a brief explination to what they're good for.
+This is NOT meant to simply copy ridd's original compendium. But to add & remove ones I found actually useful and give a brief explination to what they're good for.
 
 More tools to describe and rate playlists will be COMING SOON.
 
