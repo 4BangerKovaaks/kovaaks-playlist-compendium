@@ -448,7 +448,8 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 **(NOTE DO NOT PLACE ALL 1247 PLAYLISTS INTO YOUR KOVAAKS FOLDER, PICK AND CHOOSE OTHERWISE YOUR KOVAAK'S WILL LAG)**
 
-- 1247 Playlists - *(Manual Download, place in D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists)*: https://www.mediafire.com/file/47z4rk3ie4mreeo/1247Playlists.zip/file
+- 1247 Playlists - *(Manual Download, place in
+D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists)*: https://www.mediafire.com/file/47z4rk3ie4mreeo/1247Playlists.zip/file
 
 - 4BK - Benchmarks - [Link](https://www.youtube.com/watch?v=tq6sBs3mXUY&t)
 
@@ -520,7 +521,7 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 - Viz Clicking Heads(Easier): KovaaKsCheatingDenimPick
 
-- - 4BK - Static Conditioning KovaaKsBuffingWhiteJump
+- 4BK - Static Conditioning KovaaKsBuffingWhiteJump
 
 ## **> Apex & OW2**
 
@@ -581,7 +582,7 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 - 4BK - Speed Targetswitch (TS) KovaaKsCarrying180Arena
 
 
-## ** > Additional Resources**
+## > Additional Resources
 
 **OMEGA 3 and VITAMIN (D) for Reaction Time Improvements**
 
