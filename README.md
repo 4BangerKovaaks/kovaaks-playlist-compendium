@@ -23,15 +23,15 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - (3=Intermediate) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
-*(Apex Recommended, Full playlist, focused on Reactive Strafes)*
+*(Apex Recommended, Full playlist, focused on Reactive Strafes, smoothness inbetween & Fundamental clicking)*
 
 - (3) **4BK - Anal Beads Shortened** - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
-*(1h instead of 1.5h)*
+*(same but 1h instead of 1.5h)*
 
 - (2-3 Beginner-Intermediate) **Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
 
-*(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking)*
+*(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking, thin strafing bots basically)*
 
 - (2-3) **Goated 2** - **KovaaKsSensingFraggedShard** 
 
@@ -45,11 +45,11 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - (3-4 Intermediate - Advanced) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
 
-*(Very difficult reactive, good for people who leave their crosshairs behind)*
+*(Very difficult reactive, causing you to constantly react "speed reactive/Pure reactive" good for intermediate aimers who struggle reacting at all)*
 
 - (3) **4BK - FMS** - **KovaaKsNamedroppingJebaitedNightfall** 
 
-*(Full Fundamentals, incl Dodge Tracking, meaning YOU MOVE and DO LONG/MID RANGED STRAFES)*
+*(Full Fundamentals, Dodge & smoothness focused. YOU MOVE and DO LONG/MID RANGED STRAFES)*
 
 - (3) **4BK Conditioning Playlist:** KovaaKsRevolvingEggplantFamas 
 
@@ -57,7 +57,7 @@ More tools to describe and rate playlists will be COMING SOON.
 
 ## > **Tracking**
 
-*(Movement Playlist⬇️)*
+*(DTN Movement Playlist⬇️ - ocused on countering strafes and using your movement)*
 
 - **4BK - DODGE THESE NUTS**	KovaaKsNamedroppingJebaitedNightfall 
 
@@ -65,11 +65,11 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - **4BK - Smooth Regen**	KovaaKsCounterstrafingSaltyModifier	
 
-*(Difficult THIN tracking, paired with easier scenarios)*	
+*(Reactive & smoothness tracking but very difficult, smaller bots, faster movements etc)*	
 
 - **4BK - FIRE AND ICE**	KovaaKsWipingNastyAntieco	[Explanation](https://www.youtube.com/watch?v=CiiA-djfyOM)
 
-*(Very Difficult Reactive. Good for intermediate people who leave their crosshairs behind)*
+*(Speed Reactive. Good for intermediate people who leave their crosshairs behind/don't react to changes in movement)*
 
 - **4BK: React As Much As Possible**	KovaaKsVibratingMaroonInfiltration [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)
 
@@ -77,11 +77,13 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - **React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)
 
+ *(Full 1h tracking playlist focused on all forms of tracking, geared towards adv players)*
+
 - **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle
 
-- **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
-
 *(Conditioning meaning one/assisting scenario followed by a normal/hard version to get you used to harder scenarios and can also help with shaky aim)*
+
+- **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
 
 ## > **Clicking & Targetswitching**
 
@@ -89,17 +91,19 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - **4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	[Explanation](https://youtu.be/XNIYrW6dTQM)
 
-*(Very solid fundamental static scenario)*
+*(Very solid 30 min, fundamental static playlist, for all static needs)*
 
 - **4BK - Static**	KovaaKsSneakingFuchsiaImpact
 
+*(Conditioning meaning one/assisting scenario followed by a normal/hard version to get you used to harder scenarios)*
+
 - **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
 
-*(Conditioning meaning one/assisting scenario followed by a normal/hard version to get you used to harder scenarios)*
+*(Meant to assist people who struggle with tracking AFTER flicking, common in precise TS scenarios)*
 
 - **4BK - Flick & Track (Targetswitching)** - KovaaKsCapturing90Crossfire
 
-*(Meant to assist people who struggle with tracking AFTER flicking, common in precise TS scenarios)*
+*(Meant to increase the speed of your flicks through large TS)*
 
 - **4BK - Speed Targetswitch (TS)** KovaaKsCarrying180Arena
 
