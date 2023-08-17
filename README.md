@@ -55,7 +55,8 @@ More tools to describe and rate playlists will be COMING SOON.
 
 *(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
 
-*(Recommended Fundamental routines if you're a beginner)*
+
+*(Recommended Fundamental routines if you're a beginner)*⬇️
 
 - (2) 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq
  
