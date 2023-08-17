@@ -55,6 +55,17 @@ More tools to describe and rate playlists will be COMING SOON.
 
 *(Combines hard scenarios together with easier ones to slowly get you used to playing harder and harder scenarios)*
 
+*(Recommended Fundamental routines if you're a beginner)*
+
+- (2) 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq
+ 
+- (2) 4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp
+ 
+- (1) 4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur
+ 
+- (1) 4BK - Super Beginner Fundamentals (Track Focus) - KovaaKsFlankingCeruleanOfftank
+
+
 ## > **Tracking**
 
 *(DTN Movement Playlist⬇️ - ocused on countering strafes and using your movement)*
@@ -471,7 +482,7 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 
 ## **> I Am A Beginner**
 
-- (Play) - Full Fundamental / Full Playlists. MORE BEGINNER PLAYLISTS COMING SOON
+- (Play) - 4BK - Beginner FUNDAMENTALS (UP TOP)
 
 - Check out my [EASY F.A.R Routines](https://youtu.be/63_7mcF8acs)
 
