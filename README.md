@@ -330,6 +330,8 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 - psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
 
+- Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
+
 ### **> TargetSwitching (Speed)**
 
 - Trippez Speed TS: KovaaKsGriefingGearedController
@@ -429,6 +431,8 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 - psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
 
 - **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
+
+- Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
 
 ## **> I Lack Speed In My Flicks**
 
@@ -576,6 +580,8 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 - Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn
 
 - Sined - Soldier 76 - KovaaKsAscendingGoodGoat
+
+- Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
 
 ## **> COD & BF**
 
