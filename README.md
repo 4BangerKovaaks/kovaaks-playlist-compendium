@@ -97,6 +97,8 @@ More tools to describe and rate playlists will be COMING SOON.
 
 - **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
 
+- **4BK - Overwatch 2 Solider 69 (OW) - HARD** - KovaaKsTrollingDinkedJump
+
 ## > **Clicking & Targetswitching**
 
 *(Hold down M1 when focusing on Pokeball & do [4BClick Method](https://youtu.be/XNIYrW6dTQM)*	
@@ -554,6 +556,8 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 - 4BK - Fire & Ice - KovaaKsWipingNastyAntieco
 
 - 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard
+
+- 4BK - Overwatch 2 Solider 69 (OW) - HARD - KovaaKsTrollingDinkedJump
 
 - Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile
 
