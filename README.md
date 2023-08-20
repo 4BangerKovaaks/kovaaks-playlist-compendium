@@ -135,12 +135,12 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 (Difficulty 3)
 **Longer Variants**
-- **4BK - Regen N' React** (Regen to relax your aim after reacting)	KovaaKsDinkingCeruleanFaction [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
-- **4BK - Static n' Reaction Time** (Static alongside reaction based flicking)	KovaaKsClippingBurntsiennaGoat	
-- **4BK - Precision n' Regen** (Precision scenarios followed by reactive ones/conditioning)	KovaaKsDroppingCharcoalgrayTank		
-- **4BK - Smooth is Fast (For Undertracking HIHGLY RECOMMENDED)**	KovaaKsDashingCanaryWeaponlevel		
-- **4BK - Recoil Smoothing (Recoil Scenarios Great For Tracking)**	KovaaKsChokingBuggedDeserteagle		
-- **4BK - Shorty Pants (Short 20-30 second long scenarios)**	KovaaKsDeathballingCapturedNightfall		
+- **4BK - Regen N' React** (Regen to relax your aim after reacting)	**KovaaKsDinkingCeruleanFaction** [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)
+- **4BK - Static n' Reaction Time** (Static alongside reaction based flicking)	**KovaaKsClippingBurntsiennaGoat	**
+- **4BK - Precision n' Regen** (Precision scenarios followed by reactive ones/conditioning)	**KovaaKsDroppingCharcoalgrayTank	**	
+- **4BK - Smooth is Fast (For Undertracking HIHGLY RECOMMENDED)**	**KovaaKsDashingCanaryWeaponlevel**		
+- **4BK - Recoil Smoothing (Recoil Scenarios Great For Tracking)**	**KovaaKsChokingBuggedDeserteagle**		
+- **4BK - Shorty Pants (Short 20-30 second long scenarios)**	**KovaaKsDeathballingCapturedNightfall	**	
 
  ## > **CUSTOMIZE YOUR OWN PLAYLIST (Mini Compendium of playlists) (ALL NEWLY REVAMPED)**
 
