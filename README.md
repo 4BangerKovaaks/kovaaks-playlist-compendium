@@ -614,7 +614,7 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 
 ## > Additional Resources
 
-**OMEGA 3 and VITAMIN (D) for Reaction Time Improvements**
+**OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**
 
 [**ALL MY PLAYLISTS**:](https://docs.google.com/spreadsheets/d/1pDKiviydpzZz0hEkHt2b3oUruWW_SBPF_w6enxrB_E0/edit#gid)
 
@@ -627,7 +627,5 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 [**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)
 
 [**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)
-
-**OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**
 
 [**Binaural beats for sleep** This one is amazing](https://www.youtube.com/watch?v=Y39WIwff0zk&t)
