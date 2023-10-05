@@ -43,6 +43,10 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 *(Full fundamental playlist that gives you a ton of variety and includes tracking for VAL & CSGO)*
 
+- 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector**
+
+(Great playlist for CS2 & Valorant, general tacfps games for more headshots and one taps)
+
 - (3-4)🥇 [**4BK - Benchmarks (Go to File - Make a copy)** *(These are just goated)*](https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)
 
 - (3-4 Intermediate - Advanced) **4BK x Trippez Gotta Go Fast 1** - **KovaaKsClickingSpringgreenReset** 
@@ -527,7 +531,7 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 
 - 4BK: A Guy - KovaaKsTrackingAcedWall
 
-## **> Valorant / CSGO**
+## **> Valorant / CSGO / CS2**
 
 - 4BK - Static God - KovaaKsAcingBrightTank
 
@@ -540,6 +544,10 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 - Kek 1 - KovaaKsAscendingTealImpact
 
 - 4BK - VAL/CS: KovaaKsRevolvingBuffedSentinel
+
+- 4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector
+
+(Great playlist for CS2 & Valorant, general tacfps games for more headshots and one taps)
 
 - B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrightTile
 
