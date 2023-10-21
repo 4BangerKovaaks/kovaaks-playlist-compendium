@@ -261,6 +261,8 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 ## > **NICHE**
 
+4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [Explanation] (https://www.youtube.com/watch?v=BDouPnIlSu4&t)
+
 - **4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [Explanation](https://www.youtube.com/watch?v=FmhI6qFxwiU)
 
 *(USE LOW FOV, can help some people's tracking problems)*
