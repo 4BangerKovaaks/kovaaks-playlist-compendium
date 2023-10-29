@@ -259,6 +259,23 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 - **(Speed Static):** KovaaKsStartingGhostpeekedBait
 
 
+## > SYA Method / Smooth Your Aim
+
+- **4BK - SYA VT Conditioning** - KovaaKsCamouflagingGooshedCapture
+
+- **4BK - SYA Full Conditioning (Slight VT Benchmark focus)** - KovaaKsChallengingHardBuff
+
+- **4BK - SYA Complete Technique (Focuses More on Smoothness)** - KovaaKsClickingInvincibleHell
+
+- **4BK - SYA Clicking Conditioning** - KovaaKsClippingJebaitedCrossfire
+
+- **4BK - SYA Tracking Conditioning **- KovaaKsChattingHorizontalJump
+
+- **4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox
+
+- **4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun
+
+
 ## > **NICHE**
 
 4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [Explanation](https://www.youtube.com/watch?v=BDouPnIlSu4&t)
