@@ -269,7 +269,7 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 - **4BK - SYA Clicking Conditioning** - KovaaKsClippingJebaitedCrossfire
 
-- **4BK - SYA Tracking Conditioning **- KovaaKsChattingHorizontalJump
+- **4BK - SYA Tracking Conditioning** - KovaaKsChattingHorizontalJump
 
 - **4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox
 
