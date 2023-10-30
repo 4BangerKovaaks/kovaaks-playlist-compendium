@@ -259,7 +259,7 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 - **(Speed Static):** KovaaKsStartingGhostpeekedBait
 
 
-## > SYA Method / Smooth Your Aim
+## > SYA Method / Smooth Your Aim [Explained](https://youtu.be/bQ1IamY5s54)
 
 - **4BK - SYA VT Conditioning** - KovaaKsCamouflagingGooshedCapture
 
