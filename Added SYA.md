@@ -275,6 +275,8 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 - **4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun
 
+- **SYA MIYU** - KovaaKsJigglepeekingTealNuns
+
 
 ## > **NICHE**
 
