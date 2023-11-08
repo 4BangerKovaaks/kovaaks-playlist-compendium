@@ -118,6 +118,8 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 *(Conditioning meaning one/assisting scenario followed by a normal/hard version to get you used to harder scenarios)*
 
 - **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
+ 
+- **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom
 
 *(Meant to assist people who struggle with tracking AFTER flicking, common in precise TS scenarios)*
 
@@ -624,6 +626,12 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 
 - HNA Kek 1 - KovaaKsAscendingTealImpact
 
+- **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom
+
+- 4BK - Flick & Track (Targetswitching) - KovaaKsCapturing90Crossfire
+
+- 4BK - Speed Targetswitch (TS) KovaaKsCarrying180Arena
+
 - Shmn Track - KovaaKsBotting90Cinematic
 
 - Krasci 1o1 Tracking - KovaaKsPoppingBoxedMouse
@@ -633,12 +641,6 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 - 4BK - FMS KovaaKsNamedroppingJebaitedNightfall
 
 - Trippez Speed TS: KovaaKsGriefingGearedController
-
-- 4BK - Flick & Track (Targetswitching) - KovaaKsCapturing90Crossfire
-
-*(Meant to assist people who struggle with tracking AFTER flicking, common in precise TS scenarios)*
-
-- 4BK - Speed Targetswitch (TS) KovaaKsCarrying180Arena
 
 
 ## > Additional Resources
