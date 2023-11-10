@@ -58,7 +58,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 ## COD & BF
 
-## ADDITIONAL RESOURCES
+[ADDITIONAL RESOURCES](#Additional Resources)
 
 ## > ALL 4BK's Routines 
 
@@ -682,7 +682,7 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 - Trippez Speed TS: KovaaKsGriefingGearedController
 
 
-## > Additional Resources <a id="section2"></a> ## Section 2
+### Additional Resources 
 
 **OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**
 
