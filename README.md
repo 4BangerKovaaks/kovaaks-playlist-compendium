@@ -57,7 +57,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 ## COD & BF
 
-## [ADDITIONAL RESOURCES](#ADDITIONAL)
+## [ADDITIONAL RESOURCES](##additional-resources-1)
 
 ## > [ALL 4BK's Routines](#ALL-4BKS-ROUTINES)
 
