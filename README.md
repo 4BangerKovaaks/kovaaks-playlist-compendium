@@ -14,7 +14,7 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I foudn worthw
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
-# > TAB
+# > CONTENT
 
 ## 4BK FUNDAMENTALS
 
