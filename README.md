@@ -16,7 +16,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 # > CONTENT
 
-## [4BK FUNDAMENTALS](#ALL-ROUTINES)
+## [4BK - FUNDAMENTALS](#ALL-ROUTINES)
 
 ## 4BK - Tracking
 
@@ -58,7 +58,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 ## COD & BF
 
-## [ADDITIONAL RESOURCES](#Additional)
+## [ADDITIONAL RESOURCES]
 
 ## > [ALL 4BK's Routines](#ALL-ROUTINES)
 
