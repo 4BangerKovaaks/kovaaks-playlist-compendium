@@ -60,7 +60,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 ## [ADDITIONAL RESOURCES]
 
-## > ALL 4BK's Routines
+## > ALL 4BK's Routines(#ALL-4BKS-ROUTINES)
 
 - (3 - Intermediate) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
