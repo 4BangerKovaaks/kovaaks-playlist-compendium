@@ -15,7 +15,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 # > CONTENT
 
-## [4BK - FUNDAMENTALS](#ALL-4BKS-ROUTINES)
+## [4BK - FUNDAMENTALS](#all-4bks-routines)
 
 ## 4BK - Tracking
 
@@ -57,9 +57,9 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 ## COD & BF
 
-## [ADDITIONAL RESOURCES](##additional-resources-1)
+## ADDITIONAL RESOURCES
 
-## > [ALL 4BK's Routines](#ALL-4BKS-ROUTINES)
+## > [ALL 4BK's Routines](#all-4bks-routines)
 
 - (3 - Intermediate) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
