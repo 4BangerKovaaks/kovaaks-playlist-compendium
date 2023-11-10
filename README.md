@@ -16,15 +16,15 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 # > TAB
 
-## [FUNDAMENTALS](#3-intermediate)
+## 4BK FUNDAMENTALS
 
-## Tracking
+## 4BK - Tracking
 
-## Clicking & TS
+## 4BK - Clicking & TS
 
-## COMPILATIONS (CUP, FAR & SYA)
+## 4BK - COMPILATIONS (CUP, FAR & SYA)
 
-## NICHE
+## 4BK - NICHE
 
 # > FIELD SPECIFIC
 
@@ -62,7 +62,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 ## > ALL 4BK's Routines 
 
-- ## 3: Intermediate **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
+- (3 - Intermediate) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 *(Apex Recommended, Full playlist, focused on Reactive Strafes, smoothness inbetween & Fundamental clicking)*
 
