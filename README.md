@@ -9,14 +9,13 @@ For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginne
 
 [**SOCIALS + WRITE ON MY DISCORD, TO ME TO SUGGEST YOUR OWN PLAYLISTS**](https://linktr.ee/4bangerkovaaks)
 
-
 Compendium / Collection of playlists for KovaaK's. Their the ones I foudn worthwhile and once I've created for specific games or specific issues you might have or encounter.
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
 # > CONTENT
 
-## <a name="ALL-4BKS-ROUTINES"></a>[4BK - FUNDAMENTALS](#ALL-4BKS-ROUTINES)
+## [4BK - FUNDAMENTALS](#ALL-4BKS-ROUTINES)
 
 ## 4BK - Tracking
 
@@ -60,7 +59,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 ## [ADDITIONAL RESOURCES](#ADDITIONAL)
 
-## > ALL 4BK's Routines(#ALL-4BKS-ROUTINES)
+## > [ALL 4BK's Routines](#ALL-4BKS-ROUTINES)
 
 - (3 - Intermediate) **4BK - FUNDAMENTALS (ANAL BEADS 1$)** - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
