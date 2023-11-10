@@ -16,7 +16,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 # > TAB
 
-## [FUNDAMENTALS](#3=Intermediate)
+## [FUNDAMENTALS](#3-intermediate)
 
 ## Tracking
 
