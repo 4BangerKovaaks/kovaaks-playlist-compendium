@@ -7,10 +7,6 @@ All Routines will have a difficulty scale from 1-5 (Some missing), 1 being easie
 
 For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginner, 3 Intermediate, 4, Advanced, 5 very difficult)
 
-This is NOT meant to simply copy ridd's original compendium. But to add & remove ones I found actually useful and give a brief explination to what they're good for.
-
-More tools to describe and rate playlists will be COMING SOON.
-
 [**SOCIALS + WRITE ON MY DISCORD, TO ME TO SUGGEST YOUR OWN PLAYLISTS**](https://linktr.ee/4bangerkovaaks)
 
 
@@ -18,8 +14,51 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I foudn worthw
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
+# > TAB
 
+## FUNDAMENTALS 
 
+## Tracking
+
+## Clicking & TS
+
+## COMPILATIONS (CUP, FAR & SYA)
+
+## NICHE
+
+# > FIELD SPECIFIC
+
+## Static, Smoothness, Reactive etc
+
+# > ISSUE SPECIFIC
+
+## LOOSING TRACK OF TARGET
+
+## SHAKY AIM
+
+## NOT SMOOTHLY TRACKING
+
+## LACK SPEED
+
+## LACK ACCURACY
+
+## MOVEMENT STRUGGLES
+
+## IDK WHAT TO PLAY
+
+## BEGINNER PLAYLISTS
+
+# > GAME SPECIFIC
+
+## ALL GAMES
+
+## VALORANT / CS 2
+
+## APEX & OVERWATCH 2
+
+## COD & BF
+
+## ADDITIONAL RESOURCES [Jump to Section 2](#section2)
 
 ## > ALL  4BK's Routines
 
@@ -643,7 +682,7 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 - Trippez Speed TS: KovaaKsGriefingGearedController
 
 
-## > Additional Resources
+## > Additional Resources <a id="section2"></a> ## Section 2
 
 **OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**
 
