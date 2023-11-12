@@ -595,6 +595,8 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 
 ## **> Valorant / CSGO / CS2**
 
+- 4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector
+
 - 4BK - Static God - KovaaKsAcingBrightTank
 
 - 4BK - Static - KovaaKsSneakingFuchsiaImpact
