@@ -13,7 +13,7 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I foudn worthw
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
-# > Recommended (My Most Played Playlists)
+# > Recommended (My Most Popular Playlists)
 
 *(THIS IS GOOD FOR OVERALL CLICKING AND BECOMING SNAPPIER, all games)*
 - 4BK - Static GOD (Day 1)	**KovaaKsAcingBrightTank** [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
@@ -48,7 +48,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
  
 - (1) 4BK - Super Beginner Fundamentals (Track Focus) - KovaaKsFlankingCeruleanOfftank
 
-### Other people's playlist (Easy to get started with)
+### Other People's Popular Playlists
 
 > HNA ROUTINES
 -  Kek 1 - KovaaKsAscendingTealImpact
