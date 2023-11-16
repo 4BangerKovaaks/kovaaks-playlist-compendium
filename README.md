@@ -18,9 +18,9 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 *(THIS IS GOOD FOR OVERALL CLICKING AND BECOMING SNAPPIER, all games)*
 - 4BK - Static GOD (Day 1)	**KovaaKsAcingBrightTank** [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
 
-- F.A.R Routines (Scroll down) *(GREAT FOR OVERALL MOUSE CONTROL AND IMPROVEMENT ACROSS GAMES)*
+- **F.A.R Routines (Scroll down)** *(GREAT FOR OVERALL MOUSE CONTROL AND IMPROVEMENT ACROSS GAMES)*
 
-- SYA (Scroll down) *(Great for plateau, weaknesses and rapid overall improvement)*
+- **SYA (Scroll down)** *(Great for plateau, weaknesses and rapid overall improvement)*
 
 *(Good for overflicking and thinner reactive and smoothness scenarios)*
 - Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
