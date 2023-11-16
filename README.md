@@ -13,7 +13,67 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I foudn worthw
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
-# > CONTENT
+# > Recommended (My Most Played Playlists)
+
+*(THIS IS GOOD FOR OVERALL CLICKING AND BECOMING SNAPPIER, all games)*
+- 4BK - Static GOD (Day 1)	**KovaaKsAcingBrightTank** [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
+
+- F.A.R Routines (Scroll down) **GREAT FOR OVERALL MOUSE CONTROL AND IMPROVEMENT ACROSS GAMES**
+
+- SYA (Scroll down) *Great for plateau, weaknesses and rapid overall improvement.*
+
+*(Good for overflicking and thinner reactive and smoothness scenarios)*
+- Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
+
+- 4BK - Anal Beads Shortened **(GREAT FOR APEX)** - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
+
+- 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector**
+
+- Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)
+
+- 4BK - Buy My Coaching If This Helped You (GREAT FOR COD / BF) - **KovaaKsPatrollingCanaryBloom**
+
+*(Overall static improvements)*
+- 4BK - Static	**KovaaKsSneakingFuchsiaImpact**
+
+- 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[Explanation](https://youtu.be/XNIYrW6dTQM)
+
+- *(Recommended Fundamental routines if you're a beginner)*⬇️
+
+- (2) 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq
+ 
+- (2) 4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp
+ 
+- (1) 4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur
+ 
+- (1) 4BK - Super Beginner Fundamentals (Track Focus) - KovaaKsFlankingCeruleanOfftank
+
+### Other people's playlist (Easy to get started with)
+
+> HNA ROUTINES
+-  Kek 1 - KovaaKsAscendingTealImpact
+
+- Kek 2 - KovaaKsBackflippingThinDiff
+
+- Kek 3 - KovaaKsBaitingTurquoiseBait
+
+- Krasci 1o1 Track - KovaaKsPoppingBoxedMouse
+
+- Hauntr Easy - KovaaKsSneakingDesertsandMain
+
+- MiYu Benchmarks - KovaaKsCampingCeruleanEngine
+
+- Trippez Smooth React 1 *(Regen scenarios)* - KovaaKsQuestingSepiaProjectile
+
+- Shmn Track *(A lot of fast strafes)* - KovaaKsBotting90Cinematic
+
+- Ridd Smooth Reactive *(Thin tracking)* - KovaaKsChatfraggingBadFullbuy
+
+- Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag
+
+- PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
+
+# > ALL CONTENT
 
 ## 4BK - [Fundamentals](#4BK-FUNDAMENTALS)
 
@@ -70,7 +130,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 *(same but 1h instead of 1.5h)*
 
-- (2-3 Beginner-Intermediate) **Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
+- (2-3 Intermediate) **Goated** - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
 
 *(Focused on clean flicking lines, fundamental clicking and smooth reactive tracking, thin strafing bots basically)*
 
