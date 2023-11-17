@@ -535,9 +535,15 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 ## **> I Struggle with Shaky Aim**
 
-- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor
+*(do more smooth regen, easy smoothness(SYW), precision & lastly play one reactive scenario then one smoothness)*
 
 - Trippez Smooth Regen - KovaaKsStartingMaroonGear
+
+- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor
+
+- 4BK - Regen N' React (Regen to relax your aim after reacting) KovaaKsDinkingCeruleanFaction Video About Subject
+
+- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor
 
 - !3smooth - KovaaKsHeadshottingJunglegreenArena
 
