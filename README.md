@@ -543,7 +543,9 @@ The tracking part focuses on intermediate fundamentals where we do everything fr
 
 - 4BK - Regen N' React (Regen to relax your aim after reacting) KovaaKsDinkingCeruleanFaction Video About Subject
 
-- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor
+- 4BK - Smooth is Fast *(Some people incorrectly identify shaky aim, when It's poor speed matching. This playlist is for that)*	**KovaaKsDashingCanaryWeaponlevel**
+
+- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor *(A Easier Scenario Followed By a Harder one, can work to "get you used too reactive")*
 
 - !3smooth - KovaaKsHeadshottingJunglegreenArena
 
