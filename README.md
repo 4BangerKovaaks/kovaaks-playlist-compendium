@@ -9,7 +9,7 @@ For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginne
 
 [**SOCIALS + WRITE ON MY DISCORD, TO ME TO SUGGEST YOUR OWN PLAYLISTS**](https://linktr.ee/4bangerkovaaks)
 
-Compendium / Collection of playlists for KovaaK's. Their the ones I foudn worthwhile and once I've created for specific games or specific issues you might have or encounter.
+Compendium / Collection of playlists for KovaaK's. Their the ones I found worthwhile and once I've created for specific games or specific issues you might have or encounter.
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
