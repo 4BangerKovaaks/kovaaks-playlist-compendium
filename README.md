@@ -15,7 +15,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 # > Recommended (My Most Popular Playlists)
 
-*(THIS IS GOOD FOR OVERALL CLICKING AND BECOMING SNAPPIER, all games)*
+*(BECOMING SNAPPIER, All games)*
 - 4BK - Static GOD (Day 1)	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
 - 4BK - Full Tracking Mastery (Day 2)	KovaaKsBunnyhoppingSkyblueCard
 
@@ -23,10 +23,11 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 - **SYA (Scroll down)** *(Great for plateau, weaknesses and rapid overall improvement)*
 
-*(Good for overflicking and thinner reactive and smoothness scenarios)*
+*(Overflicking and thin smoothness)*
 - Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
 
-- 4BK - Anal Beads Shortened **(GREAT FOR APEX)** - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
+**(GREAT FOR APEX)**
+- 4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
 
 - 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector**
 
@@ -36,7 +37,6 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 - 4BK - Benchmarks - **KovaaKsClearingBrightStart** [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing) 
 
-*(Overall static improvements)*
 - 4BK - Static	**KovaaKsSneakingFuchsiaImpact**
 
 - 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[Explanation](https://youtu.be/XNIYrW6dTQM)
