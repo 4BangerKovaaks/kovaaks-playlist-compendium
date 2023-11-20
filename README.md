@@ -112,7 +112,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 **4BK - Speed Targetswitch (TS)** - KovaaKsCarrying180Arena  
 	 
 ## > [Compilations]  
-*(Do these day 1 then day 2 etc. Covering your full needs, perfect for ANY game)*  		 
+*(Do these day 1 then day 2 etc. Covering your full needs, perfect for ANY game)*  
 **4BK - Static GOD (Day 1)** - KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 **4BK - Full Tracking Mastery (Day 2)**	- KovaaKsBunnyhoppingSkyblueCard  
 
