@@ -406,7 +406,7 @@ Trippez Speed TS: KovaaKsGriefingGearedController
 **OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**  
 [**ALL MY PLAYLISTS EXPLAINED**:](https://youtu.be/TAHnXNuViYg)  
 [**Ridd's Playlist Finder:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)  
-[**MANUAL DOWNLOADS by Ridd]**(https://github.com/riddbtw/kovaaks-playlists)  
+[**MANUAL DOWNLOADS by Ridd**](https://github.com/riddbtw/kovaaks-playlists)  
 [**Cool way to EYE Train:**](https://blinkcamp.com/)  
 [**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)  
 [**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)  
