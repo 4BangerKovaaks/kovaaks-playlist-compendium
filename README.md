@@ -113,13 +113,13 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 *(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
 
 (Difficulty 3)
-**Longer Variants**
-- **4BK - Regen N' React** (Regen to relax your aim after reacting)	**KovaaKsDinkingCeruleanFaction** [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)	 
-- **4BK - Static n' Reaction Time** (Static alongside reaction based flicking)	**KovaaKsClippingBurntsiennaGoat	**	 
-- **4BK - Precision n' Regen** (Precision scenarios followed by reactive ones/conditioning)	**KovaaKsDroppingCharcoalgrayTank	**		 
-- **4BK - Smooth is Fast (For Undertracking HIHGLY RECOMMENDED)**	**KovaaKsDashingCanaryWeaponlevel**			 
-- **4BK - Recoil Smoothing (Recoil Scenarios Great For Tracking)**	**KovaaKsChokingBuggedDeserteagle**			 
-- **4BK - Shorty Pants (Short 20-30 second long scenarios)**	**KovaaKsDeathballingCapturedNightfall	**		 
+**Longer Variants**  
+**4BK - Regen N' React** (Regen to relax your aim after reacting)- **KovaaKsDinkingCeruleanFaction** [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)  
+**4BK - Static n' Reaction Time** (Static alongside reaction based flicking)- **KovaaKsClippingBurntsiennaGoat**  
+**4BK - Precision n' Regen** (Precision scenarios followed by reactive ones/conditioning) - **KovaaKsDroppingCharcoalgrayTank**  
+**4BK - Smooth is Fast (For Undertracking HIHGLY RECOMMENDED)**	- **KovaaKsDashingCanaryWeaponlevel**  
+**4BK - Recoil Smoothing (Recoil Scenarios Great For Tracking)** - **KovaaKsChokingBuggedDeserteagle**  
+**4BK - Shorty Pants (Short 20-30 second long scenarios)** - **KovaaKsDeathballingCapturedNightfall**  
 
  ## > **CUSTOMIZE YOUR OWN PLAYLIST (ALL NEWLY REVAMPED)**  
 **HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://youtu.be/m-23jo8QyKA)  
