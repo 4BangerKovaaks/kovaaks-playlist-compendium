@@ -27,6 +27,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 Kek 1 - KovaaKsAscendingTealImpact  
 Kek 2 - KovaaKsBackflippingThinDiff  
 Kek 3 - KovaaKsBaitingTurquoiseBait  
+Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 Hauntr Easy - KovaaKsSneakingDesertsandMain  
 MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
@@ -204,6 +205,7 @@ RX Static compliation(Play On Random ) - KovaaKsCheatingDynamicIdentity
 Huddled Static Dots (Static Spam) - KovaaKsBindingTurquoiseRando  
 
 ### **> Smoothness**  
+Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
 !3smooth - KovaaKsHeadshottingJunglegreenArena  
 Smoothness God - KovaaKsStartingMaroonGear  
 PureG Apex - KovaaKsPatrollingFuchsiaIntelligence  
@@ -270,242 +272,142 @@ Shmn Track - KovaaKsBotting90Cinematic
 MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine  
 Reactive SDK - KovaaKsChallengingExtraInfiltration  
 
-## **> I Struggle with Shaky Aim**
-
-*(do more smooth regen, easy smoothness(SYW), precision & lastly play one reactive scenario then one smoothness)*
-
-- Trippez Smooth Regen - KovaaKsStartingMaroonGear
-
-- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor
-
-- 4BK - Regen N' React (Regen to relax your aim after reacting) KovaaKsDinkingCeruleanFaction Video About Subject
-
-- 4BK - Smooth is Fast *(Some people incorrectly identify shaky aim, when It's poor speed matching. This playlist is for that)*	**KovaaKsDashingCanaryWeaponlevel**
-
-- 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor *(A Easier Scenario Followed By a Harder one, can work to "get you used too reactive")*
-
-- !3smooth - KovaaKsHeadshottingJunglegreenArena
-
-- Smoothness God - KovaaKsStartingMaroonGear
-
-- omnismooth - KovaaKsClearingDefaultCamp
+## **> I Struggle with Shaky Aim**  
+Trippez Smooth Regen - KovaaKsStartingMaroonGear  
+Conditioning Speed & Acc Int - **KovaaKsClickingCharcoalgrayGod**  
+4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor  
+4BK - Regen N' React (Regen to relax your aim after reacting) KovaaKsDinkingCeruleanFaction Video About Subject  
+4BK - Smooth is Fast - **KovaaKsDashingCanaryWeaponlevel**  
+4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor  
+!3smooth - KovaaKsHeadshottingJunglegreenArena  
+Smoothness God - KovaaKsStartingMaroonGear  
+omnismooth - KovaaKsClearingDefaultCamp  
 
 ## **> I Struggle Smoothly Tracking Strafing Targets**
-
-- Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy
-
-- 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard
-
-- 4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus
-
-- Hauntr Hard - KovaaKsSnipingDiagonalEgg
-
-- Shmn Track - KovaaKsBotting90Cinematic
-
-- Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot
-
-- Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn
-
-- psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
-
-- **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
-
-- Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
+Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy
+4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard
+4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus
+Hauntr Hard - KovaaKsSnipingDiagonalEgg
+Shmn Track - KovaaKsBotting90Cinematic
+Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot
+Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn
+psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
+**4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
+Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
 
 ## **> I Lack Speed In My Flicks**
+**4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
+4BK - Flick & Track: KovaaKsCapturing90Crossfire  
+4BK - Speed Targetswitch (TS): KovaaKsCarrying180Arena  
+F.A.R Day 4 & 5 [Watch Tutorial](https://youtu.be/63_7mcF8acs)  
+Trippez Precision TS: KovaaKsFlankingCobaltChopper    
 
-- 4BK - Flick & Track: KovaaKsCapturing90Crossfire
+## **> I Lack Accuracy In My Flicks**  
+4BK - Static God - KovaaKsAcingBrightTank  
+4BK - Static - KovaaKsSneakingFuchsiaImpact  
+4BK - Stop Overflicking - KovaaKsBobbingSalmonTroll  
+**4BK - Static Conditioning** KovaaKsBuffingWhiteJump  
+Kek 1 - KovaaKsAscendingTealImpact  
+Tragedy Static God - KovaaKsBlinkingSneakyQuaker  
+Trippez Precision TS: KovaaKsFlankingCobaltChopper  
 
-- 4BK - Speed Targetswitch (TS): KovaaKsCarrying180Arena
+## **> I Struggle With Movement In Game**  
+4BK - FMS KovaaKsNamedroppingJebaitedNightfall  
+RSR - KovaaKsPerfectingPrismaticGasmask  
 
-- F.A.R Day 4 & 5 [Watch Tutorial](https://youtu.be/63_7mcF8acs)
+## **> I Don't Know What To Play?**  
 
-- Trippez Precision TS: KovaaKsFlankingCobaltChopper
+**(NOTE DO NOT PLACE ALL 1247 PLAYLISTS INTO YOUR KOVAAKS FOLDER, PICK AND CHOOSE OTHERWISE YOUR KOVAAK'S WILL LAG)**  
+1247 Playlists - *(Manual Download, place in  
+D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists)*: https://www.mediafire.com/file/47z4rk3ie4mreeo/1247Playlists.zip/file  
 
-## **> I Lack Accuracy In My Flicks**
+4BK - Benchmarks - [Link](https://www.youtube.com/watch?v=tq6sBs3mXUY&t)  
+4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)  
+4BK - Goated - KovaaKsGlidingRangedBloom  
+4BK - Anal Beads - KovaaKsDroppingBrightBot  
 
-- 4BK - Static God - KovaaKsAcingBrightTank
-
-- 4BK - Static - KovaaKsSneakingFuchsiaImpact
-
-- 4BK - Stop Overflicking - KovaaKsBobbingSalmonTroll
-
-- **4BK - Static Conditioning** KovaaKsBuffingWhiteJump
-
-- Kek 1 - KovaaKsAscendingTealImpact
-
-- Tragedy Static God - KovaaKsBlinkingSneakyQuaker
-
-- Trippez Precision TS: KovaaKsFlankingCobaltChopper
-
-## **> I Struggle With Movement In Game**
-
-- 4BK - FMS KovaaKsNamedroppingJebaitedNightfall
-
-- RSR - KovaaKsPerfectingPrismaticGasmask
-
-## **> I Don't Know What To Play?**
-
-**(NOTE DO NOT PLACE ALL 1247 PLAYLISTS INTO YOUR KOVAAKS FOLDER, PICK AND CHOOSE OTHERWISE YOUR KOVAAK'S WILL LAG)**
-
-- 1247 Playlists - *(Manual Download, place in
-D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists)*: https://www.mediafire.com/file/47z4rk3ie4mreeo/1247Playlists.zip/file
-
-- 4BK - Benchmarks - [Link](https://www.youtube.com/watch?v=tq6sBs3mXUY&t)
-
-- 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
-
-- 4BK - Goated - KovaaKsGlidingRangedBloom
-
-- 4BK - Anal Beads - KovaaKsDroppingBrightBot
-
-## **Good for niche issues**
-
-- 4BK - Customize Your Playlist CUP Method - [Link](https://www.youtube.com/watch?v=isnBWHdp_-w)
+## **Good for niche issues**  
+4BK - Customize Your Playlist CUP Method - [Link](https://www.youtube.com/watch?v=isnBWHdp_-w)  
 
 ## **> I Am A Beginner**
+4BK - Beginner FUNDAMENTALS (UP TOP)  
+Check out my [EASY F.A.R Routines](https://youtu.be/63_7mcF8acs)  
+4BK - Static - KovaaKsSneakingFuchsiaImpact  
+Hauntr easy - KovaaKsSneakingDesertsandMain  
+Undertracking Heaven v2 - KovaaKsWipingDefaultTag  
+ukiyo Smoothness - KovaaKsBobbingCamouflagedPull  
+omnismooth - KovaaKsClearingDefaultCamp  
+Static Lapu4 - KovaaKsCrouchingBrownEnrage
+Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
 
-- (Play) - 4BK - Beginner FUNDAMENTALS (UP TOP)
-
-- Check out my [EASY F.A.R Routines](https://youtu.be/63_7mcF8acs)
-
-- 4BK - Static - KovaaKsSneakingFuchsiaImpact
-
-- Hauntr easy - KovaaKsSneakingDesertsandMain
-
-- Undertracking Heaven v2 - KovaaKsWipingDefaultTag
-
-- ukiyo Smoothness - KovaaKsBobbingCamouflagedPull
-
-- omnismooth - KovaaKsClearingDefaultCamp
-
-- static - Lapu4KovaaKsCrouchingBrownEnrage
-
-- (Watch) - [Link](https://www.youtube.com/watch?v=B-ihBpoX41E&list=PLzG7nj0wTAQtkWyel83eseltjFQGhar2f)
-
-- (FAQ - Read) - [Link](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit)
+(Watch) - [Link](https://www.youtube.com/watch?v=B-ihBpoX41E&list=PLzG7nj0wTAQtkWyel83eseltjFQGhar2f)  
+(FAQ - Read) - [Link](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit)  
 
 
 ## **Game Specific Routines**
 
+## > ALL GAMES / MOUSE CONTROL 
+4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)  
+4BK - SYA (Up top) [Link]([https://www.youtube.com/watch?v=63_7mcF8acs](https://youtu.be/bQ1IamY5s54)  
+4BK Benchmarks - [Link](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit#gid=956015131)  
+4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel  
+4BK: A Guy - KovaaKsTrackingAcedWall  
 
-## > ALL GAMES / MOUSE CONTROL
+## **> Valorant / CSGO / CS2**  
+4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector  
+4BK - Static God - KovaaKsAcingBrightTank  
+4BK - Static - KovaaKsSneakingFuchsiaImpact  
+4BK - Stop Overflicking - KovaaKsBobbingSalmonTroll  
+Trippez Smooth Regen - KovaaKsStartingMaroonGear  
+Kek 1 - KovaaKsAscendingTealImpact  
+4BK - VAL/CS: KovaaKsRevolvingBuffedSentinel  
+4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector  
+B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrightTile  
+Viz x 4BK - Clicking Heads: KovaaKsPoppingVioletBunnyhop  
+Viz Clicking Heads(Easier): KovaaKsCheatingDenimPick  
+4BK - Static Conditioning KovaaKsBuffingWhiteJump  
 
-*(+Check Fundamentals up top)*
-
-- 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
-
-- 4BK Benchmarks - [Link](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit#gid=956015131)
-
-- 4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel
-
-- 4BK: A Guy - KovaaKsTrackingAcedWall
-
-## **> Valorant / CSGO / CS2**
-
-- 4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector
-
-- 4BK - Static God - KovaaKsAcingBrightTank
-
-- 4BK - Static - KovaaKsSneakingFuchsiaImpact
-
-- 4BK - Stop Overflicking - KovaaKsBobbingSalmonTroll
-
-- Trippez Smooth Regen - KovaaKsStartingMaroonGear
-
-- Kek 1 - KovaaKsAscendingTealImpact
-
-- 4BK - VAL/CS: KovaaKsRevolvingBuffedSentinel
-
-- 4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector
-
-(Great playlist for CS2 & Valorant, general tacfps games for more headshots and one taps)
-
-- B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrightTile
-
-- Viz x 4BK - Clicking Heads: KovaaKsPoppingVioletBunnyhop
-
-- Viz Clicking Heads(Easier): KovaaKsCheatingDenimPick
-
-- 4BK - Static Conditioning KovaaKsBuffingWhiteJump
-
-## **> Apex & OW2**
-
-- 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)
-
-- 4BK - Anal Beads - KovaaKsDroppingBrightBot
-
-- 4BK - Fire & Ice - KovaaKsWipingNastyAntieco
-
-- 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard
-
-- 4BK - Overwatch 2 Solider 69 (OW) - HARD - KovaaKsTrollingDinkedJump
-
-- Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile
-
-- Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest
-
-- Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur
-
-- Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
-
-- 4BK - FMS (Fundamentals with some movement) KovaaKsNamedroppingJebaitedNightfall
-
-- RSR (Full Movement) - KovaaKsPerfectingPrismaticGasmask
-
-- MBM Tracking (Thin Reactive + movement) - KovaaKsPlunderingBlueValue
-
-- Krasci 1o1 Track - KovaaKsPoppingBoxedMouse
-
-- PureG Apex (short) - KovaaKsPatrollingFuchsiaIntelligence
-
-- 4BK - Advanced Fundamenetals (Aimbeast)
-
-- 4BK: Tracking Conditioning	 KovaaKsBunnyhoppingWideDoor
-
-- Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn
-
-- Sined - Soldier 76 - KovaaKsAscendingGoodGoat
-
-- Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
-
-## **> COD & BF**
-
-- 4BK - Goated - KovaaKsGlidingRangedBloom
-
-- HNA Kek 1 - KovaaKsAscendingTealImpact
-
-- **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom
-
-- 4BK - Flick & Track (Targetswitching) - KovaaKsCapturing90Crossfire
-
-- 4BK - Speed Targetswitch (TS) KovaaKsCarrying180Arena
-
-- Shmn Track - KovaaKsBotting90Cinematic
-
-- Krasci 1o1 Tracking - KovaaKsPoppingBoxedMouse
-
-- 4BK Benchmarks (up top)
-
-- 4BK - FMS KovaaKsNamedroppingJebaitedNightfall
-
-- Trippez Speed TS: KovaaKsGriefingGearedController
+## **> Apex & OW2**  
+4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)  
+4BK - Anal Beads - KovaaKsDroppingBrightBot  
+4BK - Fire & Ice - KovaaKsWipingNastyAntieco  
+4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard  
+4BK - Overwatch 2 Solider 69 (OW) - HARD - KovaaKsTrollingDinkedJump  
+Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile  
+Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest  
+Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur  
+Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine  
+4BK - FMS (Fundamentals with some movement) KovaaKsNamedroppingJebaitedNightfall  
+RSR (Full Movement) - KovaaKsPerfectingPrismaticGasmask  
+MBM Tracking (Thin Reactive + movement) - KovaaKsPlunderingBlueValue  
+Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
+PureG Apex (short) - KovaaKsPatrollingFuchsiaIntelligence  
+4BK - Advanced Fundamenetals (Aimbeast)  
+4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor  
+Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn  
+Sined - Soldier 76 - KovaaKsAscendingGoodGoat  
+Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
+  
+## **> COD & BF**  
+4BK - Goated - KovaaKsGlidingRangedBloom  
+HNA Kek 1 - KovaaKsAscendingTealImpact  
+**4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
+4BK - Flick & Track (Targetswitching) - KovaaKsCapturing90Crossfire  
+4BK - Speed Targetswitch (TS) KovaaKsCarrying180Arena  
+Shmn Track - KovaaKsBotting90Cinematic  
+Krasci 1o1 Tracking - KovaaKsPoppingBoxedMouse  
+4BK Benchmarks (up top)  
+4BK - FMS KovaaKsNamedroppingJebaitedNightfall  
+Trippez Speed TS: KovaaKsGriefingGearedController  
 
 
 ### Additional Resources 
 
-**OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**
-
-[**ALL MY PLAYLISTS**:](https://docs.google.com/spreadsheets/d/1pDKiviydpzZz0hEkHt2b3oUruWW_SBPF_w6enxrB_E0/edit#gid)
-
-[**RECOMMENDED PLAYLIST FINDER:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)
-
-[**MANUAL DOWNLOADS by Ridd]:**(https://github.com/riddbtw/kovaaks-playlists)
-
-[**Cool way to EYE Train:**](https://blinkcamp.com/)
-
-[**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)
-
-[**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)
-
-[**Binaural beats for sleep** This one is amazing](https://www.youtube.com/watch?v=Y39WIwff0zk&t)
+**OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**  
+[**ALL MY PLAYLISTS**:](https://docs.google.com/spreadsheets/d/1pDKiviydpzZz0hEkHt2b3oUruWW_SBPF_w6enxrB_E0/edit#gid)  
+[**RECOMMENDED PLAYLIST FINDER:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)  
+[**MANUAL DOWNLOADS by Ridd]:**(https://github.com/riddbtw/kovaaks-playlists)  
+[**Cool way to EYE Train:**](https://blinkcamp.com/)  
+[**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)  
+[**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)  
+[**Binaural beats for sleep** This one is amazing](https://www.youtube.com/watch?v=Y39WIwff0zk&t)  
