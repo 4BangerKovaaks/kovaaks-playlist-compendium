@@ -149,232 +149,129 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 
 ## > **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**  
 
-### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)
-
-🥇Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists.
-
-(3-4 Intermediate to Adv)
-
-- Day 1 Flicking + Mousecontrol : **KovaaKsPushingVioletXur**
-
-- Day 2 Reactive Strafes + Static : **KovaaKsQuestingViscousOfftank**
-
-- Day 3 Precision Tracking + Speed TargetSwitching : **KovaaKsReloadingWeeklyCapture**
-
-- Day 4 Movement Tracking + Accurate TargetSwitching** : **KovaaKsRevolvingWetMilestone**
-
-- Day 5 Dynamic + Smooth Reactive** : **KovaaKsRocketingWideBuff**
-
-- Day 6 Reflexes + Tracking Gauntles : **KovaaKsSensingYellowJump**
-
-- Day 7 FULL : **KovaaKsStarting90Binding**
-
-
-### > **EASY VERSIONS**
-
-(2-3 Beginner to Int)
-
-- **Day 1 Flicking + Mousecontrol:** *KovaaKsPushingVioletXur*
-
-- Day 2 Reactive Strafes + Static: **KovaaKsRaidingVividtangerineFaq**
-
-- Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsResettingWeeklyTimewarp**
-
-- Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRoamingWhiteEngram**
-
-- Day 5 Dynamic + Smooth Reactive : **KovaaKsScreamingWideSpeed**
-
-- Day 6 Reflexes + Tracking Gauntles : **KovaaKsSneakingZonedDoor**
-
-- Day 7 FULL: **KovaaKsStrafing90Rifle**
-
-
-## > **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**
-
-**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://www.youtube.com/watch?v=wcPNdU0qsiI&t)
-
-- **Static:** KovaaKsSneakingFuchsiaImpact
-
-- **Targetswitching:** KovaaKsStrafingGhostpeekedRando
-
-- **Smoothness:** KovaaKsTaggingGoldenochreAfk
-
-- **Reactive:** KovaaKsTeleportingGoldenochrePlunder
-
-- **Evasive TS:** KovaaKsSwitchingGodlikeClutch
-
-- **(Speed Static):** KovaaKsStartingGhostpeekedBait
-
-
-## > SYA Method / Smooth Your Aim [Explained](https://youtu.be/bQ1IamY5s54)
-
-- **4BK - SYA VT Conditioning** - KovaaKsCamouflagingGooshedCapture
-
-- **4BK - SYA Full Conditioning (Slight VT Benchmark focus)** - KovaaKsChallengingHardBuff
-
-- **4BK - SYA Complete Technique (Focuses More on Smoothness)** - KovaaKsClickingInvincibleHell
-
-- **4BK - SYA Clicking Conditioning** - KovaaKsClippingJebaitedCrossfire
-
-- **4BK - SYA Tracking Conditioning** - KovaaKsChattingHorizontalJump
-
-- **4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox
-
-- **4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun
-
-- **SYA MIYU** - KovaaKsJigglepeekingTealNuns
-
-
-## > **NICHE**
-
-4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [Explanation](https://www.youtube.com/watch?v=BDouPnIlSu4&t)
-
-- **4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [Explanation](https://www.youtube.com/watch?v=FmhI6qFxwiU)
-
-*(USE LOW FOV, can help some people's tracking problems)*
-
-
-## > **AimBeast**
-
-(5 Very Difficult)
-- **4BK - Advanced Fundamentals:** 
-
-*(Harder tracking combined with static, a touch of dynamic and targetswitching)*
-
-
-# <span style="font-size: larger;">Recommended Playlists & Their Seperate Fields </span>
-
-### **> Static**
-
-- Truste daily - KovaaKsBombingWide1v1
-
-- Static God - KovaaKsBlinkingSneakyQuaker
-
-- RX Static compliation(Play On Random ) - KovaaKsCheatingDynamicIdentity
-
-- Huddled Static Dots (Static Spam) - KovaaKsBindingTurquoiseRando
-
-### **> Smoothness**
-
-- !3smooth - KovaaKsHeadshottingJunglegreenArena
-
-- Smoothness God - KovaaKsStartingMaroonGear
-
-- PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
-
-- Trippez Smooth Regen - KovaaKsDashingAlmightyCounterstrafe
-
-- Trippez Smooth Reactive 1 - KovaaKsQuestingSepiaProjectile
-
-- Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest
-
-- **4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel **
-
-(Smooth is Fast = Mainly for Undertracking)
-
-- Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag
-
-- Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot
-
-### **> Reactive**
-
-- 4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus
-
-- Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy
-
-- Shmn Track - KovaaKsBotting90Cinematic
-
-- Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile
-
-- Trippez Smooth React 2 - KovaaKsBombingPeriwinkleQuest
-
-- Trippez Gotta Go Fast (Hard) - KovaaKsGriefingGearedController
-
-- MiYu Benchmarks - KovaaKsCampingCeruleanEngine
-
-- Krasci 1o1 - KovaaKsPoppingBoxedMouse
-
-- Hauntr Hard - KovaaKsSneakingDesertsandMain
-
-- Hauntr Easy - KovaaKsSneakingDesertsandMain
-
-- Krasci FuglaaXYZ - KovaaKsPeakingTwitchyAds 
-
-(Good for Micro Adjusting During Tracking)
-
-- Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn
-
-- psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
-
-- Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
-
-### **> TargetSwitching (Speed)**
-
-- Trippez Speed TS: KovaaKsGriefingGearedController
-
-- Gored speed - KovaaKsReloadingDinkedOptic
-
-- Lapuv4 TargetSwitching - KovaaKsScreamingShinyCinematic
-
-- 4BK - Flick & Track: KovaaKsCapturing90Crossfire
-
-- 4BK - Speed Targetswitch (TS): KovaaKsCarrying180Arena
-
-**> HNA Routines (TS)**
-
-- Kek 1 - KovaaKsAscendingTealImpact
-
-- Kek 2 - KovaaKsBackflippingThinDiff
-
-- Kek 3 - KovaaKsBaitingTurquoiseBait
-
-### **> AimBeast recommends**
-
-- Static: Gigachad Static (1h)
-
-### **> Tracking:**
-
-- 4BK - Advanced Fundamentals
-
-- Intermediate Apex Legends
-
-- Advanced Apex Legends
-
-- [HARD] Tracking GOD Training
-
-- Goated Scens
-
-## > **COMMON STRUGGLES**
-
-# > I Struggle With Reacting To Targets / Losing Track Of Target
-
-- Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController
-
-- Trippez Gotta Go Fast 2 – KovaaKsHeadshottingGhostpeekedAntidive
-
-- Trippez Gotta Go Fast 3 – KovaaKsHipfiringGhostpeekedPopcorn
-
-- 4BK: React As Much As Possible: KovaaKsVibratingMaroonInfiltration
-
-- 4BK: React (As much As You Can) 2: KovaaKsCamouflagingZonedHell
-
-- Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile
-
-- Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest
-
-- Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur
-
-- Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
-
-- 4BK - Fire & Ice - KovaaKsWipingNastyAntieco
-
-- 4BK - Anal Beads - KovaaKsDroppingBrightBot
-
-- Shmn Track - KovaaKsBotting90Cinematic
-
-- MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine
-
-- Reactive SDK - KovaaKsChallengingExtraInfiltration
+### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)  
+<ins>🥇Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists</ins>  
+
+Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur**  
+Day 2 Reactive Strafes + Static: **KovaaKsQuestingViscousOfftank**  
+Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsReloadingWeeklyCapture**  
+Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRevolvingWetMilestone**  
+Day 5 Dynamic + Smooth Reactive: **KovaaKsRocketingWideBuff**  
+Day 6 Reflexes + Tracking Gauntles: **KovaaKsSensingYellowJump**  
+Day 7 FULL : **KovaaKsStarting90Binding**  
+
+### > **EASY VERSIONS**  
+Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur* * 
+Day 2 Reactive Strafes + Static: **KovaaKsRaidingVividtangerineFaq**  
+Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsResettingWeeklyTimewarp**  
+Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRoamingWhiteEngram**  
+Day 5 Dynamic + Smooth Reactive: **KovaaKsScreamingWideSpeed**  
+Day 6 Reflexes + Tracking Gauntles: **KovaaKsSneakingZonedDoor**  
+Day 7 FULL: **KovaaKsStrafing90Rifle**  
+
+
+## > **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**   
+**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://www.youtube.com/watch?v=wcPNdU0qsiI&t)  
+**Static:** KovaaKsSneakingFuchsiaImpact  
+**Targetswitching:** KovaaKsStrafingGhostpeekedRando  
+**Smoothness:** KovaaKsTaggingGoldenochreAfk  
+**Reactive:** KovaaKsTeleportingGoldenochrePlunder  
+**Evasive TS:** KovaaKsSwitchingGodlikeClutch  
+**(Speed Static):** KovaaKsStartingGhostpeekedBait  
+
+
+## > SYA Method / Smooth Your Aim [Explained](https://youtu.be/bQ1IamY5s54)  
+**4BK - SYA VT Conditioning** - KovaaKsCamouflagingGooshedCapture  
+**4BK - SYA Full Conditioning (Slight VT Benchmark focus)** - KovaaKsChallengingHardBuff  
+**4BK - SYA Complete Technique (Focuses More on Smoothness)** - KovaaKsClickingInvincibleHell  
+**4BK - SYA Clicking Conditioning** - KovaaKsClippingJebaitedCrossfire  
+**4BK - SYA Tracking Conditioning** - KovaaKsChattingHorizontalJump  
+**4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox  
+**4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun  
+**SYA MIYU** - KovaaKsJigglepeekingTealNuns  
+
+
+## > **NICHE**  
+4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [Explanation](https://www.youtube.com/watch?v=BDouPnIlSu4&t)  
+**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [Explanation](https://www.youtube.com/watch?v=FmhI6qFxwiU)  
+
+## > **AimBeast**  
+**4BK - Advanced Fundamentals:** 
+
+# <span style="font-size: larger;"> Field Specific </span>
+
+### **> Static**  
+Truste daily - KovaaKsBombingWide1v1  
+Static God - KovaaKsBlinkingSneakyQuaker  
+RX Static compliation(Play On Random ) - KovaaKsCheatingDynamicIdentity  
+Huddled Static Dots (Static Spam) - KovaaKsBindingTurquoiseRando  
+
+### **> Smoothness**  
+!3smooth - KovaaKsHeadshottingJunglegreenArena  
+Smoothness God - KovaaKsStartingMaroonGear  
+PureG Apex - KovaaKsPatrollingFuchsiaIntelligence  
+Trippez Smooth Regen - KovaaKsDashingAlmightyCounterstrafe  
+Trippez Smooth Reactive 1 - KovaaKsQuestingSepiaProjectile  
+Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest  
+4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel
+Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag  
+Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot  
+
+### **> Reactive**  
+4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus  
+Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy  
+Shmn Track - KovaaKsBotting90Cinematic  
+Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile  
+Trippez Smooth React 2 - KovaaKsBombingPeriwinkleQuest  
+Trippez Gotta Go Fast (Hard) - KovaaKsGriefingGearedController  
+MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
+Krasci 1o1 - KovaaKsPoppingBoxedMouse  
+Hauntr Hard - KovaaKsSnipingDiagonalEgg  
+Hauntr Easy - KovaaKsSneakingDesertsandMain  
+Krasci FuglaaXYZ - KovaaKsPeakingTwitchyAds  
+Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn  
+psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker  
+Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
+
+### **> TargetSwitching (Speed)**  
+Trippez Speed TS: KovaaKsGriefingGearedController  
+Gored speed - KovaaKsReloadingDinkedOptic  
+Lapuv4 TargetSwitching - KovaaKsScreamingShinyCinematic  
+4BK - Flick & Track: KovaaKsCapturing90Crossfire  
+4BK - Speed Targetswitch (TS): KovaaKsCarrying180Arena  
+**> HNA Routines (TS)**  
+Kek 1 - KovaaKsAscendingTealImpact  
+Kek 2 - KovaaKsBackflippingThinDiff  
+Kek 3 - KovaaKsBaitingTurquoiseBait  
+
+### **> AimBeast recommends**  
+- Static: Gigachad Static (1h)  
+
+### **> Tracking:**  
+4BK - Advanced Fundamentals  
+Intermediate Apex Legends  
+Advanced Apex Legends  
+[HARD] Tracking GOD Training  
+Goated Scens  
+Solider 76 - Pipi  
+
+## > **COMMON STRUGGLES**  
+
+# > I Struggle With Reacting To Targets / Losing Track Of Target  
+Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController  
+Trippez Gotta Go Fast 2 – KovaaKsHeadshottingGhostpeekedAntidive  
+Trippez Gotta Go Fast 3 – KovaaKsHipfiringGhostpeekedPopcorn  
+4BK: React As Much As Possible: KovaaKsVibratingMaroonInfiltration  
+4BK: React (As much As You Can) 2: KovaaKsCamouflagingZonedHell  
+Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile  
+Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest  
+Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur  
+Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine  
+4BK - Fire & Ice - KovaaKsWipingNastyAntieco  
+4BK - Anal Beads - KovaaKsDroppingBrightBot  
+Shmn Track - KovaaKsBotting90Cinematic  
+MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine  
+Reactive SDK - KovaaKsChallengingExtraInfiltration  
 
 ## **> I Struggle with Shaky Aim**
 
