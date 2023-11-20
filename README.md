@@ -1,12 +1,5 @@
 # <span style="font-size: larger;">4BangerKovaaks Updated Playlist Compendium & Common Issues </span> 
 
-
-**FUTURE PLANS & EXPLANATIONS**
-
-All Routines will have a difficulty scale from 1-5 (Some missing), 1 being easiest, 5 being hardest) 
-
-For example (3) 4BK: FMS , the difficulty will then be intermediate, 1-2 beginner, 3 Intermediate, 4, Advanced, 5 very difficult)
-
 [**SOCIALS + WRITE ON MY DISCORD, TO ME TO SUGGEST YOUR OWN PLAYLISTS**](https://linktr.ee/4bangerkovaaks)
 
 Compendium / Collection of playlists for KovaaK's. Their the ones I found worthwhile and once I've created for specific games or specific issues you might have or encounter.
