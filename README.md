@@ -404,8 +404,8 @@ Trippez Speed TS: KovaaKsGriefingGearedController
 ### Additional Resources 
 
 **OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**  
-[**ALL MY PLAYLISTS**:](https://docs.google.com/spreadsheets/d/1pDKiviydpzZz0hEkHt2b3oUruWW_SBPF_w6enxrB_E0/edit#gid)  
-[**RECOMMENDED PLAYLIST FINDER:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)  
+[**ALL MY PLAYLISTS EXPLAINED**:](https://youtu.be/TAHnXNuViYg)  
+[**Ridd's Playlist Finder:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)  
 [**MANUAL DOWNLOADS by Ridd]:**(https://github.com/riddbtw/kovaaks-playlists)  
 [**Cool way to EYE Train:**](https://blinkcamp.com/)  
 [**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)  
