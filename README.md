@@ -93,10 +93,10 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 
 
 ## > [Purely Tracking] 	 
-**4BK - DODGE THESE NUTS** -	KovaaKsNamedroppingJebaitedNightfall   
-**4BK - Smooth Regen** -	KovaaKsCounterstrafingSaltyModifier	  
-**4BK - FIRE AND ICE** -	KovaaKsWipingNastyAntieco	[Explanation](https://www.youtube.com/watch?v=CiiA-djfyOM)  
-**4BK: React As Much As Possible** -	KovaaKsVibratingMaroonInfiltration [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)  
+**4BK - DODGE THESE NUTS** - KovaaKsNamedroppingJebaitedNightfall   
+**4BK - Smooth Regen** - KovaaKsCounterstrafingSaltyModifier	  
+**4BK - FIRE AND ICE** - KovaaKsWipingNastyAntieco [Explanation](https://www.youtube.com/watch?v=CiiA-djfyOM)  
+**4BK: React As Much As Possible** - KovaaKsVibratingMaroonInfiltration [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)  
 **React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)   
 **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle  
 **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor  
@@ -104,19 +104,19 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 
 ## > [Clicking & Targetswitching]	 
 *(Hold down M1 when focusing on Pokeball & do** [4BClick Method](https://youtu.be/XNIYrW6dTQM) 
-**4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	[Explanation](https://youtu.be/XNIYrW6dTQM)  
-**4BK - Static**	KovaaKsSneakingFuchsiaImpact  
-**4BK - Static Conditioning** KovaaKsBuffingWhiteJump  
+**4BK - STOP OVERFLICKING** - KovaaKsBobbingSalmonTroll [Explanation](https://youtu.be/XNIYrW6dTQM)  
+**4BK - Static** - KovaaKsSneakingFuchsiaImpact  
+**4BK - Static Conditioning** - KovaaKsBuffingWhiteJump  
 **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
 **4BK - Flick & Track (Targetswitching)** - KovaaKsCapturing90Crossfire  
-**4BK - Speed Targetswitch (TS)** KovaaKsCarrying180Arena  
+**4BK - Speed Targetswitch (TS)** - KovaaKsCarrying180Arena  
 	 
-## > [Compilations]	 	 
-*(Do these day 1 then day 2 etc. Covering your full needs, perfect for ANY game)*		 
-**4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)	 
-**4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard	 
+## > [Compilations]  
+*(Do these day 1 then day 2 etc. Covering your full needs, perfect for ANY game)*  		 
+**4BK - Static GOD (Day 1)** - KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
+**4BK - Full Tracking Mastery (Day 2)**	- KovaaKsBunnyhoppingSkyblueCard  
 
-## > **(LONG C.U.P)**	 
+## > **(LONG C.U.P)**  
 *(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
 
 (Difficulty 3)
@@ -128,33 +128,33 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 - **4BK - Recoil Smoothing (Recoil Scenarios Great For Tracking)**	**KovaaKsChokingBuggedDeserteagle**			 
 - **4BK - Shorty Pants (Short 20-30 second long scenarios)**	**KovaaKsDeathballingCapturedNightfall	**		 
 
- ## > **CUSTOMIZE YOUR OWN PLAYLIST (ALL NEWLY REVAMPED)**	 	 
-**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://youtu.be/m-23jo8QyKA)	 
-*Accuraccy + Flicking* - **KovaaKsRocketingJebaitedGhostpeeker**	 
-*Corrective Flicking* - **KovaaKsScreamingJitteryClient**	 
-*Dodge Complete* - **KovaaKsSensingJumboAds**	 
-*Fast Clicking* - **KovaaKsSneakingJumboPick**	 
-*Micro Adjusting* - **KovaaKsSnipingJumpyFlashbang**	 
-*Pokeball* - **KovaaKsStartingJunglegreenChallenge**	 
-*Precision Tracking* - **KovaaKsStrafingJunglegreenWall**	 
-*Pure Smoothness (anti shake)* - **KovaaKsUltingMahoganyShotgun**	 
-*React (as much as possible)* - **KovaaKsVibratingMaroonInfiltration**	 
-*React (As much As You Can) 2* - **KovaaKsCamouflagingZonedHell**	 
-*Short Static* - **KovaaKsTaggingLightvenetianredCallout**	 
-*Speed Static + Pokeball* - **KovaaKsTeleportingLightvenetianredTag**	 
-*Strafes & Smoothness* - **KovaaKsTimewarpingLongLurker**	 
-*TargetClicking* - **KovaaKsTrackingMagentaDunk**	 
-*Corrective Snaps:* - **KovaaKsAcingFlyClutch**	 
-*Mini Dodge Track:* - **KovaaKsGhostpeekingBrown90s**	 
-*Reactive Strafes:* - **KovaaKsGriefingBuffedFireteam**	 
-*Smooth Reactive:* - **KovaaKsHeadshottingBuggedCatalyst**	 
-*Fundamental Warmup:* - **KovaaKsHipfiringBuggedUlt**	 
-*Apex Warmup:* - **KovaaKsImpactingBurntorangeMount**	 
-*COD & BF Warmup:* - **KovaaKsJigglepeekingBurntsiennaEquipment**	 
-*Overwatch 2 Warmup:* - **KovaaKsKillstreakingButterySuper**	 
-*Valorant & CSGO Warmup:* - **KovaaKsMainingCamouflagedDrop**	 
+ ## > **CUSTOMIZE YOUR OWN PLAYLIST (ALL NEWLY REVAMPED)**  
+**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://youtu.be/m-23jo8QyKA)  
+*Accuraccy + Flicking* - **KovaaKsRocketingJebaitedGhostpeeker**  
+*Corrective Flicking* - **KovaaKsScreamingJitteryClient**  
+*Dodge Complete* - **KovaaKsSensingJumboAds**  
+*Fast Clicking* - **KovaaKsSneakingJumboPick**  
+*Micro Adjusting* - **KovaaKsSnipingJumpyFlashbang**  
+*Pokeball* - **KovaaKsStartingJunglegreenChallenge**  
+*Precision Tracking* - **KovaaKsStrafingJunglegreenWall**  
+*Pure Smoothness (anti shake)* - **KovaaKsUltingMahoganyShotgun**  
+*React (as much as possible)* - **KovaaKsVibratingMaroonInfiltration**  
+*React (As much As You Can) 2* - **KovaaKsCamouflagingZonedHell**  
+*Short Static* - **KovaaKsTaggingLightvenetianredCallout**  
+*Speed Static + Pokeball* - **KovaaKsTeleportingLightvenetianredTag**  
+*Strafes & Smoothness* - **KovaaKsTimewarpingLongLurker**  
+*TargetClicking* - **KovaaKsTrackingMagentaDunk**  
+*Corrective Snaps:* - **KovaaKsAcingFlyClutch**  
+*Mini Dodge Track:* - **KovaaKsGhostpeekingBrown90s**  
+*Reactive Strafes:* - **KovaaKsGriefingBuffedFireteam**  
+*Smooth Reactive:* - **KovaaKsHeadshottingBuggedCatalyst**  
+*Fundamental Warmup:* - **KovaaKsHipfiringBuggedUlt**  
+*Apex Warmup:* - **KovaaKsImpactingBurntorangeMount**  
+*COD & BF Warmup:* - **KovaaKsJigglepeekingBurntsiennaEquipment**  
+*Overwatch 2 Warmup:* - **KovaaKsKillstreakingButterySuper**  
+*Valorant & CSGO Warmup:* - **KovaaKsMainingCamouflagedDrop**  
 
-## > **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**
+## > **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**  
 
 ### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)
 
