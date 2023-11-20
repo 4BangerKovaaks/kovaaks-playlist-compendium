@@ -110,10 +110,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 **4BK - Full Tracking Mastery (Day 2)**	- KovaaKsBunnyhoppingSkyblueCard  
 
 ## > **(LONG C.U.P)**  
-*(CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc)*
-
-(Difficulty 3)
-**Longer Variants**  
+<ins>CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc</ins>  
 **4BK - Regen N' React** (Regen to relax your aim after reacting)- **KovaaKsDinkingCeruleanFaction** [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)  
 **4BK - Static n' Reaction Time** (Static alongside reaction based flicking)- **KovaaKsClippingBurntsiennaGoat**  
 **4BK - Precision n' Regen** (Precision scenarios followed by reactive ones/conditioning) - **KovaaKsDroppingCharcoalgrayTank**  
