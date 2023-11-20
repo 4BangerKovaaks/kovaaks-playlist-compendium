@@ -78,7 +78,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 4BK - FMS - **KovaaKsNamedroppingJebaitedNightfall**   
 4BK Conditioning Playlist: KovaaKsRevolvingEggplantFamas   
 
-<ins> Recommended Fundamental routines if you're a beginner⬇️</ins> 
+<ins>Recommended Fundamental routines if you're a beginner⬇️</ins>  
 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq  
 4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp  
 4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur  
