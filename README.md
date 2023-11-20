@@ -103,15 +103,15 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 **4BK - Overwatch 2 Solider 69 (OW) - HARD** - KovaaKsTrollingDinkedJump  
 
 ## > [Clicking & Targetswitching]	 
-*(Hold down M1 when focusing on Pokeball & do [4BClick Method](https://youtu.be/XNIYrW6dTQM)*	 
-**4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	[Explanation](https://youtu.be/XNIYrW6dTQM)	 
-**4BK - Static**	KovaaKsSneakingFuchsiaImpact	 
-**4BK - Static Conditioning** KovaaKsBuffingWhiteJump	 
-**4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom	 
-**4BK - Flick & Track (Targetswitching)** - KovaaKsCapturing90Crossfire	 
-**4BK - Speed Targetswitch (TS)** KovaaKsCarrying180Arena	 
-
-## > [Compilations]	 
+*(Hold down M1 when focusing on Pokeball & do** [4BClick Method](https://youtu.be/XNIYrW6dTQM) 
+**4BK - STOP OVERFLICKING**	KovaaKsBobbingSalmonTroll	[Explanation](https://youtu.be/XNIYrW6dTQM)  
+**4BK - Static**	KovaaKsSneakingFuchsiaImpact  
+**4BK - Static Conditioning** KovaaKsBuffingWhiteJump  
+**4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
+**4BK - Flick & Track (Targetswitching)** - KovaaKsCapturing90Crossfire  
+**4BK - Speed Targetswitch (TS)** KovaaKsCarrying180Arena  
+	 
+## > [Compilations]	 	 
 *(Do these day 1 then day 2 etc. Covering your full needs, perfect for ANY game)*		 
 **4BK - Static GOD (Day 1)**	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)	 
 **4BK - Full Tracking Mastery (Day 2)**	KovaaKsBunnyhoppingSkyblueCard	 
