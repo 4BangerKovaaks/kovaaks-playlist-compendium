@@ -15,66 +15,34 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 # > Recommended (My Most Popular Playlists)
 
-*(BECOMING SNAPPIER, All games)*
-- 4BK - Static GOD (Day 1)	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)
-- 4BK - Full Tracking Mastery (Day 2)	KovaaKsBunnyhoppingSkyblueCard
-
-- **F.A.R Routines (Scroll down)** *(GREAT FOR OVERALL MOUSE CONTROL AND IMPROVEMENT ACROSS GAMES)*
-
-- **SYA (Scroll down)** *(Great for plateau, weaknesses and rapid overall improvement)*
-
-*(Overflicking and thin smoothness)*
-- Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)
-
-**(GREAT FOR APEX)**
-- 4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)
-
-- 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector**
-
-- Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)
-
-- 4BK - Buy My Coaching If This Helped You (GREAT FOR COD / BF) - **KovaaKsPatrollingCanaryBloom**
-
-- 4BK - Benchmarks - **KovaaKsClearingBrightStart** [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing) 
-
-- 4BK - Static	**KovaaKsSneakingFuchsiaImpact**
-
-- 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[Explanation](https://youtu.be/XNIYrW6dTQM)
-
-- *(Recommended Fundamental routines if you're a beginner)*⬇️
-
-- (2) 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq
- 
-- (2) 4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp
- 
-- (1) 4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur
- 
-- (1) 4BK - Super Beginner Fundamentals (Track Focus) - KovaaKsFlankingCeruleanOfftank
+4BK - Static GOD (Day 1)	KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
+4BK - Full Tracking Mastery (Day 2)	KovaaKsBunnyhoppingSkyblueCard  
+**F.A.R Routines (Scroll down)**  
+**SYA (Scroll down)**  
+Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)    
+4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)    
+4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [Explanation]([https://youtu.be/NWZcf9Rl6J8](https://youtu.be/P-tCNBJoc1w))    
+Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)   
+4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
+4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
+4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[Explanation](https://youtu.be/XNIYrW6dTQM)  
+4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq  
+4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp   
+4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur  
+4BK - Super Beginner Fundamentals (Track Focus) - KovaaKsFlankingCeruleanOfftank  
 
 ### Other People's Popular Playlists
-
-> HNA ROUTINES
--  Kek 1 - KovaaKsAscendingTealImpact
-
-- Kek 2 - KovaaKsBackflippingThinDiff
-
-- Kek 3 - KovaaKsBaitingTurquoiseBait
-
-- Krasci 1o1 Track - KovaaKsPoppingBoxedMouse
-
-- Hauntr Easy - KovaaKsSneakingDesertsandMain
-
-- MiYu Benchmarks - KovaaKsCampingCeruleanEngine
-
-- Trippez Smooth React 1 *(Regen scenarios)* - KovaaKsQuestingSepiaProjectile
-
-- Shmn Track *(A lot of fast strafes)* - KovaaKsBotting90Cinematic
-
-- Ridd Smooth Reactive *(Thin tracking)* - KovaaKsChatfraggingBadFullbuy
-
-- Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag
-
-- PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
+Kek 1 - KovaaKsAscendingTealImpact  
+Kek 2 - KovaaKsBackflippingThinDiff  
+Kek 3 - KovaaKsBaitingTurquoiseBait  
+Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
+Hauntr Easy - KovaaKsSneakingDesertsandMain  
+MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
+Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile  
+Shmn Track - KovaaKsBotting90Cinematic  
+Ridd Smooth Reactive *(Thin tracking)* - KovaaKsChatfraggingBadFullbuy  
+Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag  
+PureG Apex - KovaaKsPatrollingFuchsiaIntelligence  
 
 # > ALL CONTENT
 
