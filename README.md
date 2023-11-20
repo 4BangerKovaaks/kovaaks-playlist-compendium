@@ -9,8 +9,8 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 # > Recommended (My Most Popular Playlists)
 4BK - Static GOD (Day 1) - KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 4BK - Full Tracking Mastery (Day 2) -	KovaaKsBunnyhoppingSkyblueCard  
-**F.A.R Routines (Scroll down)**  
-**SYA (Scroll down)**  
+<ins>**F.A.R Routines (Scroll down)**</ins>  
+<ins>**S.Y.A (Scroll down)**</ins>  
 Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)    
 4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)    
 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [Explanation]([https://youtu.be/NWZcf9Rl6J8](https://youtu.be/P-tCNBJoc1w))    
@@ -78,7 +78,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 4BK - FMS - **KovaaKsNamedroppingJebaitedNightfall**   
 4BK Conditioning Playlist: KovaaKsRevolvingEggplantFamas   
 
-*(Recommended Fundamental routines if you're a beginner)*⬇️  
+<ins> Recommended Fundamental routines if you're a beginner⬇️</ins> 
 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq  
 4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp  
 4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur  
