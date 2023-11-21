@@ -7,17 +7,17 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I found worthw
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
 # > Recommended (My Most Popular Playlists)
-4BK - Static GOD (Day 1) - KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
+4BK - Static GOD (Day 1) - KovaaKsAcingBrightTank [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 4BK - Full Tracking Mastery (Day 2) -	KovaaKsBunnyhoppingSkyblueCard  
 <ins>**F.A.R Routines (Scroll down)**</ins>  
 <ins>**S.Y.A (Scroll down)**</ins>  
 Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)    
-4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)    
-4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [Explanation]([https://youtu.be/NWZcf9Rl6J8](https://youtu.be/P-tCNBJoc1w)    
-Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)   
+4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)    
+4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [EXPLAINED](https://youtu.be/P-tCNBJoc1w)    
+Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
 4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
-4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[Explanation](https://youtu.be/XNIYrW6dTQM)  
+4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)  
 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq  
 4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp   
 4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur  
@@ -68,11 +68,11 @@ PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
 ### [ADDITIONAL RESOURCES]  
 
 ## > [Fundamental Routines]	   
-4BK FUNDAMENTALS (ANAL BEADS 1$) - **KovaaKsDroppingBrightBot** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)  
-4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)  
+4BK FUNDAMENTALS (ANAL BEADS 1$) - **KovaaKsDroppingBrightBot** [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)  
+4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)  
 Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)  
 Goated 2 - **KovaaKsSensingFraggedShard** 
-Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)  
+Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)  
 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector**  
 **4BK - Benchmarks (Go to File - Make a copy)** (https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)  
 4BK x Trippez Gotta Go Fast 1 - **KovaaKsClickingSpringgreenReset**   
@@ -89,16 +89,16 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 ## > [Purely Tracking] 	 
 **4BK - DODGE THESE NUTS** - KovaaKsNamedroppingJebaitedNightfall   
 **4BK - Smooth Regen** - KovaaKsCounterstrafingSaltyModifier	  
-**4BK - FIRE AND ICE** - KovaaKsWipingNastyAntieco [Explanation](https://www.youtube.com/watch?v=CiiA-djfyOM)  
-**4BK: React As Much As Possible** - KovaaKsVibratingMaroonInfiltration [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)  
-**React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell [Explanation](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)   
+**4BK - FIRE AND ICE** - KovaaKsWipingNastyAntieco [EXPLAINED](https://www.youtube.com/watch?v=CiiA-djfyOM)  
+**4BK: React As Much As Possible** - KovaaKsVibratingMaroonInfiltration [EXPLAINED](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)  
+**React (As much As You Can) 2** - KovaaKsCamouflagingZonedHell [EXPLAINED](https://www.youtube.com/watch?v=GA6XqJ50d2U&t)   
 **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle  
 **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor  
 **4BK - Overwatch 2 Solider 69 (OW) - HARD** - KovaaKsTrollingDinkedJump  
 
 ## > [Clicking & Targetswitching]	 
 *(Hold down M1 when focusing on Pokeball & do** [4BClick Method](https://youtu.be/XNIYrW6dTQM) 
-**4BK - STOP OVERFLICKING** - KovaaKsBobbingSalmonTroll [Explanation](https://youtu.be/XNIYrW6dTQM)  
+**4BK - STOP OVERFLICKING** - KovaaKsBobbingSalmonTroll [EXPLAINED](https://youtu.be/XNIYrW6dTQM)  
 **4BK - Static** - KovaaKsSneakingFuchsiaImpact  
 **4BK - Static Conditioning** - KovaaKsBuffingWhiteJump  
 **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
@@ -107,7 +107,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](http
 	 
 ## > [Compilations]  
 *(Do these day 1 then day 2 etc. Covering your full needs, perfect for ANY game)*  
-**4BK - Static GOD (Day 1)** - KovaaKsAcingBrightTank [Explanation](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
+**4BK - Static GOD (Day 1)** - KovaaKsAcingBrightTank [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 **4BK - Full Tracking Mastery (Day 2)**	- KovaaKsBunnyhoppingSkyblueCard  
 
 ## > **(LONG C.U.P)**  
@@ -190,8 +190,8 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 
 
 ## > **NICHE**  
-4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [Explanation](https://www.youtube.com/watch?v=BDouPnIlSu4&t)  
-**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [Explanation](https://www.youtube.com/watch?v=FmhI6qFxwiU)  
+4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [EXPLAINED](https://www.youtube.com/watch?v=BDouPnIlSu4&t)  
+**4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [EXPLAINED](https://www.youtube.com/watch?v=FmhI6qFxwiU)  
 
 ## > **AimBeast**  
 **4BK - Advanced Fundamentals:** 
