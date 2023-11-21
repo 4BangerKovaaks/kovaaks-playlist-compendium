@@ -13,7 +13,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 <ins>**S.Y.A (Scroll down)**</ins>  
 Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)    
 4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [Explanation](https://www.youtube.com/watch?v=yfxqdZbBkSU)    
-4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [Explanation]([https://youtu.be/NWZcf9Rl6J8](https://youtu.be/P-tCNBJoc1w))    
+4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [Explanation]([https://youtu.be/NWZcf9Rl6J8](https://youtu.be/P-tCNBJoc1w)    
 Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [Explanation](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
 4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
