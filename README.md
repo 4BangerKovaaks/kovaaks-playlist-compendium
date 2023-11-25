@@ -7,8 +7,13 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I found worthw
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
 # > Recommended (My Most Popular Playlists)
-4BK - Static GOD (Day 1) - KovaaKsAcingBrightTank [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
-4BK - Full Tracking Mastery (Day 2) -	KovaaKsBunnyhoppingSkyblueCard  
+**4BK AIMBOT ROUTINES**  
+Day 1: **KovaaKsMainingBrownBuff**  
+Day 2: **KovaaKsMountingBrownSpeed**  
+Day 3: **KovaaKsNamedroppingBuffedJump**  
+
+4BK - Static GOD (Day 1) - **KovaaKsAcingBrightTank** [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
+4BK - Full Tracking Mastery (Day 2) -	**KovaaKsBunnyhoppingSkyblueCard**  
 <ins>**F.A.R Routines (Scroll down)**</ins>  
 <ins>**S.Y.A (Scroll down)**</ins>  
 Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)    
@@ -18,10 +23,10 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
 4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)  
-4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq  
-4BK - Beginner Fundamentals (Track Focus) - KovaaKsGearingChatfraggedTimewarp   
-4BK - Super Beginner Fundamentals (Click Focus) - KovaaKsFinishingCapturedXur  
-4BK - Super Beginner Fundamentals (Track Focus) - KovaaKsFlankingCeruleanOfftank  
+4BK - Beginner Fundamentals (Click Focus) - **KovaaKsFlashingCharcoalgrayFaq**  
+4BK - Beginner Fundamentals (Track Focus) - **KovaaKsGearingChatfraggedTimewarp**   
+4BK - Super Beginner Fundamentals (Click Focus) - **KovaaKsFinishingCapturedXur**  
+4BK - Super Beginner Fundamentals (Track Focus) - **KovaaKsFlankingCeruleanOfftank**  
 
 ### Other People's Popular Playlists
 Kek 1 - KovaaKsAscendingTealImpact  
@@ -71,7 +76,7 @@ PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
 4BK FUNDAMENTALS (ANAL BEADS 1$) - **KovaaKsDroppingBrightBot** [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)  
 4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)  
 Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)  
-Goated 2 - **KovaaKsSensingFraggedShard** 
+Goated 2 - **KovaaKsSensingFraggedShard**  
 Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)  
 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector**  
 **4BK - Benchmarks (Go to File - Make a copy)** (https://youtu.be/tq6sBs3mXUY) / [Spreadsheet](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit?usp=sharing)  
@@ -97,7 +102,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 **4BK - Overwatch 2 Solider 69 (OW) - HARD** - KovaaKsTrollingDinkedJump  
 
 ## > [Clicking & Targetswitching]	 
-*(Hold down M1 when focusing on Pokeball & do** [4BClick Method](https://youtu.be/XNIYrW6dTQM) 
+*(Hold down M1 when focusing on Pokeball & do** [4BClick Method](https://youtu.be/XNIYrW6dTQM)  
 **4BK - STOP OVERFLICKING** - KovaaKsBobbingSalmonTroll [EXPLAINED](https://youtu.be/XNIYrW6dTQM)  
 **4BK - Static** - KovaaKsSneakingFuchsiaImpact  
 **4BK - Static Conditioning** - KovaaKsBuffingWhiteJump  
@@ -149,7 +154,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 
 ### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)  
 <ins>🥇Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists</ins>  
-
+  
 Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur**  
 Day 2 Reactive Strafes + Static: **KovaaKsQuestingViscousOfftank**  
 Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsReloadingWeeklyCapture**  
@@ -212,7 +217,7 @@ PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
 Trippez Smooth Regen - KovaaKsDashingAlmightyCounterstrafe  
 Trippez Smooth Reactive 1 - KovaaKsQuestingSepiaProjectile  
 Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest  
-4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel
+4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel  
 Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag  
 Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot  
 
@@ -253,9 +258,9 @@ Advanced Apex Legends
 [HARD] Tracking GOD Training  
 Goated Scens  
 Solider 76 - Pipi  
-
+  
 ## > **COMMON STRUGGLES**  
-
+  
 # > I Struggle With Reacting To Targets / Losing Track Of Target  
 Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController  
 Trippez Gotta Go Fast 2 – KovaaKsHeadshottingGhostpeekedAntidive  
@@ -271,7 +276,7 @@ Trippez smooth reactivity 4 - KovaaKsTeleportingMiniEngine
 Shmn Track - KovaaKsBotting90Cinematic  
 MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine  
 Reactive SDK - KovaaKsChallengingExtraInfiltration  
-
+  
 ## **> I Struggle with Shaky Aim**  
 Trippez Smooth Regen - KovaaKsStartingMaroonGear  
 Conditioning Speed & Acc Int - **KovaaKsClickingCharcoalgrayGod**  
@@ -283,17 +288,17 @@ Conditioning Speed & Acc Int - **KovaaKsClickingCharcoalgrayGod**
 Smoothness God - KovaaKsStartingMaroonGear  
 omnismooth - KovaaKsClearingDefaultCamp  
 
-## **> I Struggle Smoothly Tracking Strafing Targets**
-Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy
-4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard
-4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus
-Hauntr Hard - KovaaKsSnipingDiagonalEgg
-Shmn Track - KovaaKsBotting90Cinematic
-Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot
-Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn
-psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker
-**4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor
-Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
+## **> I Struggle Smoothly Tracking Strafing Targets**  
+Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy  
+4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard  
+4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus  
+Hauntr Hard - KovaaKsSnipingDiagonalEgg  
+Shmn Track - KovaaKsBotting90Cinematic  
+Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot  
+Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn  
+psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker  
+**4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor  
+Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
 
 ## **> I Lack Speed In My Flicks**
 **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
@@ -337,7 +342,7 @@ Hauntr easy - KovaaKsSneakingDesertsandMain
 Undertracking Heaven v2 - KovaaKsWipingDefaultTag  
 ukiyo Smoothness - KovaaKsBobbingCamouflagedPull  
 omnismooth - KovaaKsClearingDefaultCamp  
-Static Lapu4 - KovaaKsCrouchingBrownEnrage
+Static Lapu4 - KovaaKsCrouchingBrownEnrage  
 Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
 
 (Watch) - [Link](https://www.youtube.com/watch?v=B-ihBpoX41E&list=PLzG7nj0wTAQtkWyel83eseltjFQGhar2f)  
