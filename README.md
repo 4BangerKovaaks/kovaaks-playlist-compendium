@@ -334,7 +334,7 @@ D:\SteamLibrary\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Pla
 ## **Good for niche issues**  
 4BK - Customize Your Playlist CUP Method - [Link](https://www.youtube.com/watch?v=isnBWHdp_-w)  
 
-## **> I Am A Beginner**
+## **> I Am A Beginner**  
 4BK - Beginner FUNDAMENTALS (UP TOP)  
 Check out my [EASY F.A.R Routines](https://youtu.be/63_7mcF8acs)  
 4BK - Static - KovaaKsSneakingFuchsiaImpact  
@@ -344,7 +344,7 @@ ukiyo Smoothness - KovaaKsBobbingCamouflagedPull
 omnismooth - KovaaKsClearingDefaultCamp  
 Static Lapu4 - KovaaKsCrouchingBrownEnrage  
 Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
-
+  
 (Watch) - [Link](https://www.youtube.com/watch?v=B-ihBpoX41E&list=PLzG7nj0wTAQtkWyel83eseltjFQGhar2f)  
 (FAQ - Read) - [Link](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit)  
 
