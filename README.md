@@ -35,6 +35,7 @@ Kek 3 - KovaaKsBaitingTurquoiseBait
 Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 Hauntr Easy - KovaaKsSneakingDesertsandMain  
+Killuminati Smooth Intermediate - KovaaKsTaggingBrickredAntieco  
 MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
 Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile  
 Shmn Track - KovaaKsBotting90Cinematic  
@@ -115,6 +116,48 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 **4BK - Static GOD (Day 1)** - KovaaKsAcingBrightTank [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 **4BK - Full Tracking Mastery (Day 2)**	- KovaaKsBunnyhoppingSkyblueCard  
 
+## > **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**  
+
+### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)  
+<ins>🥇Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists</ins>  
+  
+Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur**  
+Day 2 Reactive Strafes + Static: **KovaaKsQuestingViscousOfftank**  
+Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsReloadingWeeklyCapture**  
+Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRevolvingWetMilestone**  
+Day 5 Dynamic + Smooth Reactive: **KovaaKsRocketingWideBuff**  
+Day 6 Reflexes + Tracking Gauntles: **KovaaKsSensingYellowJump**  
+Day 7 FULL : **KovaaKsStarting90Binding**  
+
+### > **EASY VERSIONS**  
+Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur* * 
+Day 2 Reactive Strafes + Static: **KovaaKsRaidingVividtangerineFaq**  
+Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsResettingWeeklyTimewarp**  
+Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRoamingWhiteEngram**  
+Day 5 Dynamic + Smooth Reactive: **KovaaKsScreamingWideSpeed**  
+Day 6 Reflexes + Tracking Gauntles: **KovaaKsSneakingZonedDoor**  
+Day 7 FULL: **KovaaKsStrafing90Rifle**  
+
+
+## > **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**   
+**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://www.youtube.com/watch?v=wcPNdU0qsiI&t)  
+**Static:** KovaaKsSneakingFuchsiaImpact  
+**Targetswitching:** KovaaKsStrafingGhostpeekedRando  
+**Smoothness:** KovaaKsTaggingGoldenochreAfk  
+**Reactive:** KovaaKsTeleportingGoldenochrePlunder  
+**Evasive TS:** KovaaKsSwitchingGodlikeClutch  
+**(Speed Static):** KovaaKsStartingGhostpeekedBait  
+
+## > SYA Method / Smooth Your Aim [Explained](https://youtu.be/bQ1IamY5s54)  
+**4BK - SYA VT Conditioning** - KovaaKsCamouflagingGooshedCapture  
+**4BK - SYA Full Conditioning (Slight VT Benchmark focus)** - KovaaKsChallengingHardBuff  
+**4BK - SYA Complete Technique (Focuses More on Smoothness)** - KovaaKsClickingInvincibleHell  
+**4BK - SYA Clicking Conditioning** - KovaaKsClippingJebaitedCrossfire  
+**4BK - SYA Tracking Conditioning** - KovaaKsChattingHorizontalJump  
+**4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox  
+**4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun  
+**SYA MIYU** - KovaaKsJigglepeekingTealNuns  
+
 ## > **(LONG C.U.P)**  
 <ins>CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc</ins>  
 **4BK - Regen N' React** (Regen to relax your aim after reacting)- **KovaaKsDinkingCeruleanFaction** [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)  
@@ -150,50 +193,6 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 *Overwatch 2 Warmup:* - **KovaaKsKillstreakingButterySuper**  
 *Valorant & CSGO Warmup:* - **KovaaKsMainingCamouflagedDrop**  
 
-## > **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines**  
-
-### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)  
-<ins>🥇Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists</ins>  
-  
-Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur**  
-Day 2 Reactive Strafes + Static: **KovaaKsQuestingViscousOfftank**  
-Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsReloadingWeeklyCapture**  
-Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRevolvingWetMilestone**  
-Day 5 Dynamic + Smooth Reactive: **KovaaKsRocketingWideBuff**  
-Day 6 Reflexes + Tracking Gauntles: **KovaaKsSensingYellowJump**  
-Day 7 FULL : **KovaaKsStarting90Binding**  
-
-### > **EASY VERSIONS**  
-Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur* * 
-Day 2 Reactive Strafes + Static: **KovaaKsRaidingVividtangerineFaq**  
-Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsResettingWeeklyTimewarp**  
-Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRoamingWhiteEngram**  
-Day 5 Dynamic + Smooth Reactive: **KovaaKsScreamingWideSpeed**  
-Day 6 Reflexes + Tracking Gauntles: **KovaaKsSneakingZonedDoor**  
-Day 7 FULL: **KovaaKsStrafing90Rifle**  
-
-
-## > **OLD - F.A.R Full Accomplishment Routines [Day 1-7]**   
-**HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://www.youtube.com/watch?v=wcPNdU0qsiI&t)  
-**Static:** KovaaKsSneakingFuchsiaImpact  
-**Targetswitching:** KovaaKsStrafingGhostpeekedRando  
-**Smoothness:** KovaaKsTaggingGoldenochreAfk  
-**Reactive:** KovaaKsTeleportingGoldenochrePlunder  
-**Evasive TS:** KovaaKsSwitchingGodlikeClutch  
-**(Speed Static):** KovaaKsStartingGhostpeekedBait  
-
-
-## > SYA Method / Smooth Your Aim [Explained](https://youtu.be/bQ1IamY5s54)  
-**4BK - SYA VT Conditioning** - KovaaKsCamouflagingGooshedCapture  
-**4BK - SYA Full Conditioning (Slight VT Benchmark focus)** - KovaaKsChallengingHardBuff  
-**4BK - SYA Complete Technique (Focuses More on Smoothness)** - KovaaKsClickingInvincibleHell  
-**4BK - SYA Clicking Conditioning** - KovaaKsClippingJebaitedCrossfire  
-**4BK - SYA Tracking Conditioning** - KovaaKsChattingHorizontalJump  
-**4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox  
-**4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun  
-**SYA MIYU** - KovaaKsJigglepeekingTealNuns  
-
-
 ## > **NICHE**  
 4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [EXPLAINED](https://www.youtube.com/watch?v=BDouPnIlSu4&t)  
 **4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [EXPLAINED](https://www.youtube.com/watch?v=FmhI6qFxwiU)  
@@ -219,6 +218,7 @@ Trippez Smooth Reactive 1 - KovaaKsQuestingSepiaProjectile
 Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest  
 4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel  
 Undertracking Heaven v2 (Easy) - KovaaKsWipingDefaultTag  
+Killuminati Smooth Intermediate - KovaaKsTaggingBrickredAntieco  
 Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot  
 
 ### **> Reactive**  
