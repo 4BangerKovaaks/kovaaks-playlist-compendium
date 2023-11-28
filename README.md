@@ -319,6 +319,7 @@ Trippez Precision TS: KovaaKsFlankingCobaltChopper
 ## **> I Struggle With Movement In Game**  
 4BK - FMS KovaaKsNamedroppingJebaitedNightfall  
 RSR - KovaaKsPerfectingPrismaticGasmask  
+Willicur Dodge Precision - KovaaKsFlankingCopperGunsmith
 
 ## **> I Don't Know What To Play?**  
 
