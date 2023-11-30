@@ -101,6 +101,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 **4BK: Advanced Tracking Fundamentals** KovaaKsCallingYellowRifle  
 **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor  
 **4BK - Overwatch 2 Solider 69 (OW) - HARD** - KovaaKsTrollingDinkedJump  
+4BK - Snake Tracking - **KovaaKsTimewarpingScarletOperator**  
 
 ## > [Clicking & Targetswitching]	 
 *(Hold down M1 when focusing on Pokeball & do** [4BClick Method](https://youtu.be/XNIYrW6dTQM)  
