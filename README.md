@@ -151,13 +151,16 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 
 ## > SYA Method / Smooth Your Aim [Explained](https://youtu.be/bQ1IamY5s54)  
 **4BK - SYA VT Conditioning** - KovaaKsCamouflagingGooshedCapture  
+**4BK - OSYA VT Conditioning** (The opposite of SYA) - KovaaKsResettingEasyOfficer  
 **4BK - SYA Full Conditioning (Slight VT Benchmark focus)** - KovaaKsChallengingHardBuff  
 **4BK - SYA Complete Technique (Focuses More on Smoothness)** - KovaaKsClickingInvincibleHell  
 **4BK - SYA Clicking Conditioning** - KovaaKsClippingJebaitedCrossfire  
 **4BK - SYA Tracking Conditioning** - KovaaKsChattingHorizontalJump  
 **4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox  
 **4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun  
+**4BK - OSYA Hard Conditioning** (The opposite of SYA) - KovaaKsRevolvingEggplantFamas 
 **SYA MIYU** - KovaaKsJigglepeekingTealNuns  
+
 
 ## > **(LONG C.U.P)**  
 <ins>CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc</ins>  
