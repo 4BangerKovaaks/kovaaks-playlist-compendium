@@ -158,7 +158,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 **4BK - SYA Tracking Conditioning** - KovaaKsChattingHorizontalJump  
 **4BK - SYA Reactive** - KovaaKsFeedingApricotBoundingbox  
 **4BK - SYA Smoothness** - KovaaKsFinishingApricotShotgun  
-**4BK - OSYA Hard Conditioning** (The opposite of SYA) - KovaaKsRevolvingEggplantFamas 
+**4BK - OSYA Hard Conditioning** (The opposite of SYA) - KovaaKsRevolvingEggplantFamas  
 **SYA MIYU** - KovaaKsJigglepeekingTealNuns  
 
 
