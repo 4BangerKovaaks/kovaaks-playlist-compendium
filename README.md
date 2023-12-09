@@ -362,8 +362,16 @@ Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod
 4BK Benchmarks - [Link](https://docs.google.com/spreadsheets/d/1Habb_dFkWr5ffsuJdlrsE64oF7kIjbNu-gxqkDfV1r0/edit#gid=956015131)  
 4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel  
 4BK: A Guy - KovaaKsTrackingAcedWall  
+4BK AIMBOT ROUTINES  
+Day 1: KovaaKsMainingBrownBuff  
+Day 2: KovaaKsMountingBrownSpeed  
+Day 3: KovaaKsNamedroppingBuffedJump  
 
 ## **> Valorant / CSGO / CS2**  
+4BK AIMBOT ROUTINES  
+Day 1: KovaaKsMainingBrownBuff  
+Day 2: KovaaKsMountingBrownSpeed  
+Day 3: KovaaKsNamedroppingBuffedJump  
 4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector  
 4BK - Static God - KovaaKsAcingBrightTank  
 4BK - Static - KovaaKsSneakingFuchsiaImpact  
@@ -399,6 +407,10 @@ Sined - Soldier 76 - KovaaKsAscendingGoodGoat
 Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
   
 ## **> COD & BF**  
+4BK AIMBOT ROUTINES  
+Day 1: KovaaKsMainingBrownBuff  
+Day 2: KovaaKsMountingBrownSpeed  
+Day 3: KovaaKsNamedroppingBuffedJump  
 4BK - Goated - KovaaKsGlidingRangedBloom  
 HNA Kek 1 - KovaaKsAscendingTealImpact  
 **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
