@@ -131,7 +131,7 @@ Day 6 Reflexes + Tracking Gauntles: **KovaaKsSensingYellowJump**
 Day 7 FULL : **KovaaKsStarting90Binding**  
 
 ### > **EASY VERSIONS**  
-Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur* * 
+Day 1 Flicking + Mousecontrol: **KovaaKsPushingVioletXur**  
 Day 2 Reactive Strafes + Static: **KovaaKsRaidingVividtangerineFaq**  
 Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsResettingWeeklyTimewarp**  
 Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRoamingWhiteEngram**  
