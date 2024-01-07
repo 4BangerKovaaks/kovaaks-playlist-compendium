@@ -17,11 +17,11 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)   
 
-> **Intermediate**  
+> **Intermediate**
 
-**4BK AIMBOT ROUTINES**  
 <ins>**F.A.R Routines (Scroll down)**</ins>  
 <ins>**S.Y.A (Scroll down)**</ins>  
+**4BK AIMBOT ROUTINES⬇️**  
 Day 1: **KovaaKsMainingBrownBuff**  
 Day 2: **KovaaKsMountingBrownSpeed**  
 Day 3: **KovaaKsNamedroppingBuffedJump**  
