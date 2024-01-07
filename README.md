@@ -13,7 +13,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 4BK - Beginner Fundamentals (Click Focus) - **KovaaKsFlashingCharcoalgrayFaq**  
 4BK - Beginner Fundamentals (Track Focus) - **KovaaKsGearingChatfraggedTimewarp**   
 4BK - Super Beginner Fundamentals (Click Focus) - **KovaaKsFinishingCapturedXur**  
-4BK - Super Beginner Fundamentals (Track Focus) - **KovaaKsFlankingCeruleanOfftank** 
+4BK - Super Beginner Fundamentals (Track Focus) - **KovaaKsFlankingCeruleanOfftank**  
 4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)   
 
