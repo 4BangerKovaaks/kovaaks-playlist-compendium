@@ -15,7 +15,16 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 4BK - Super Beginner Fundamentals (Click Focus) - **KovaaKsFinishingCapturedXur**  
 4BK - Super Beginner Fundamentals (Track Focus) - **KovaaKsFlankingCeruleanOfftank**  
 4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
-4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)   
+4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)  
+ 
+Kek 1 - KovaaKsAscendingTealImpact  
+Kek 2 - KovaaKsBackflippingThinDiff  
+Kek 3 - KovaaKsBaitingTurquoiseBait  
+Undertracking Heaven v2 (Easy) - KovaaKsDinkingExtraReflex  
+Hauntr Easy - KovaaKsSneakingDesertsandMain  
+Killuminati Smooth Intermediate - KovaaKsTaggingBrickredAntieco  
+Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
+
 
 > **Intermediate**
 
@@ -32,20 +41,6 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [EXPLAINED](https://youtu.be/P-tCNBJoc1w)    
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
-
-### Other People's Popular Playlists
-
-> **Beginners**  
-
-Kek 1 - KovaaKsAscendingTealImpact  
-Kek 2 - KovaaKsBackflippingThinDiff  
-Kek 3 - KovaaKsBaitingTurquoiseBait  
-Undertracking Heaven v2 (Easy) - KovaaKsDinkingExtraReflex  
-Hauntr Easy - KovaaKsSneakingDesertsandMain  
-Killuminati Smooth Intermediate - KovaaKsTaggingBrickredAntieco  
-Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
-
-> **Intermediate**  
 
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
