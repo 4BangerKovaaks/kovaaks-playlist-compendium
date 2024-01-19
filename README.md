@@ -6,7 +6,7 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I found worthw
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
-# > Recommended (My Most Popular Playlists)
+# > Recommended (Popular Playlists)
 
 > **Beginners**  
 
