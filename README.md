@@ -62,7 +62,7 @@ PureG Apex - KovaaKsPatrollingFuchsiaIntelligence
 ## Static, Smoothness, Reactive etc
 
 ## > ISSUE SPECIFIC
-### LOOSING TRACK OF TARGET
+### LOSING TRACK OF TARGET
 ### SHAKY AIM
 ### NOT SMOOTHLY TRACKING
 ### LACK SPEED
