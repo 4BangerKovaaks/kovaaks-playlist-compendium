@@ -6,6 +6,11 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I found worthw
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
+
+IMPROVEMENT GUIDE & FLOWCHART FOUND HERE: [Improvement Guide](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit) & [Flowchart](https://www.mediafire.com/file/lxg2hl8w5i7lwj9/4BK_%252B_Rake%2527s_Flowcharts_For_Aiming_2024.zip/file) 
+
+
+
 # > Recommended (Popular Playlists)
 
 > **Beginners**  
