@@ -6,9 +6,18 @@ Compendium / Collection of playlists for KovaaK's. Their the ones I found worthw
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
+### Additional Resources 
 
-**<ins>IMPROVEMENT GUIDE & FLOWCHART FOUND HERE:</ins>** [Improvement Guide](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit) & [Flowchart](https://www.mediafire.com/file/lxg2hl8w5i7lwj9/4BK_%252B_Rake%2527s_Flowcharts_For_Aiming_2024.zip/file) 
+[Improvement Guide](https://docs.google.com/document/d/1xDN-t9liQmMBSwkX8RMCOwEpYxo48_U7bRLd30Sx0GE/edit) & [Flowchart](https://www.mediafire.com/file/lxg2hl8w5i7lwj9/4BK_%252B_Rake%2527s_Flowcharts_For_Aiming_2024.zip/file)  **<ins>IMPROVEMENT GUIDE & FLOWCHART FOUND HERE</ins>**
 
+**OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**  
+[**ALL MY PLAYLISTS EXPLAINED**:](https://youtu.be/TAHnXNuViYg)  
+[**Ridd's Playlist Finder:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)  
+[**MANUAL DOWNLOADS by Ridd**](https://github.com/riddbtw/kovaaks-playlists)  
+[**Cool way to EYE Train:**](https://blinkcamp.com/)  
+[**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)  
+[**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)  
+[**Binaural beats for sleep** This one is amazing](https://www.youtube.com/watch?v=Y39WIwff0zk&t)  
 
 
 # > Recommended (Popular Playlists)
@@ -439,15 +448,3 @@ Krasci 1o1 Tracking - KovaaKsPoppingBoxedMouse
 4BK Benchmarks (up top)  
 4BK - FMS KovaaKsNamedroppingJebaitedNightfall  
 Trippez Speed TS: KovaaKsGriefingGearedController  
-
-
-### Additional Resources 
-
-**OMEGA 3 and VITAMIN (D) + Blueberries + Good diet + Good sleep(7-8h) + Ballsheet + Reflex/Reactive Scenarios for Reaction Time Improvements**  
-[**ALL MY PLAYLISTS EXPLAINED**:](https://youtu.be/TAHnXNuViYg)  
-[**Ridd's Playlist Finder:**](https://github.com/officialpure/Resources/blob/main/Sharecodes.md)  
-[**MANUAL DOWNLOADS by Ridd**](https://github.com/riddbtw/kovaaks-playlists)  
-[**Cool way to EYE Train:**](https://blinkcamp.com/)  
-[**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)  
-[**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)  
-[**Binaural beats for sleep** This one is amazing](https://www.youtube.com/watch?v=Y39WIwff0zk&t)  
