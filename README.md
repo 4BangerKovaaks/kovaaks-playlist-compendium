@@ -1,4 +1,4 @@
-# <span style="font-size: larger;">4BangerKovaaks Updated Playlist Compendium & Common Issues </span> 
+# <span style="font-size: larger;">4BangerKovaaks Updated Playlist & Resources Compendium For Common Aimtraining Issues </span> 
 
 [**SOCIALS + WRITE ON MY DISCORD, TO ME TO SUGGEST YOUR OWN PLAYLISTS**](https://linktr.ee/4bangerkovaaks)
 
