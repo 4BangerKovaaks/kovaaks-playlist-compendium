@@ -55,6 +55,8 @@ Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod
 Day 1: **KovaaKsMainingBrownBuff**  
 Day 2: **KovaaKsMountingBrownSpeed**  
 Day 3: **KovaaKsNamedroppingBuffedJump**  
+
+4BK - Reflexes & Punishments: **KovaaKsDodgingLongFieldupgrade**  
 4BK - Static GOD (Day 1) - **KovaaKsAcingBrightTank** [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 4BK - Full Tracking Mastery (Day 2) -	**KovaaKsBunnyhoppingSkyblueCard**   
 4BK - Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)    
@@ -227,6 +229,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 ## > **NICHE**  
 4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [EXPLAINED](https://www.youtube.com/watch?v=BDouPnIlSu4&t)  
 **4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [EXPLAINED](https://www.youtube.com/watch?v=FmhI6qFxwiU)  
+4BK - Reflexes & Punishments: **KovaaKsDodgingLongFieldupgrade**  
 
 ## > **AimBeast**  
 **4BK - Advanced Fundamentals:** 
@@ -337,6 +340,7 @@ Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart
 4BK - Speed Targetswitch (TS): KovaaKsCarrying180Arena  
 F.A.R Day 4 & 5 [Watch Tutorial](https://youtu.be/63_7mcF8acs)  
 Trippez Precision TS: KovaaKsFlankingCobaltChopper    
+4BK - Reflexes & Punishments: **KovaaKsDodgingLongFieldupgrade**  
 
 ## **> I Lack Accuracy In My Flicks**  
 4BK - Static God - KovaaKsAcingBrightTank  
@@ -399,6 +403,7 @@ Day 3: KovaaKsNamedroppingBuffedJump
 Day 1: KovaaKsMainingBrownBuff  
 Day 2: KovaaKsMountingBrownSpeed  
 Day 3: KovaaKsNamedroppingBuffedJump  
+4BK - Reflexes & Punishments: **KovaaKsDodgingLongFieldupgrade**  
 4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector  
 4BK - Static God - KovaaKsAcingBrightTank  
 4BK - Static - KovaaKsSneakingFuchsiaImpact  
