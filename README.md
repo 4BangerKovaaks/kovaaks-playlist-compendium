@@ -410,6 +410,7 @@ Day 3: KovaaKsNamedroppingBuffedJump
 4BK - Stop Overflicking - KovaaKsBobbingSalmonTroll  
 Trippez Smooth Regen - KovaaKsStartingMaroonGear  
 Kek 1 - KovaaKsAscendingTealImpact  
+PureG Valorant - KovaaKsHipfiringShamrockAttrition  
 4BK - VAL/CS: KovaaKsRevolvingBuffedSentinel  
 4BK - CS2 - Valorant - One Tap Mashin: KovaaKsBaitingLongLostsector  
 B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrightTile  
