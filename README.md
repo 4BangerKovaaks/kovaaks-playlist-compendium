@@ -45,6 +45,9 @@ Undertracking Heaven v2 (Easy) - KovaaKsDinkingExtraReflex
 Hauntr Easy - KovaaKsSneakingDesertsandMain  
 Killuminati Smooth Intermediate - KovaaKsTaggingBrickredAntieco  
 Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
+cAt Benchmark Easy - KovaaKsBobbingPeachPrism  
+cAt Benchmark Normal - KovaaKsBlinkingOrangeCrossfire  
+cAt Benchmark Hard - KovaaKsBloomingPeachArena  
 
 
 > **Intermediate**
