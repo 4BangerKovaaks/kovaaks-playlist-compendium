@@ -68,7 +68,7 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
 
-Will MicroTrack - KovaaKsChokingSeagreenRaid  
+Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
 Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile  
@@ -258,7 +258,7 @@ Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest
 Undertracking Heaven v2 (Easy) - KovaaKsDinkingExtraReflex   
 Killuminati Smooth Intermediate - KovaaKsTaggingBrickredAntieco  
 Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot 
-Will MicroTrack - KovaaKsChokingSeagreenRaid  
+Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 
 ### **> Reactive**  
 4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus  
@@ -425,7 +425,7 @@ B00ns Valorant (Reflex & Realistic Valorant Scenarios): KovaaKsBunnyhoppingBrigh
 Viz x 4BK - Clicking Heads: KovaaKsPoppingVioletBunnyhop  
 Viz Clicking Heads(Easier): KovaaKsCheatingDenimPick  
 4BK - Static Conditioning KovaaKsBuffingWhiteJump  
-Will MicroTrack - KovaaKsChokingSeagreenRaid  
+Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 
 ## **> Apex & OW2**  
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)  
