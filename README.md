@@ -37,7 +37,12 @@ Week 1: **KovaaKsCounterstrafingFuchsiaLamp**
 Week 2: **KovaaKsCrankingGhostpeekedBlueberry**  
 Week 3: **KovaaKsCrossfiringGhostpeekedScoutrifle**  
  
- 
+
+**DKP** (Game Related, NEW!!)  
+4BK DKP - CS2 & VAL - KovaaKsPopping10xFullbuy  
+4BK DKP - Overwatch & Apex - KovaaKsPullingAcedChopper    
+4BK DKP - COD & BF - KovaaKsPlundering360Precision  
+
 Kek 1 - KovaaKsAscendingTealImpact  
 Kek 2 - KovaaKsBackflippingThinDiff  
 Kek 3 - KovaaKsBaitingTurquoiseBait  
@@ -407,6 +412,7 @@ Day 2: KovaaKsMountingBrownSpeed
 Day 3: KovaaKsNamedroppingBuffedJump  
 
 ## **> Valorant / CSGO / CS2**  
+4BK DKP - CS2 & VAL - KovaaKsPopping10xFullbuy  
 4BK AIMBOT ROUTINES  
 Day 1: KovaaKsMainingBrownBuff  
 Day 2: KovaaKsMountingBrownSpeed  
@@ -428,6 +434,7 @@ Viz Clicking Heads(Easier): KovaaKsCheatingDenimPick
 Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 
 ## **> Apex & OW2**  
+4BK DKP - Overwatch & Apex - KovaaKsPullingAcedChopper    
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)  
 4BK - Anal Beads - KovaaKsDroppingBrightBot  
 4BK - Fire & Ice - KovaaKsWipingNastyAntieco  
@@ -448,8 +455,9 @@ Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn
 Sined - Soldier 76 - KovaaKsAscendingGoodGoat  
 Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
   
-## **> COD & BF**  
-4BK AIMBOT ROUTINES  
+## **> COD & BF**    
+4BK DKP - COD & BF - KovaaKsPlundering360Precision  
+**4BK AIMBOT ROUTINES** 
 Day 1: KovaaKsMainingBrownBuff  
 Day 2: KovaaKsMountingBrownSpeed  
 Day 3: KovaaKsNamedroppingBuffedJump  
