@@ -73,7 +73,8 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
 
-Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
+Willicur MicroTrack - KovaaKsChokingSeagreenRaid 
+Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
 Trippez Smooth React 1 - KovaaKsQuestingSepiaProjectile  
@@ -305,7 +306,8 @@ Solider 76 - Pipi
   
 ## > **COMMON STRUGGLES**  
   
-# > I Struggle With Reacting To Targets / Losing Track Of Target  
+# > I Struggle With Reacting To Targets / Losing Track Of Target 
+Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController  
 Trippez Gotta Go Fast 2 – KovaaKsHeadshottingGhostpeekedAntidive  
 Trippez Gotta Go Fast 3 – KovaaKsHipfiringGhostpeekedPopcorn  
@@ -336,6 +338,7 @@ omnismooth - KovaaKsClearingDefaultCamp
 Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy  
 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard  
 4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus  
+Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 Hauntr Hard - KovaaKsSnipingDiagonalEgg  
 Shmn Track - KovaaKsBotting90Cinematic  
 Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot  
@@ -453,7 +456,8 @@ PureG Apex (short) - KovaaKsPatrollingFuchsiaIntelligence
 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor  
 Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn  
 Sined - Soldier 76 - KovaaKsAscendingGoodGoat  
-Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
+Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart 
+Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
   
 ## **> COD & BF**    
 4BK DKP - COD & BF - KovaaKsPlundering360Precision  
