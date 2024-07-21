@@ -73,7 +73,7 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
 
-Willicur MicroTrack - KovaaKsChokingSeagreenRaid 
+Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
@@ -456,7 +456,7 @@ PureG Apex (short) - KovaaKsPatrollingFuchsiaIntelligence
 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor  
 Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn  
 Sined - Soldier 76 - KovaaKsAscendingGoodGoat  
-Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart 
+Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
   
 ## **> COD & BF**    
