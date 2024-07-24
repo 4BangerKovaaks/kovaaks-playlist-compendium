@@ -346,9 +346,9 @@ Rasp 1by1 reactive - KovaaKsClearingBoxedPopcorn
 psev - Smooth + Reactive v2 - KovaaKsEnragingAcedQuaker  
 **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor  
 Leica Air Playlist - KovaaKsTimewarpingChatfraggedStart  
-PureG smoothness (easy version) - KovaaKsFlanking180Rhombus
-PureG smoothness - KovaaKsFlicking10xCrank
-PureG smoothness (christmasiscancelled version) - KovaaKsFlashing360Heaven
+PureG smoothness (easy version) - KovaaKsFlanking180Rhombus  
+PureG smoothness - KovaaKsFlicking10xCrank  
+PureG smoothness (christmasiscancelled version) - KovaaKsFlashing360Heaven  
 
 ## **> I Lack Speed In My Flicks**
 **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
