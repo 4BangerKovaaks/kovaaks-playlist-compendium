@@ -72,6 +72,7 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [EXPLAINED](https://youtu.be/P-tCNBJoc1w)    
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
+
 **4BK Surprise Factor**  
 4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash  
 4BK - Surprise Factor 2 - KovaaKsPullingCanaryTroll  
