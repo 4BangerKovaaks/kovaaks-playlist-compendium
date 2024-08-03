@@ -72,6 +72,10 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [EXPLAINED](https://youtu.be/P-tCNBJoc1w)    
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
+**4BK Surprise Factor**  
+4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash  
+4BK - Surprise Factor 2 - KovaaKsPullingCanaryTroll  
+4BK - Surprise Factor 3 - KovaaKsPushingCapturedMomentum  
 
 Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
@@ -150,6 +154,9 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 **4BK - Buy My Coaching If This Helped You (TS)** - KovaaKsPatrollingCanaryBloom  
 **4BK - Flick & Track (Targetswitching)** - KovaaKsCapturing90Crossfire  
 **4BK - Speed Targetswitch (TS)** - KovaaKsCarrying180Arena  
+**4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash**  
+**4BK - Surprise Factor 2 - KovaaKsPullingCanaryTroll**  
+**4BK - Surprise Factor 3 - KovaaKsPushingCapturedMomentum**    
 	 
 ## > [Compilations]  
 *(Do these day 1 then day 2 etc. Covering your full needs, perfect for ANY game)*  
@@ -263,7 +270,7 @@ Trippez Smooth Reactive 2 - KovaaKsBombingPeriwinkleQuest
 4BK - Smooth Is Fast: KovaaKsDashingCanaryWeaponlevel  
 Undertracking Heaven v2 (Easy) - KovaaKsDinkingExtraReflex   
 Killuminati Smooth Intermediate - KovaaKsTaggingBrickredAntieco  
-Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot 
+Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot  
 Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 
 ### **> Reactive**  
@@ -366,6 +373,9 @@ Trippez Precision TS: KovaaKsFlankingCobaltChopper
 Kek 1 - KovaaKsAscendingTealImpact  
 Tragedy Static God - KovaaKsBlinkingSneakyQuaker  
 Trippez Precision TS: KovaaKsFlankingCobaltChopper  
+4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash  
+4BK - Surprise Factor 2 - KovaaKsPullingCanaryTroll  
+4BK - Surprise Factor 3 - KovaaKsPushingCapturedMomentum  
 
 ## **> I Struggle With Movement In Game**  
 4BK - FMS KovaaKsNamedroppingJebaitedNightfall  
@@ -413,6 +423,10 @@ Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod
 Day 1: KovaaKsMainingBrownBuff  
 Day 2: KovaaKsMountingBrownSpeed  
 Day 3: KovaaKsNamedroppingBuffedJump  
+**4BK Surprise Factor**  
+4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash  
+4BK - Surprise Factor 2 - KovaaKsPullingCanaryTroll  
+4BK - Surprise Factor 3 - KovaaKsPushingCapturedMomentum  
 
 ## **> Valorant / CSGO / CS2**  
 4BK DKP - CS2 & VAL - KovaaKsPopping10xFullbuy  
