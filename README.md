@@ -79,6 +79,7 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - Surprise Factor 3 - KovaaKsPushingCapturedMomentum  
 
 Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
+Micro Goldmine (Static) - KovaaKsTrollingDesertsandGasmask  
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 MiYu Benchmarks - KovaaKsCampingCeruleanEngine  
@@ -377,6 +378,7 @@ Trippez Precision TS: KovaaKsFlankingCobaltChopper
 4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash  
 4BK - Surprise Factor 2 - KovaaKsPullingCanaryTroll  
 4BK - Surprise Factor 3 - KovaaKsPushingCapturedMomentum  
+Micro Goldmine (Static) - KovaaKsTrollingDesertsandGasmask  
 
 ## **> I Struggle With Movement In Game**  
 4BK - FMS KovaaKsNamedroppingJebaitedNightfall  
@@ -450,6 +452,7 @@ Viz x 4BK - Clicking Heads: KovaaKsPoppingVioletBunnyhop
 Viz Clicking Heads(Easier): KovaaKsCheatingDenimPick  
 4BK - Static Conditioning KovaaKsBuffingWhiteJump  
 Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
+Micro Goldmine (Static) - KovaaKsTrollingDesertsandGasmask  
 
 ## **> Apex & OW2**  
 4BK DKP - Overwatch & Apex - KovaaKsPullingAcedChopper    
