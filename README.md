@@ -72,6 +72,8 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - CS2 - Valorant - One Tap Mashin: **KovaaKsBaitingLongLostsector** [EXPLAINED](https://youtu.be/P-tCNBJoc1w)    
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
+4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
+
 
 **4BK Surprise Factor**  
 4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash  
@@ -147,6 +149,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 **4BK: Tracking Conditioning**	 KovaaKsBunnyhoppingWideDoor  
 **4BK - Overwatch 2 Solider 69 (OW) - HARD** - KovaaKsTrollingDinkedJump  
 4BK - Snake Tracking - **KovaaKsTimewarpingScarletOperator**  
+4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
 
 ## > [Clicking & Targetswitching]	 
 *(Hold down M1 when focusing on Pokeball & do** [4BClick Method](https://youtu.be/XNIYrW6dTQM)  
@@ -276,6 +279,7 @@ Killuminati Smooth Tracking Hard - KovaaKsTeleportingBrickredPot
 Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 
 ### **> Reactive**  
+4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
 4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus  
 Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy  
 Shmn Track - KovaaKsBotting90Cinematic  
@@ -316,6 +320,7 @@ Solider 76 - Pipi
 ## > **COMMON STRUGGLES**  
   
 # > I Struggle With Reacting To Targets / Losing Track Of Target 
+4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController  
 Trippez Gotta Go Fast 2 – KovaaKsHeadshottingGhostpeekedAntidive  
@@ -455,6 +460,7 @@ Willicur MicroTrack - KovaaKsChokingSeagreenRaid
 Micro Goldmine (Static) - KovaaKsTrollingDesertsandGasmask  
 
 ## **> Apex & OW2**  
+4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
 4BK DKP - Overwatch & Apex - KovaaKsPullingAcedChopper    
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)  
 4BK - Anal Beads - KovaaKsDroppingBrightBot  
