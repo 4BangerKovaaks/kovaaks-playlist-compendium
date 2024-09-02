@@ -65,7 +65,7 @@ Day 2: **KovaaKsMountingBrownSpeed**
 Day 3: **KovaaKsNamedroppingBuffedJump**  
 
 4BK - Reflexes & Punishments: **KovaaKsDodgingLongFieldupgrade**  
-4BK - Static GOD (Day 1) - **KovaaKsAcingBrightTank** [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
+4BK - Static GOD - **KovaaKsAcingBrightTank** [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 4BK - Full Tracking Mastery (Day 2) -	**KovaaKsBunnyhoppingSkyblueCard**   
 4BK - Goated - **KovaaKsGlidingRangedBloom**  [EXPLAINED](https://www.youtube.com/watch?v=w6LWnqtN-vQ&t)    
 4BK - Anal Beads Shortened - **KovaaKsScreamingRandomRhombus** [EXPLAINED](https://www.youtube.com/watch?v=yfxqdZbBkSU)    
