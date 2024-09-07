@@ -30,6 +30,8 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 4BK - Super Beginner Fundamentals (Track Focus) - **KovaaKsFlankingCeruleanOfftank**  
 4BK - Static	**KovaaKsSneakingFuchsiaImpact**  
 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)  
+4BK - Adaptive **KovaaKsBoomstickingCamouflagedJump**  
+
 
 **Zero To Hero** [Fundamental Aim Routine](https://youtu.be/acM5R2DdO9E) _(ZTH)_  
 Week 0 _(Special Watch Video)_: **KovaaKsClickingFraggedBuildbattle**  
