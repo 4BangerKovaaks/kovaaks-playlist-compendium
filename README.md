@@ -59,6 +59,8 @@ cAt Benchmark Hard - KovaaKsBloomingPeachArena
 
 > **Intermediate**
 
+[STS Benchmarks](https://docs.google.com/spreadsheets/d/1Tvz3O67735BxKJCVuaI2z_O3E09ghsYaYqqh0tnHMUY/edit?gid=516871497#gid=516871497)
+
 <ins>**F.A.R Routines (Scroll down)**</ins>  
 <ins>**S.Y.A (Scroll down)**</ins>  
 **4BK AIMBOT ROUTINES⬇️**  
