@@ -217,7 +217,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 **SYA MIYU** - KovaaKsJigglepeekingTealNuns  
 
 
-## > **(LONG C.U.P)**  
+## > **(LONG CUP)**  
 <ins>CUSTOMIZE YOUR OWN PLAYLIST C.U.P) are mini playlists that you play in combination with each other, (Apex players, might do 15min Precision and + 15 min short static etc</ins>  
 **4BK - Regen N' React** (Regen to relax your aim after reacting)- **KovaaKsDinkingCeruleanFaction** [Video About Subject](https://www.youtube.com/watch?v=ShhFvmSCtnQ&t)  
 **4BK - Static n' Reaction Time** (Static alongside reaction based flicking)- **KovaaKsClippingBurntsiennaGoat**  
@@ -231,7 +231,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 *Accuraccy + Flicking* - **KovaaKsRocketingJebaitedGhostpeeker**  
 *Corrective Flicking* - **KovaaKsScreamingJitteryClient**  
 *Dodge Complete* - **KovaaKsSensingJumboAds**  
-*Fast Clicking* - **KovaaKsSneakingJumboPick**  
+*Fast Clicking* (Dynamic) - **KovaaKsSneakingJumboPick**  
 *Micro Adjusting* - **KovaaKsSnipingJumpyFlashbang**  
 *Pokeball* - **KovaaKsStartingJunglegreenChallenge**  
 *Precision Tracking* - **KovaaKsStrafingJunglegreenWall**  
@@ -241,7 +241,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 *Short Static* - **KovaaKsTaggingLightvenetianredCallout**  
 *Speed Static + Pokeball* - **KovaaKsTeleportingLightvenetianredTag**  
 *Strafes & Smoothness* - **KovaaKsTimewarpingLongLurker**  
-*TargetClicking* - **KovaaKsTrackingMagentaDunk**  
+*TargetClicking (Dynamic)* - **KovaaKsTrackingMagentaDunk**  
 *Corrective Snaps:* - **KovaaKsAcingFlyClutch**  
 *Mini Dodge Track:* - **KovaaKsGhostpeekingBrown90s**  
 *Reactive Strafes:* - **KovaaKsGriefingBuffedFireteam**  
