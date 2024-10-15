@@ -84,6 +84,7 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - Surprise Factor 2 - KovaaKsPullingCanaryTroll  
 4BK - Surprise Factor 3 - KovaaKsPushingCapturedMomentum  
 
+Phaniac Raw Smoothness - KovaaKsAdventuringGrayEngine  
 Willicur MicroTrack - KovaaKsChokingSeagreenRaid  
 Micro Goldmine (Static) - KovaaKsTrollingDesertsandGasmask  
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
@@ -269,6 +270,7 @@ RX Static compliation(Play On Random ) - KovaaKsCheatingDynamicIdentity
 Huddled Static Dots (Static Spam) - KovaaKsBindingTurquoiseRando  
 
 ### **> Smoothness**  
+Phaniac Raw Smoothness - KovaaKsAdventuringGrayEngine  
 Conditioning Speed & Acc Int - KovaaKsClickingCharcoalgrayGod  
 !3smooth - KovaaKsHeadshottingJunglegreenArena  
 Smoothness God - KovaaKsStartingMaroonGear  
@@ -324,6 +326,7 @@ Solider 76 - Pipi
 ## > **COMMON STRUGGLES**  
   
 # > I Struggle With Reacting To Targets / Losing Track Of Target 
+RSR - KovaaKsPerfectingPrismaticGasmask  
 4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
 Torje reactivity conditioning - KovaaKsChallengingDesertsandHeaven  
 Trippez Gotta Go Fast 1 – KovaaKsGriefingGearedController  
@@ -342,6 +345,7 @@ MiYu Benchmarks (Strangely Good As Tracking Prac) - KovaaKsCampingCeruleanEngine
 Reactive SDK - KovaaKsChallengingExtraInfiltration  
   
 ## **> I Struggle with Shaky Aim**  
+Phaniac Raw Smoothness - KovaaKsAdventuringGrayEngine  
 Trippez Smooth Regen - KovaaKsStartingMaroonGear  
 Conditioning Speed & Acc Int - **KovaaKsClickingCharcoalgrayGod**  
 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor  
@@ -353,6 +357,7 @@ Smoothness God - KovaaKsStartingMaroonGear
 omnismooth - KovaaKsClearingDefaultCamp  
 
 ## **> I Struggle Smoothly Tracking Strafing Targets**  
+Phaniac Raw Smoothness - KovaaKsAdventuringGrayEngine  
 Ridd Smooth Reactive - KovaaKsChatfraggingBadFullbuy  
 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard  
 4BK - Anal Beads (Shortened): KovaaKsScreamingRandomRhombus  
