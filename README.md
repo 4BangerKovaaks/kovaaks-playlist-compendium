@@ -397,6 +397,7 @@ Micro Goldmine (Static) - KovaaKsTrollingDesertsandGasmask
 ## **> I Struggle With Movement In Game**  
 4BK - FMS KovaaKsNamedroppingJebaitedNightfall  
 RSR - KovaaKsPerfectingPrismaticGasmask  
+WOWEY(MOVEMENT) - KovaaKsScreamingNavyblueEngram  
 Willicur Dodge Precision - KovaaKsFlankingCopperGunsmith
 
 ## **> I Don't Know What To Play?**  
@@ -470,6 +471,7 @@ Micro Goldmine (Static) - KovaaKsTrollingDesertsandGasmask
 
 ## **> Apex & OW2**  
 4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
+WOWEY(MOVEMENT) - KovaaKsScreamingNavyblueEngram  
 4BK DKP - Overwatch & Apex - KovaaKsPullingAcedChopper    
 4BK - NEW F.A.R (Day 1-7) Full Week Plan - [Link](https://www.youtube.com/watch?v=63_7mcF8acs)  
 4BK - Anal Beads - KovaaKsDroppingBrightBot  
