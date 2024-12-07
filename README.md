@@ -39,13 +39,13 @@ Week 1: **KovaaKsCounterstrafingFuchsiaLamp**
 Week 2: **KovaaKsCrankingGhostpeekedBlueberry**  
 Week 3: **KovaaKsCrossfiringGhostpeekedScoutrifle**  
  
-FAR 3.0 - Day 1 - **KovaaKsRoamingCamouflagedCrossfire**  
+[FAR 3.0 - Day 1 - **KovaaKsRoamingCamouflagedCrossfire**  
 FAR 3.0 - Day 2 - **KovaaKsRocketingCanaryArena**  
 FAR 3.0 - Day 3 - **KovaaKsScreamingCanaryPrism**  
 FAR 3.0 - Day 4 - **KovaaKsSensingCapturedGamesense**  
 FAR 3.0 - Day 5 - **KovaaKsSneakingCeruleanCinematic**  
-FAR 3.0 - Day 6 - **KovaaKsSnipingCharcoalgray1x1**  
-FAR 3.0 - Day 7 - **KovaaKsStartingCharcoalgrayPatrol**  
+FAR 3.0 - Day 6 - **KovaaKsSnipingCharcoalgray1x1**    
+FAR 3.0 - Day 7 - **KovaaKsStartingCharcoalgrayPatrol**](https://youtu.be/s3TXAyEnrqU)    
 
 
 **DKP** (Game Related, NEW!!)  
