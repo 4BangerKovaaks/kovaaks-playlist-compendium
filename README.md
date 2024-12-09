@@ -39,7 +39,7 @@ Week 1: **KovaaKsCounterstrafingFuchsiaLamp**
 Week 2: **KovaaKsCrankingGhostpeekedBlueberry**  
 Week 3: **KovaaKsCrossfiringGhostpeekedScoutrifle**  
  
-[FAR 3.0 - Day 1]((https://youtu.be/s3TXAyEnrqU)   ) - **KovaaKsRoamingCamouflagedCrossfire**  
+[FAR 3.0 - Day 1](https://youtu.be/s3TXAyEnrqU)- **KovaaKsRoamingCamouflagedCrossfire**  
 FAR 3.0 - Day 2 - **KovaaKsRocketingCanaryArena**  
 FAR 3.0 - Day 3 - **KovaaKsScreamingCanaryPrism**  
 FAR 3.0 - Day 4 - **KovaaKsSensingCapturedGamesense**  
