@@ -181,7 +181,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 **4BK - Static GOD (Day 1)** - KovaaKsAcingBrightTank [EXPLAINED](https://www.youtube.com/watch?v=DMvGY04qMm8&t)  
 **4BK - Full Tracking Mastery (Day 2)**	- KovaaKsBunnyhoppingSkyblueCard  
 
-## > **NEW UPDATED 2023 - F.A.R Full Accomplishment Routines (FAR)**  
+## > **2023 - F.A.R Full Accomplishment Routines (FAR 2)**  
 
 ### > [**HOW TO PLAY**](https://youtu.be/63_7mcF8acs)  
 <ins>🥇Amazing FULL Fundamental Playlists which takes the same concept as working out in the gym. These are by far my best and most recommended playlists</ins>  
