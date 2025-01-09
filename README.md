@@ -265,6 +265,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 4BK - Anti Boredom: - KovaaKsPingingNastyDoublepump [EXPLAINED](https://www.youtube.com/watch?v=BDouPnIlSu4&t)  
 **4BK - Low FOV Playlist:** KovaaKsFeedingTealPick [EXPLAINED](https://www.youtube.com/watch?v=FmhI6qFxwiU)  
 4BK - Reflexes & Punishments: **KovaaKsDodgingLongFieldupgrade**  
+4BK - Fov Conditioning(90fov) - **KovaaKsDinkingMauveFragger**  
 
 ## > **AimBeast**  
 **4BK - Advanced Fundamentals:** 
