@@ -85,7 +85,7 @@ Day 3: **KovaaKsNamedroppingBuffedJump**
 4BK - Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https://youtu.be/NWZcf9Rl6J8)   
 4BK - Buy My Coaching If This Helped You (TS) - **KovaaKsPatrollingCanaryBloom**  
 4BK - Guaranteed Reactive Fix (Play x3) - KovaaKsJigglepeekingButteryDps  
-
+4BK - Guaranteed Smoothness Fix - KovaaKsCrossfiring180Patrol  
 
 **4BK Surprise Factor**  
 4BK - Surprise Factor 1 - KovaaKsPoppingCanaryCash  
