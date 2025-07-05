@@ -55,7 +55,7 @@ FAR 3.0 - Day 7 - **KovaaKsStartingCharcoalgrayPatrol**
 
 **Variety Conditioning (NEW!!)**  
 4BK - Variety Conditioning (VC - Valorant & CS2) - **KovaaKsNamedroppingDinkedCheater**  
-Future Playlists to come  
+_Future Playlists to come_  
 
 
 Kek 1 - KovaaKsAscendingTealImpact  
