@@ -48,7 +48,7 @@ FAR 3.0 - Day 6 - **KovaaKsSnipingCharcoalgray1x1**
 FAR 3.0 - Day 7 - **KovaaKsStartingCharcoalgrayPatrol** 
 
 
-**DKP**
+**DKP**  
 4BK DKP - CS2 & VAL - KovaaKsPopping10xFullbuy  
 4BK DKP - Overwatch & Apex - KovaaKsPullingAcedChopper    
 4BK DKP - COD & BF - KovaaKsPlundering360Precision  
