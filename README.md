@@ -22,8 +22,9 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 
 # > Recommended (Popular Playlists)
 
-> **Beginners**  
+> **Beginners**
 
+4BK - Complete Beginner Playlist - KovaaKsAscendingGhostpeekedEntryfragger [EXPLAINED](https://youtu.be/MPMUwzL-S3I)  
 4BK - Beginner Fundamentals (Click Focus) - **KovaaKsFlashingCharcoalgrayFaq**  
 4BK - Beginner Fundamentals (Track Focus) - **KovaaKsGearingChatfraggedTimewarp**   
 4BK - Super Beginner Fundamentals (Click Focus) - **KovaaKsFinishingCapturedXur**  
