@@ -33,6 +33,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 4BK - STOP OVERFLICKING	**KovaaKsBobbingSalmonTroll**	[EXPLAINED](https://youtu.be/XNIYrW6dTQM)  
 4BK - Adaptive Scenarios **KovaaKsBoomstickingCamouflagedJump**  
 4BK - Ultimate Fortnite Playlist (Play x2) - **KovaaKsAscendingVibrantGhostpeeker**  
+4BK - Smoothness Easy - **KovaaKsChokingFlyInventory**  
 
 **Zero To Hero** [Fundamental Aim Routine](https://youtu.be/acM5R2DdO9E) _(ZTH)_  
 Week 0 _(Special Watch Video)_: **KovaaKsClickingFraggedBuildbattle**  
