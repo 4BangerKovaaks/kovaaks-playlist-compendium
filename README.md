@@ -151,6 +151,8 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 4BK x Trippez Gotta Go Fast 1 - **KovaaKsClickingSpringgreenReset**   
 4BK - FMS - **KovaaKsNamedroppingJebaitedNightfall**   
 4BK Conditioning Playlist: KovaaKsRevolvingEggplantFamas   
+4BK - Become Zaddy (Conditioining): KovaaKsPullingDinkedAimbot  
+4BK - Become Zaddy (VT Conditioning): KovaaKsQuestingDownedFrag
 
 <ins>Recommended Fundamental routines if you're a beginner⬇️</ins>  
 4BK - Beginner Fundamentals (Click Focus) - KovaaKsFlashingCharcoalgrayFaq  
