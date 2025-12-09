@@ -49,6 +49,8 @@ FAR 3.0 - Day 5 - **KovaaKsSneakingCeruleanCinematic**
 FAR 3.0 - Day 6 - **KovaaKsSnipingCharcoalgray1x1**    
 FAR 3.0 - Day 7 - **KovaaKsStartingCharcoalgrayPatrol** 
 
+[STS 2 (NEW)](https://docs.google.com/spreadsheets/d/1UUqkLHMubTpoJqWyakYqcjDWHPJcLP1nE2UOtapxE78/edit?gid=539252861#gid=539252861)  
+[STS 1](https://docs.google.com/spreadsheets/d/1Tvz3O67735BxKJCVuaI2z_O3E09ghsYaYqqh0tnHMUY/edit?gid=956015131#gid=956015131)  
 
 **DKP**  
 4BK DKP - CS2 & VAL - KovaaKsPopping10xFullbuy  
