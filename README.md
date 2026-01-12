@@ -2,7 +2,7 @@
 
 [**SOCIALS + WRITE ON MY DISCORD, TO ME TO SUGGEST YOUR OWN PLAYLISTS**](https://linktr.ee/4bangerkovaaks)
 
-Compendium / Collection of playlists for KovaaK's. Their the ones I found worthwhile and once I've created for specific games or specific issues you might have or encounter.
+Compendium / Collection of playlists for KovaaK's. They're the ones I found worthwhile and ones I've created for specific games or specific issues you might have or encounter.
 
 This compendium is ONLY for playlists that I consider worthwhile & not an overall compendium of random kovaaks playlists I've found.
 
@@ -18,7 +18,7 @@ This compendium is ONLY for playlists that I consider worthwhile & not an overal
 [**Eye training Video by Ottr**](https://www.youtube.com/watch?v=WAPKAZhOFM4)  
 [**Great Way To Focus 40hz Binural Beats**](https://www.youtube.com/watch?v=1_G60OdEzXs)  
 [**Binaural beats for sleep** This one is amazing](https://www.youtube.com/watch?v=Y39WIwff0zk&t)  
-
+[**Mousepad comparison and recommendation tool**](https://mousectrl.com/)  
 
 # > Recommended (Popular Playlists)
 
@@ -153,7 +153,7 @@ Valorant / CSGO Playlist - **KovaaKsRevolvingBuffedSentinel** [EXPLAINED](https:
 4BK x Trippez Gotta Go Fast 1 - **KovaaKsClickingSpringgreenReset**   
 4BK - FMS - **KovaaKsNamedroppingJebaitedNightfall**   
 4BK Conditioning Playlist: KovaaKsRevolvingEggplantFamas   
-4BK - Become Zaddy (Conditioining): KovaaKsPullingDinkedAimbot  
+4BK - Become Zaddy (Conditioning): KovaaKsPullingDinkedAimbot  
 4BK - Become Zaddy (VT Conditioning): KovaaKsQuestingDownedFrag
 
 <ins>Recommended Fundamental routines if you're a beginner⬇️</ins>  
@@ -202,7 +202,7 @@ Day 2 Reactive Strafes + Static: **KovaaKsQuestingViscousOfftank**
 Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsReloadingWeeklyCapture**  
 Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRevolvingWetMilestone**  
 Day 5 Dynamic + Smooth Reactive: **KovaaKsRocketingWideBuff**  
-Day 6 Reflexes + Tracking Gauntles: **KovaaKsSensingYellowJump**  
+Day 6 Reflexes + Tracking Gauntlets: **KovaaKsSensingYellowJump**  
 Day 7 FULL : **KovaaKsStarting90Binding**  
 
 ### > **EASY VERSIONS**  
@@ -211,7 +211,7 @@ Day 2 Reactive Strafes + Static: **KovaaKsRaidingVividtangerineFaq**
 Day 3 Precision Tracking + Speed TargetSwitching: **KovaaKsResettingWeeklyTimewarp**  
 Day 4 Movement Tracking + Accurate TargetSwitching: **KovaaKsRoamingWhiteEngram**  
 Day 5 Dynamic + Smooth Reactive: **KovaaKsScreamingWideSpeed**  
-Day 6 Reflexes + Tracking Gauntles: **KovaaKsSneakingZonedDoor**  
+Day 6 Reflexes + Tracking Gauntlets: **KovaaKsSneakingZonedDoor**  
 Day 7 FULL: **KovaaKsStrafing90Rifle**  
 
 
@@ -248,7 +248,7 @@ Day 7 FULL: **KovaaKsStrafing90Rifle**
 
  ## > **CUSTOMIZE YOUR OWN PLAYLIST (ALL NEWLY REVAMPED)**  
 **HOW TO PLAY FOUND HERE** - [Watch Tutorial Video](https://youtu.be/m-23jo8QyKA)  
-*Accuraccy + Flicking* - **KovaaKsRocketingJebaitedGhostpeeker**  
+*Accuracy + Flicking* - **KovaaKsRocketingJebaitedGhostpeeker**  
 *Corrective Flicking* - **KovaaKsScreamingJitteryClient**  
 *Dodge Complete* - **KovaaKsSensingJumboAds**  
 *Fast Clicking* (Dynamic) - **KovaaKsSneakingJumboPick**  
@@ -341,7 +341,7 @@ Intermediate Apex Legends
 Advanced Apex Legends  
 [HARD] Tracking GOD Training  
 Goated Scens  
-Solider 76 - Pipi  
+Soldier 76 - Pipi  
   
 ## > **COMMON STRUGGLES**  
   
@@ -497,7 +497,7 @@ WOWEY(MOVEMENT) - KovaaKsScreamingNavyblueEngram
 4BK - Anal Beads - KovaaKsDroppingBrightBot  
 4BK - Fire & Ice - KovaaKsWipingNastyAntieco  
 4BK - Tracking Mastery - KovaaKsBunnyhoppingSkyblueCard  
-4BK - Overwatch 2 Solider 69 (OW) - HARD - KovaaKsTrollingDinkedJump  
+4BK - Overwatch 2 Soldier 69 (OW) - HARD - KovaaKsTrollingDinkedJump  
 Trippez smooth reactivity 1 - KovaaKsQuestingSepiaProjectile  
 Trippez smooth reactivity 2 - KovaaKsBombingPeriwinkleQuest  
 Trippez smooth reactivity 3 - KovaaKsFeedingVioletXur  
@@ -507,7 +507,7 @@ RSR (Full Movement) - KovaaKsPerfectingPrismaticGasmask
 MBM Tracking (Thin Reactive + movement) - KovaaKsPlunderingBlueValue  
 Krasci 1o1 Track - KovaaKsPoppingBoxedMouse  
 PureG Apex (short) - KovaaKsPatrollingFuchsiaIntelligence  
-4BK - Advanced Fundamenetals (Aimbeast)  
+4BK - Advanced Fundamentals (Aimbeast)  
 4BK: Tracking Conditioning - KovaaKsBunnyhoppingWideDoor  
 Tragedy Tracer God - KovaaKsKillstreakingRandomPopcorn  
 Sined - Soldier 76 - KovaaKsAscendingGoodGoat  
