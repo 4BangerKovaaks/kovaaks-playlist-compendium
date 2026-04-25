@@ -61,7 +61,7 @@ FAR 3.0 - Day 7 - **KovaaKsStartingCharcoalgrayPatrol**
 4BK - Variety Conditioning (VC - Valorant & CS2) - **KovaaKsNamedroppingDinkedCheater**  
 _Future Playlists to come_  
 
-**4BK C.A.L.M / CALM**
+**4BK C.A.L.M / CALM**  
 4BK - CALM LEARN (Recommended) - KovaaKsMainingBuffedMomentum  
 4BK - CALM PLAY - KovaaKsPeekingCaffeinatedScoutrifle  
 4BK - CALM LEARN & PLAY - KovaaKsPeakingCaffeinatedBlueberry  
